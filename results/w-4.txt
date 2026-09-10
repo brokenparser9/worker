@@ -314,3 +314,13 @@ https://aka.ms/
 https://www.caterpillar.com/en/investors/financial-information/proxy-materials/annual-meeting-proxy-statement.html
 https://www.caterpillar.com/en/investors/financial-information/proxy-statement.html
 https://s7d2.scene7.com/is/content/Caterpillar/CM20250501-a8566-25bfd
+https://stackoverflow.com/questions/1959062/how-to-add-anchor-tag-to-a-url-from-text-input
+https://stackoverflow.com/questions/37387711/page-loaded-over-https-but-requested-an-insecure-xmlhttprequest-endpoint
+https://stackoverflow.com/questions/953639/connecting-to-ws-security-protected-web-service-with-php
+https://stackoverflow.com/questions/12667797/using-curl-to-upload-post-data-with-files
+https://stackoverflow.com/questions/7865669/opening-a-new-page-in-php-on-a-button-press
+https://stackoverflow.com/questions/75562662/vscode-dev-container-doesnt-install-extensions-behind-corporate-proxy
+https://stackoverflow.com/questions/469964/unable-to-connect-to-mssql-database-via-php
+https://stackoverflow.com/questions/39118999/get-tld-from-url-via-php
+https://stackoverflow.com/questions/10299148/mysql-error-1045-28000-access-denied-for-user-billlocalhost-using-passw
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/8k_carding_dorks__).txt
