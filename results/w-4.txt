@@ -270,3 +270,9 @@ http://www3.prudential.com/
 https://fisglobal.gcs-web.com/
 https://investors.publicstorage.com/
 https://www.limbachinc.com/investor-relations/financial-info/proxy-statements/
+https://stackoverflow.com/questions/9478104/check-proxy-using-php
+https://www.langenlois.at/
+https://docs.oracle.com/en-us/iaas/Content/WAF/Reference/protectionruleids.htm
+https://en.wikipedia.org/wiki/HTTP_404
+https://www.langenlois.at/phpmyadmin/doc/html/faq.html
+https://www.quora.com/How-do-I-remove-a-PHP-extension-from-a-URL-such-that-if-the-page-is-viewed-with-a-*-PHP-extension-it-will-give-a-404-error
