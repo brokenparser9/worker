@@ -493,3 +493,17 @@ https://nginx.org/en/docs/http/ngx_http_core_module.html
 https://docs.saucelabs.com/dev/cli/sauce-connect-proxy/
 https://www.drupal.org/forum/support/post-installation/2020-04-06/solved-drupal-8-is-adding-indexphp-in-url
 https://curl.se/docs/tutorial.html
+https://stackoverflow.com/questions/173868/how-can-i-get-a-files-extension-in-php
+https://httpd.apache.org/
+https://inphinit.github.io/
+https://developer.mozilla.org/
+https://doc.wikimedia.org/
+https://www.cve.org/
+http://182.253.238.218/
+https://httpd.apache.org/docs/current/mod/core.html
+https://inphinit.github.io/en/docs/packages/inphinit-proxy.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP
+https://www.reddit.com/r/phinvest/comments/mh0t2o/how_does_one_get_access_to_ph_public_company/
+https://doc.wikimedia.org/mediawiki-core/master/php/ExtensionRegistry_8php_source.html
+https://github.com/oliver-moran/php-proxy/blob/master/index.php
+https://www.php.net/manual/en/function.include.php
