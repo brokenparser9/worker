@@ -575,3 +575,12 @@ https://fisglobal.gcs-web.com/
 https://investor.prudential.com/
 https://www.sec.gov/answers/proxy.htm
 https://www.enpro.com/for-investors/financials/proxy-statements/default.aspx
+https://stackoverflow.com/questions/17976764/why-cant-php-on-windows-see-extension-php-intl-dll-even-though-it-exists
+https://stackoverflow.com/questions/29973619/how-to-associate-a-file-extension-with-a-certain-language-in-vs-code
+https://stackoverflow.com/questions/29822686/curl-error-60-ssl-certificate-unable-to-get-local-issuer-certificate
+https://stackoverflow.com/questions/3481880/what-php-extensions-are-preferred-and-what-about-security-preferences
+https://stackoverflow.com/questions/59336951/message-trying-to-access-array-offset-on-value-of-type-null
+https://stackoverflow.com/questions/29395452/php-connection-failed-sqlstatehy000-2002-connection-refused
+https://stackoverflow.com/questions/68876020/use-php-change-link-address-in-html-source-code
+https://stackoverflow.com/questions/43910868/fatal-unable-to-update-url-base-from-redirection
+https://stackoverflow.com/questions/23740548/how-do-i-pass-variables-and-data-from-php-to-javascript
