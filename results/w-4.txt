@@ -95,3 +95,13 @@ https://github.com/oliver-moran/php-proxy/blob/master/index.php
 https://www.php.net/ChangeLog-8.php
 https://www.quora.com/How-do-I-view-a-PHP-source-code-of-a-website-just-like-we-see-the-HTML-and-other-codes
 https://pubmed.ncbi.nlm.nih.gov/help/
+https://stackoverflow.com/questions/18271173/php-check-if-url-parameter-exists
+https://stackoverflow.com/questions/45901342/how-to-include-php-code-in-an-url
+https://stackoverflow.com/questions/36577020/php-failed-to-open-stream-no-such-file-or-directory
+https://stackoverflow.com/questions/75280273/how-to-install-and-enable-php-ext-exif-on-github-codespace-linux
+https://stackoverflow.com/questions/6768793/get-the-full-url-in-php
+https://stackoverflow.com/questions/1646514/apache-reverse-proxy-authentication-via-php
+https://stackoverflow.com/questions/5831683/how-to-hide-php-from-address-bar
+https://stackoverflow.com/questions/36971816/php-check-value-against-multiple-values-with-or-operator
+https://stackoverflow.com/questions/21484118/how-to-extract-variable-part-from-url-and-how-to-know-if-url-variable-is-appende
+https://stackoverflow.com/questions/858357/detect-clients-with-proxy-servers-via-php
