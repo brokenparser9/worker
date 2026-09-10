@@ -375,3 +375,7 @@ https://stackoverflow.com/questions/62852398/how-to-get-url-path-in-php-index-fi
 https://www.sec.gov/Archives/edgar/data/2040807/000119312525242494/d53787ddefm14a.htm
 https://aoreltd.com/
 https://aoreltd.com/proxy-statements/
+https://stackoverflow.com/questions/2133155/getting-the-host-and-uri-in-php-when-request-is-passed-via-a-proxy
+https://gist.github.com/adrienne/5829683
+https://aws.amazon.com/blogs/security/how-to-access-aws-resources-from-microsoft-entra-id-tenants-using-aws-security-token-service/
+https://developer.adobe.com/commerce/php/development/components/web-api/services
