@@ -1,0 +1,698 @@
+name: dork-swarm
+
+on:
+  workflow_dispatch:
+    inputs:
+      workers:
+        description: "Number of workers (1-15)"
+        required: true
+        default: "5"
+        type: string
+
+      pages:
+        description: "Pages per dork"
+        required: true
+        default: "5"
+        type: string
+
+      delay:
+        description: "Delay seconds between pages"
+        required: true
+        default: "4"
+        type: string
+
+      job_id:
+        description: "Brain Hub job ID"
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brain-hub-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+
+  setup:
+    name: Prepare workers
+    runs-on: ubuntu-latest
+
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+
+    steps:
+
+      - name: Validate inputs
+        env:
+          WORKERS: ${{ inputs.workers }}
+          PAGES: ${{ inputs.pages }}
+          DELAY: ${{ inputs.delay }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import sys
+
+          workers = int(os.environ["WORKERS"])
+          pages = int(os.environ["PAGES"])
+          delay = float(os.environ["DELAY"])
+
+          if not 1 <= workers <= 15:
+              print("::error::workers must be between 1 and 15")
+              sys.exit(1)
+
+          if pages < 1:
+              print("::error::pages must be >= 1")
+              sys.exit(1)
+
+          if delay < 0:
+              print("::error::delay must be >= 0")
+              sys.exit(1)
+
+          print(f"workers={workers}")
+          print(f"pages={pages}")
+          print(f"delay={delay}")
+          PY
+
+      - name: Build worker matrix
+        id: matrix
+        env:
+          WORKERS: ${{ inputs.workers }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          import os
+
+          workers = int(os.environ["WORKERS"])
+
+          print(
+              "matrix=" +
+              json.dumps({
+                  "worker": [
+                      f"w-{i}"
+                      for i in range(1, workers + 1)
+                  ]
+              })
+          )
+          PY
+
+  scrape:
+    name: Worker ${{ matrix.worker }}
+    needs: setup
+
+    strategy:
+      fail-fast: false
+      max-parallel: 15
+
+      matrix: ${{ fromJSON(needs.setup.outputs.matrix) }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ---------------------------------------------------------
+      # PUBLIC REPO (this repo — the one you trigger from)
+      # ---------------------------------------------------------
+
+      - name: Checkout user repository
+        uses: actions/checkout@v4
+        with:
+          path: user_repo
+          fetch-depth: 1
+
+      # ---------------------------------------------------------
+      # PRIVATE REPO (praisethefool7/Dork-results)
+      #
+      # Source for worker/*.py, solver.html, extension.bin.*
+      # Pulled in with SOURCE_REPO_TOKEN, never written back.
+      # ---------------------------------------------------------
+
+      - name: Checkout private source
+        uses: actions/checkout@v4
+        with:
+          repository: praisethefool7/Dork-results
+          ref: main
+          token: ${{ secrets.SOURCE_REPO_TOKEN }}
+          path: source
+          fetch-depth: 1
+
+      # ---------------------------------------------------------
+      # DORK INPUT
+      # ---------------------------------------------------------
+
+      - name: Validate dorks
+        working-directory: user_repo
+        run: |
+          set -euo pipefail
+
+          if [ ! -f dorks.txt ]; then
+            echo "::error::dorks.txt not found"
+            exit 1
+          fi
+
+          if ! grep -qve '^[[:space:]]*$' dorks.txt; then
+            echo "::error::dorks.txt is empty"
+            exit 1
+          fi
+
+          COUNT="$(grep -cve '^[[:space:]]*$' dorks.txt || true)"
+
+          echo "Dorks available: ${COUNT}"
+
+      - name: Inject assigned dorks
+        run: |
+          set -euo pipefail
+
+          cp user_repo/dorks.txt source/dorks.txt
+
+          test -s source/dorks.txt
+
+          if [ -n "${{ inputs.job_id }}" ]; then
+            printf '%s\n' "${{ inputs.job_id }}" \
+              > source/.brain_hub_job_id
+          fi
+
+      # ---------------------------------------------------------
+      # PYTHON
+      # ---------------------------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ---------------------------------------------------------
+      # PLAYWRIGHT / CHROMIUM + LOCAL OCR + LOCAL ASR
+      #
+      # ddddocr:        text-CAPTCHA OCR (Google /sorry/ legacy)
+      # faster-whisper: reCAPTCHA v2 audio-challenge ASR
+      #
+      # Both bring their own models on first use. No cloud API.
+      # No API key. Runs on CPU.
+      # ---------------------------------------------------------
+
+      - name: Install browser dependencies
+        run: |
+          set -euo pipefail
+
+          python -m pip install --upgrade pip
+          pip install playwright ddddocr faster-whisper
+
+          playwright install --with-deps chromium
+
+          sudo apt-get update
+
+          sudo apt-get install -y \
+            xvfb \
+            unzip \
+            wget \
+            ffmpeg
+
+      # ---------------------------------------------------------
+      # CLOUDFLARED (manual CAPTCHA tunnel fallback)
+      # ---------------------------------------------------------
+
+      - name: Install cloudflared
+        run: |
+          wget -q \
+            https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 \
+            -O /tmp/cloudflared
+          chmod +x /tmp/cloudflared
+          /tmp/cloudflared --version
+
+      # ---------------------------------------------------------
+      # RAPTOR EXTENSION — reassembled from private repo
+      # extension.bin.1 + .2 + .3 → validated ZIP → extracted
+      # → WS addon overlaid → manifest strictly validated.
+      # Buster is never loaded.
+      # ---------------------------------------------------------
+
+      - name: Prepare Raptor extension (Buster never loaded)
+        working-directory: source
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          EXT_DIR="/tmp/free-ai-recaptcha-solver"
+          EXTRACT_DIR="/tmp/free-ai-recaptcha-solver-extracted"
+          RECONSTRUCTED="/tmp/free-ai-recaptcha-solver.bin"
+
+          echo "========================================"
+          echo "      RAPTOR EXTENSION PREPARATION"
+          echo "      (Buster is never loaded)"
+          echo "========================================"
+
+          rm -rf "${EXT_DIR}" "${EXTRACT_DIR}" "${RECONSTRUCTED}"
+          mkdir -p "${EXT_DIR}" "${EXTRACT_DIR}"
+
+          for PART in extension.bin.1 extension.bin.2 extension.bin.3; do
+            if [ ! -f "${PART}" ]; then
+              echo "::error::${PART} was not found in the private source repository."
+              echo "Cannot reconstruct the Raptor extension without all three parts."
+              exit 1
+            fi
+
+            PART_SIZE="$(stat -c %s "${PART}")"
+            echo "${PART} exists (${PART_SIZE} bytes)"
+          done
+
+          echo "Reconstruction order: extension.bin.1 -> extension.bin.2 -> extension.bin.3"
+          cat extension.bin.1 extension.bin.2 extension.bin.3 > "${RECONSTRUCTED}"
+
+          RECONSTRUCTED_SIZE="$(stat -c %s "${RECONSTRUCTED}")"
+          RECONSTRUCTED_SHA256="$(sha256sum "${RECONSTRUCTED}" | awk '{print $1}')"
+
+          echo "Reconstructed archive: ${RECONSTRUCTED}"
+          echo "Reconstructed archive size: ${RECONSTRUCTED_SIZE} bytes"
+          echo "Reconstructed archive SHA256: ${RECONSTRUCTED_SHA256}"
+
+          python3 - "${RECONSTRUCTED}" <<'PY'
+          import sys
+          from pathlib import Path
+
+          archive = Path(sys.argv[1])
+
+          with archive.open("rb") as f:
+              magic = f.read(4)
+
+          print(f"Archive magic bytes: {magic.hex()} ({magic!r})")
+
+          if magic not in (b"PK\x03\x04", b"PK\x05\x06", b"PK\x07\x08"):
+              print(
+                  "::error::Reconstructed extension parts did not produce a ZIP archive. "
+                  "Refusing to continue: only the Raptor extension may be loaded, "
+                  "and there is no fallback. Check extension.bin.1, extension.bin.2, "
+                  "and extension.bin.3 in the source repository."
+              )
+              sys.exit(1)
+          PY
+
+          echo "Archive validation: running unzip -t"
+
+          if ! unzip -t "${RECONSTRUCTED}" > /tmp/free-ai-recaptcha-solver-unzip-test.log 2>&1; then
+            echo "::error::Reconstructed Raptor extension archive failed ZIP validation."
+            cat /tmp/free-ai-recaptcha-solver-unzip-test.log
+            exit 1
+          fi
+
+          tail -20 /tmp/free-ai-recaptcha-solver-unzip-test.log
+          echo "Archive validation: OK"
+
+          echo "Extraction directory: ${EXTRACT_DIR}"
+          unzip -q "${RECONSTRUCTED}" -d "${EXTRACT_DIR}"
+
+          if [ -f "${EXTRACT_DIR}/manifest.json" ]; then
+            BASE_DIR="${EXTRACT_DIR}"
+          else
+            BASE_MANIFEST="$(find "${EXTRACT_DIR}" \
+              -type f \
+              -name 'manifest.json' \
+              -print \
+              -quit)"
+
+            if [ -z "${BASE_MANIFEST}" ]; then
+              echo "::error::Archive extracted successfully, but no manifest.json was found."
+              echo "Extracted files:"
+              find "${EXTRACT_DIR}" -maxdepth 4 -type f -print | sort
+              exit 1
+            fi
+
+            BASE_DIR="$(dirname "${BASE_MANIFEST}")"
+          fi
+
+          rm -rf "${EXT_DIR}"
+          mkdir -p "${EXT_DIR}"
+          cp -a "${BASE_DIR}/." "${EXT_DIR}/"
+
+          echo "Base Raptor extension extracted to: ${EXT_DIR}"
+
+          echo "Fetching the official CaptchaRaptor WS addon..."
+          rm -rf /tmp/captchaplugin
+          git clone --depth 1 \
+            https://github.com/CaptchaRaptor/captchaplugin.git \
+            /tmp/captchaplugin
+
+          mkdir -p "${EXT_DIR}/ws"
+
+          cp /tmp/captchaplugin/ws-addon/ws/background_ws.js \
+            "${EXT_DIR}/ws/background_ws.js"
+
+          cp /tmp/captchaplugin/ws-addon/ws/offscreen.html \
+            "${EXT_DIR}/ws/offscreen.html"
+
+          cp /tmp/captchaplugin/ws-addon/ws/offscreen.js \
+            "${EXT_DIR}/ws/offscreen.js"
+
+          cp /tmp/captchaplugin/ws-addon/ws/recaptcha_frame_watch.js \
+            "${EXT_DIR}/ws/recaptcha_frame_watch.js"
+
+          cp /tmp/captchaplugin/ws-addon/manifest.json \
+            "${EXT_DIR}/manifest.json"
+
+          echo "Raptor WS addon installed."
+
+          FINAL_MANIFEST="${EXT_DIR}/manifest.json"
+
+          if [ ! -f "${FINAL_MANIFEST}" ]; then
+            echo "::error::Final extension directory does not contain manifest.json."
+            echo "Final extension directory: ${EXT_DIR}"
+            find "${EXT_DIR}" -maxdepth 4 -type f -print | sort
+            exit 1
+          fi
+
+          echo "Extension directory: ${EXT_DIR}"
+          echo "Manifest path: ${FINAL_MANIFEST}"
+
+          python3 - "${FINAL_MANIFEST}" <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          path = Path(sys.argv[1])
+
+          try:
+              data = json.loads(path.read_text(encoding="utf-8"))
+          except Exception as exc:
+              print(f"::error::Could not parse manifest.json: {exc}")
+              sys.exit(1)
+
+          name = str(data.get("name", ""))
+          background = data.get("background", {}) or {}
+          service_worker = background.get("service_worker")
+          permissions = set(data.get("permissions", []))
+
+          print(f"Manifest name: {name}")
+          print(f"Manifest extension version: {data.get('version', 'unknown')}")
+          print(f"Manifest manifest_version: {data.get('manifest_version', 'unknown')}")
+          print(f"Manifest service_worker: {service_worker}")
+          print(f"Manifest permissions: {sorted(permissions)}")
+
+          lowered = name.lower()
+
+          if "buster" in lowered:
+              print(
+                  "::error::BUSTER EXTENSION DETECTED. This workflow only "
+                  "loads the Raptor extension. Refusing to continue."
+              )
+              sys.exit(1)
+
+          is_raptor = (
+              "captcharaptor" in lowered
+              or "raptor" in lowered
+              or "free ai recaptcha solver" in lowered
+          )
+
+          if not is_raptor:
+              print(
+                  f"::error::Unknown extension in manifest: {name!r}. "
+                  "Only the Raptor extension is allowed."
+              )
+              sys.exit(1)
+
+          if service_worker != "background.js":
+              print(
+                  "::error::Unexpected Raptor service worker: "
+                  f"{service_worker!r} (expected 'background.js')"
+              )
+              sys.exit(1)
+
+          missing = {"tabs", "debugger", "offscreen"} - permissions
+          if missing:
+              print(
+                  "::error::Raptor WS addon permissions missing: "
+                  f"{sorted(missing)}"
+              )
+              sys.exit(1)
+
+          print("Raptor WS manifest validation: OK")
+          PY
+
+          echo
+          echo "Extension files:"
+          find "${EXT_DIR}" \
+            -maxdepth 3 \
+            -type f \
+            -print \
+            | sort \
+            | head -100
+
+          echo
+          echo "Raptor extension preparation complete. Buster was not loaded."
+
+      # ---------------------------------------------------------
+      # RAPTOR API KEY (required by the WS addon)
+      # ---------------------------------------------------------
+
+      - name: Check CaptchaPlugin API key secret
+        env:
+          CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${CAPTCHA_PLUGIN_API_KEY}" ]; then
+            echo "::error::CAPTCHA_PLUGIN_API_KEY GitHub Secret is missing."
+            echo "The Raptor WS addon requires it. Add it in Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+
+          echo "CAPTCHA_PLUGIN_API_KEY is configured as a GitHub Secret."
+          echo "The key itself will not be printed."
+
+      # ---------------------------------------------------------
+      # PRIVATE WORKER COMPATIBILITY
+      #
+      # worker.py v4.0 already defines debug_event /
+      # install_debug_listeners / check_command, so this patch is
+      # a no-op. Kept in place so an older worker.py drop-in
+      # still works without editing the workflow.
+      # ---------------------------------------------------------
+
+      - name: Patch worker compatibility helpers
+        working-directory: source
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("worker/worker.py")
+
+          if not path.exists():
+              raise SystemExit("worker/worker.py not found")
+
+          text = path.read_text(
+              encoding="utf-8",
+              errors="replace"
+          )
+
+          helpers = r'''
+          # ---------- Brain Hub compatibility helpers ----------
+
+          def debug_event(*args, **kwargs):
+              return None
+
+
+          def install_debug_listeners(*args, **kwargs):
+              return None
+
+
+          def check_command():
+              try:
+                  content, _ = gh_get(CMD_PATH)
+
+                  data = json.loads(content)
+
+                  if isinstance(data, dict):
+                      command = data.get("command")
+
+                      if isinstance(command, str):
+                          return command.strip().lower()
+
+              except Exception:
+                  pass
+
+              return None
+
+          # ---------- end Brain Hub compatibility helpers ----------
+          '''
+
+          required = (
+              "def debug_event(",
+              "def install_debug_listeners(",
+              "def check_command(",
+          )
+
+          if any(item not in text for item in required):
+
+              marker = "\ndef main():"
+
+              if marker not in text:
+                  raise SystemExit(
+                      "main() marker not found"
+                  )
+
+              text = text.replace(
+                  marker,
+                  "\n" +
+                  helpers +
+                  "\n" +
+                  "def main():",
+                  1
+              )
+
+              path.write_text(
+                  text,
+                  encoding="utf-8"
+              )
+
+          print("Worker compatibility helpers ready.")
+          PY
+
+      # ---------------------------------------------------------
+      # VERIFY PRIVATE WORKER
+      # ---------------------------------------------------------
+
+      - name: Verify worker
+        working-directory: source
+        run: |
+          set -euo pipefail
+
+          echo "========================================"
+          echo "        PRIVATE REPO INSPECTION"
+          echo "========================================"
+          echo "Working directory: $(pwd)"
+          echo
+          echo "Contents of worker/:"
+          if [ -d worker ]; then
+            ls -la worker/
+          else
+            echo "!! worker/ DIRECTORY DOES NOT EXIST"
+          fi
+          echo
+          echo "Search for worker.py:"
+          find . -name 'worker.py' -print
+          echo "Search for captcha_clicker.py:"
+          find . -name 'captcha_clicker.py' -print
+          echo "Search for text_captcha.py:"
+          find . -name 'text_captcha.py' -print
+          echo "Search for captcha_solver.py (should be gone):"
+          find . -name 'captcha_solver.py' -print
+          echo "========================================"
+
+          test -f worker/worker.py
+          test -f worker/captcha_clicker.py
+          test -f worker/text_captcha.py
+
+          python3 -m py_compile \
+            worker/worker.py \
+            worker/captcha_clicker.py \
+            worker/text_captcha.py
+
+          echo "worker.py + captcha_clicker.py + text_captcha.py syntax: OK"
+
+      # ---------------------------------------------------------
+      # VERIFY RAPTOR EXTENSION BEFORE WORKER (BUSTER = FAIL)
+      # ---------------------------------------------------------
+
+      - name: Verify Raptor extension
+        run: |
+          set -euo pipefail
+
+          EXT_DIR="/tmp/free-ai-recaptcha-solver"
+
+          test -d "${EXT_DIR}"
+          test -f "${EXT_DIR}/manifest.json"
+
+          echo "Extension directory exists: ${EXT_DIR}"
+          echo "manifest.json exists: ${EXT_DIR}/manifest.json"
+
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("/tmp/free-ai-recaptcha-solver/manifest.json")
+
+          data = json.loads(
+              path.read_text(
+                  encoding="utf-8"
+              )
+          )
+
+          name = str(data.get("name", ""))
+          lowered = name.lower()
+
+          print("Manifest path:", path)
+          print("Manifest name:", name)
+          print("Manifest extension version:", data.get("version", "unknown"))
+          print("Manifest manifest_version:", data.get("manifest_version", "unknown"))
+
+          if "buster" in lowered:
+              raise SystemExit(
+                  "BUSTER EXTENSION DETECTED at verify stage. "
+                  "Only the Raptor extension may be loaded. Failing."
+              )
+
+          if not (
+              "captcharaptor" in lowered
+              or "raptor" in lowered
+              or "free ai recaptcha solver" in lowered
+          ):
+              raise SystemExit(
+                  f"Unknown extension in manifest: {name!r}. "
+                  "Only the Raptor extension is allowed."
+              )
+
+          print("Raptor extension verify: OK")
+          PY
+
+      # ---------------------------------------------------------
+      # WORKER
+      # ---------------------------------------------------------
+
+      - name: Run worker
+        working-directory: source
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+
+          WORKER: ${{ matrix.worker }}
+          WORKERS: ${{ inputs.workers }}
+
+          PAGES: ${{ inputs.pages }}
+          DELAY: ${{ inputs.delay }}
+
+          EXTENSION_PATH: /tmp/free-ai-recaptcha-solver
+          CAPTCHA_SOLVER: "CaptchaRaptor WS"
+          CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
+
+        run: |
+          set -euo pipefail
+
+          echo "========================================"
+          echo "          DORK SWARM WORKER"
+          echo "   (Raptor + clicker + ddddocr + whisper)"
+          echo "========================================"
+
+          echo "Repository: ${GH_REPO}"
+          echo "Worker:     ${WORKER}"
+          echo "Workers:    ${WORKERS}"
+          echo "Pages:      ${PAGES}"
+          echo "Delay:      ${DELAY}"
+          echo "Extension:  ${EXTENSION_PATH}"
+          echo "Solver:     ${CAPTCHA_SOLVER}"
+
+          test -f worker/worker.py
+          test -f worker/captcha_clicker.py
+          test -f worker/text_captcha.py
+
+          xvfb-run \
+            -a \
+            --server-args="-screen 0 1280x900x24" \
+            python3 worker/worker.py
