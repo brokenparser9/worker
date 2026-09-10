@@ -256,3 +256,11 @@ https://www.inmotionhosting.com/support/website/what-is-your-default-php-ini-fil
 https://docs.phpmyadmin.net/en/release_5_1_0/faq.html#:~:text=1.34%20Can%20I%20directly%20access,a%20URL%20like%20http%3A%2F%2Fserver%2FphpMyAdmin%2Findex.php%3Fserver%3DX%26db%3Ddatabase%26table%3Dtable%26target%3Dscript%20.
 https://www.php.net/manual/en/function.curl-getinfo.php
 https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_File_Inclusion
+https://stackoverflow.com/questions/26602923/how-to-solve-the-issue-please-install-the-intl-extension-for-full-localizati
+https://stackoverflow.com/questions/2505697/how-to-code-feature-on-checking-visitor-ip-address-in-php
+https://stackoverflow.com/questions/47776522/php-undefined-index-notice-when-reading-array-from-cookie
+https://stackoverflow.com/questions/1075409/creating-your-own-tinyurl
+https://stackoverflow.com/questions/21803509/remove-php-file-extension-from-the-url
+https://stackoverflow.com/questions/55982280/how-to-get-value-from-url-in-php
+https://stackoverflow.com/questions/71025115/dealing-with-php-8-1-warning-for-undefined-array-key
+https://stackoverflow.com/questions/59149877/visual-studio-code-php-intelephense-keeps-showing-a-not-existing-error
