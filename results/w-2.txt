@@ -407,3 +407,10 @@ https://www.sec.gov/Archives/edgar/data/1655971/000149315219005201/form10-k.htm
 https://www.sec.gov/Archives/edgar/data/1832038/000119312526092547/ivvd-20251231.htm
 https://www.sec.gov/Archives/edgar/data/1617977/000119312520023204/d844702dprem14a.htm
 https://www.sec.gov/Archives/edgar/data/1974044/000119312523242470/d497333d424b3.htm
+https://www.sec.gov/Archives/edgar/data/1870897/000109690621003062/madv_1aa.htm
+https://www.americanprogress.org/article/fighting-special-interest-lobbyist-power-public-policy/?__cf_chl_rt_tk=y7PZvneCeeYl_zt_CZ.AGpnVWGpdFSgIpgMaS3PBvwM-1789080637-1.0.1.1-DXbMBXgjUOTh7Hoqdpx.bf_jSeKaVFzvG71lJy0IRCc
+https://www.federalregister.gov/documents/2013/12/26/2013-30465/uniform-administrative-requirements-cost-principles-and-audit-requirements-for-federal-awards
+https://sso.sagepub.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Facr_values%3Dlogin%253Ainteractive%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Flibrary.cqpress.com%252Flogin.php%26client_id%3DCQLibrary.Web%26nonce%3D79cbb8cf9546ef74bf1894d34c6d4719%26state%3Dc4e2e6aa94529983b34f041a321b3c96%26scope%3Dinstitution%2520openid%26code_challenge%3DI2IVWPcSRuD1WziEdyuZmPowU7-0yyzT-AqgDSociNE%26code_challenge_method%3DS256#_
+https://houstonlawreview.org/
+https://library.cqpress.com/
+https://www.govinfo.gov/content/pkg/FR-2013-12-26/pdf/2013-30465.pdf
