@@ -648,3 +648,4 @@ https://en.wikipedia.org/wiki/HTTP_cookie
 https://developer.paypal.com/braintree/docs/reference/general/validation-errors/all/php/
 https://github.com/SAML-Toolkits/php-saml
 https://httpd.apache.org/docs/2.4/mod/mod_ssl.html
+https://stackoverflow.com/questions/2928827/access-php-var-from-external-javascript-file
