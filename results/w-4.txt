@@ -229,3 +229,12 @@ https://benjitrapp.github.io/memories/2022-08-20-google-dorks-list/
 https://httpd.apache.org/docs/current/rewrite/rewritemap.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types
 https://docs.oracle.com/cd/E40938_01/doc.74/e40142/dev_php_apps.htm
+https://stackoverflow.com/questions/73679878/localhost-is-constantly-showing-the-index-of-page
+https://stackoverflow.com/questions/574493/what-is-the-symbol-in-url-used-for-in-php
+https://stackoverflow.com/questions/5803472/sql-where-id-in-id1-id2-idn
+https://stackoverflow.com/questions/7467330/php-headerlocation-force-url-change-in-address-bar
+https://stackoverflow.com/questions/18121227/how-to-avoid-request-entity-too-large-413-error
+https://stackoverflow.com/questions/46264265/id-from-a-url-that-does-not-include-id
+https://stackoverflow.com/questions/74878889/php-warning-deprecated-creation-of-dynamic-property-is-deprecated
+https://stackoverflow.com/questions/2364840/what-is-the-size-limit-of-an-http-post-request
+https://stackoverflow.com/questions/55042524/encoding-a-url-to-retrieve-it-in-php
