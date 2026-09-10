@@ -324,3 +324,4 @@ https://data.consilium.europa.eu/doc/document/ST-9727-2016-ADD-1/en/pdf
 https://www.researchgate.net/publication/390545170_Inherent_and_emergent_liability_issues_in_LLM-based_agentic_systems_a_principal-agent_perspective
 https://www.sog.unc.edu/sites/www.sog.unc.edu/files/Digital%20Notebook-Basic%20School%20for%20Magistrates-Civil%20Session%20Winter%202022.pdf
 https://www.sog.unc.edu/sites/default/files/full_text_books/2005%20NC%20Legislation.pdf
+https://uscode.house.gov/view.xhtml?req=(title:29+section:1104+edition:prelim)#:~:text=A%20fiduciary%20may%20consider%20the,the%20cost%20of%20the%20contract.
