@@ -383,3 +383,6 @@ https://stackoverflow.com/questions/2280394/how-can-i-check-if-a-url-exists-via-
 https://stackoverflow.com/questions/32795998/hiding-true-database-object-id-in-urls
 https://stackoverflow.com/questions/3664257/why-is-the-hash-part-of-the-url-not-available-on-the-server-side
 https://stackoverflow.com/questions/63974805/creating-a-prepared-statement-for-php-query
+https://stackoverflow.com/questions/2102981/building-a-simple-php-url-proxy
+https://github.com/luminati-io/proxy-scrape-php
+https://www.php.net/manual/en/context.http.php
