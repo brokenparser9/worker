@@ -215,3 +215,17 @@ https://cpahalltalk.com/report-debt-covenant-violations/
 https://www.insightsoftware.com/blog/debt-covenant-reporting-a-quick-guide/
 https://ecapital.com/financial-term/debt-covenant/
 https://support.advancedcustomfields.com/forums/topic/php-errors-with-acf-text-fields/
+https://www.facebook.com/groups/2204685680/posts/10156311667100681/
+https://stackoverflow.com/questions/32221313/mysql-num-rows-isnt-returning-any-rows
+https://forums.phpfreaks.com/topic/147192-undefined-function-mysql_num_rows/?__cf_chl_rt_tk=2XzkkTWtEKi4E14NQLQ6beJDeqnGtRlUTiUWTiushQ4-1789079370-1.0.1.1-99rRT651BFMfYHI0t1yoK6IVEKSXWVyb_7R1MHTkr60
+https://www.sitepoint.com/community/t/mysql-num-rows-is-not-working/43560
+https://forum.freecodecamp.org/t/num-of-rows-php/339812
+https://www.daniweb.com/programming/web-development/threads/457354/mysql-num-rows-error
+https://www.sitepoint.com/
+https://forum.freecodecamp.org/
+https://www.daniweb.com/
+https://www.uv.es/
+https://tecfa.unige.ch/
+https://www.php.net/manual/en/function.mysql-num-rows.php
+https://www.uv.es/jordi/v3/php/function.mysql-num-rows.html
+https://tecfa.unige.ch/guides/php/php5/function.mysql-num-rows.html
