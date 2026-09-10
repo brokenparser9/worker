@@ -665,3 +665,10 @@ https://www.inmotionhosting.com/support/website/what-is-your-default-php-ini-fil
 https://www.elastic.co/docs/reference/elasticsearch/clients/php/indexing_documents
 https://docs.phpmyadmin.net/en/release_5_1_0/faq.html
 https://www.php.net/manual/en/function.curl-getinfo.php
+https://stackoverflow.com/questions/26602923/how-to-solve-the-issue-please-install-the-intl-extension-for-full-localizati
+https://stackoverflow.com/questions/2505697/how-to-code-feature-on-checking-visitor-ip-address-in-php
+https://stackoverflow.com/questions/16820377/how-to-get-php-to-remove-a-proxy-from-txt-once-its-used
+https://stackoverflow.com/questions/47776522/php-undefined-index-notice-when-reading-array-from-cookie
+https://stackoverflow.com/questions/21803509/remove-php-file-extension-from-the-url
+https://stackoverflow.com/questions/1075409/creating-your-own-tinyurl
+https://stackoverflow.com/questions/55982280/how-to-get-value-from-url-in-php
