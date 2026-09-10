@@ -300,3 +300,10 @@ https://rayobyte.com/blog/php-proxy-check-working/
 https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-7
 https://httpd.apache.org/docs/current/mod/core.html
 https://www.pginvestor.com/overview/default.aspx
+https://stackoverflow.com/questions/68485107/how-to-remove-php-extension-from-url
+https://stackoverflow.com/questions/68876020/use-php-change-link-address-in-html-source-code
+https://stackoverflow.com/questions/45049601/the-requested-php-extension-bcmath-is-missing-from-your-system
+https://stackoverflow.com/questions/43910868/fatal-unable-to-update-url-base-from-redirection
+https://gist.github.com/aziyan99/9083aac618779cba0482396a9d529be9
+https://gist.github.com/markstachowski/fec212dd8b2daea61bb00b0c7b7b4885
+https://github.com/SAML-Toolkits/php-saml
