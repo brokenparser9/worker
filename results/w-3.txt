@@ -197,3 +197,17 @@ https://cops.usdoj.gov/
 https://www.sophos.com/en-us/blog/poisoned-python-and-php-packages-purloin-passwords-for-aws-access
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8264286/
 https://cops.usdoj.gov/pdf/e09042536.pdf
+https://www.sciencedirect.com/science/article/pii/S0001691822001299?__cf_chl_rt_tk=.wfdLpQAbLcxY2grP2_.GbWhk_1fh9iG2zUJLMe2BPY-1789080545-1.0.1.1-bQ55CYP407n.JAek2vR5DyDRozhhVH8aDjLG4X2qSsY
+https://talk.collegeconfidential.com/t/is-it-possible-to-get-into-medical-school-with-a-political-science-major/382843
+https://www.facebook.com/groups/2246549955562216/posts/2263393280544550/
+https://documents1.worldbank.org/curated/en/432691468332065846/pdf/569230PUB0glob1C0disclosed010151101.pdf
+https://sso.sagepub.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Facr_values%3Dlogin%253Ainteractive%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Flibrary.cqpress.com%252Flogin.php%26client_id%3DCQLibrary.Web%26nonce%3Dc6064723c19313f9c2873a597b1e9a1e%26state%3Df5ee04ffb402067355946e1bc04dd7e3%26scope%3Dinstitution%2520openid%26code_challenge%3DtCavAyAWYUwge0W4rGKpR96-Q_F3trlJIWBcTBWz288%26code_challenge_method%3DS256#_
+https://unesdoc.unesco.org/ark:/48223/pf0000367416
+https://wwwnc.cdc.gov/
+https://talk.collegeconfidential.com/
+https://documents1.worldbank.org/
+https://cheatsheetseries.owasp.org/
+https://library.cqpress.com/
+https://unesdoc.unesco.org/
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-17-1-3.html
+https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
