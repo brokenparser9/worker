@@ -229,3 +229,17 @@ https://tecfa.unige.ch/
 https://www.php.net/manual/en/function.mysql-num-rows.php
 https://www.uv.es/jordi/v3/php/function.mysql-num-rows.html
 https://tecfa.unige.ch/guides/php/php5/function.mysql-num-rows.html
+https://www.vbforums.com/showthread.php?366685-RESOLVED-System-Data-SqlClient-SqlException=&__cf_chl_rt_tk=8wdfvvud2hSflT9BD2HdvNrWwwOThr6.BEEfvQhEX6k-1789083749-1.0.1.1-zx8Hi2TlO.J09UZiL_gAvlt6RU66d1aVHsVR9pF54bc
+https://stackoverflow.com/questions/19162395/db-connection-fails-system-data-sqlclient-sqlexception
+https://stackoverflow.com/questions/19162395/db-connection-fails-system-data-sqlclient-sqlexception/21389076#21389076
+https://github.com/dotnet/SqlClient/issues/78
+https://community.opentext.com/cybersec/fortify/f/discussions/515635/system-data-sqlclient-sqlexception
+https://www.epiusers.help/t/unknown-downtime-system-data-sqlclient-sqlexception-any-ideas/62046
+https://learn.microsoft.com/en-us/answers/questions/1149845/an-exception-of-type-system-data-sqlclient-sqlexce
+https://community.toradex.com/t/exception-when-using-system-data-sqlclient/8921
+https://community.opentext.com/
+https://www.epiusers.help/
+https://www.vbforums.com/
+https://docs.airbrake.io/
+https://community.toradex.com/
+https://docs.airbrake.io/blog/dotnet-exception-handling/system-data-sqlclient-sqlexception/
