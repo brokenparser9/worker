@@ -189,3 +189,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://www.php.net/ChangeLog-7.php
 https://docs.phpmyadmin.net/en/latest/faq.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Disposition
+https://stackoverflow.com/questions/26023444/url-replace-phpid-1-extension-for-a-h3-tag-value-from-my-content
+https://www.facebook.com/groups/2204685680/posts/10157168008300681/
