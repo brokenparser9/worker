@@ -602,3 +602,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies
 https://www.php.net/ChangeLog-7.php
 https://gist.github.com/drupalalsur/cf6f8edbad701d7d530da149220de118
 https://www.php.net/manual/en/class.com.php
+https://content.next.westlaw.com/practical-law/document/Ibb0a13fdef0511e28578f7ccc38dcbee/Proxy-Statement?viewType=FullText&transitionType=Default&contextData=%28sc.Default%29&__cf_chl_rt_tk=9_lXk_qGUxKxLNlhNrwSNSzPm94RTeCQt8I8asr2Isw-1789066642-1.0.1.1-GrYHTGSc2KVh.Cq5lYlr4BWHZ1Yy5xgjkmqwzEaGnYE
+https://www.sec.gov/Archives/edgar/data/320193/000119312511003231/ddef14a.htm
+https://content.next.westlaw.com/
+https://www.law.cornell.edu/
+https://guides.ll.georgetown.edu/
+https://www.law.cornell.edu/wex/proxy_statement
+https://guides.ll.georgetown.edu/companyresearch/annual-reports
