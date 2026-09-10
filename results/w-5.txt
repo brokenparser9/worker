@@ -164,3 +164,12 @@ https://gis.stackexchange.com/
 https://rjspmcollege.ac.in/
 https://www.php.net/manual/en/function.pg-query.php
 https://www.reddit.com/r/PHPhelp/comments/1bn17pp/pg_query_works_fine_pg_insert_fails/
+https://stackoverflow.com/questions/50059715/php-search-query-with-sqlite3-database?__cf_chl_rt_tk=KFmJOestGTDj_pT5ev__dhnIwgei6i38cB9er8pybZQ-1789077769-1.0.1.1-i8rRm1FHybwWHj1qqpOZoxA30wLpCKhFnUzx0WwcvDY
+https://stackoverflow.com/questions/5041737/how-to-connect-to-a-sqlite3-db-with-php?__cf_chl_rt_tk=CM76frw2FNNcffnm6dGu.SMRN.zVKLeFiZbOQwEPs7Q-1789077771-1.0.1.1-.tjnKDmpaK8Y8v5Kfv5roAEgBZVHYt2Hof.Ynu2BGBk
+https://www.php.net/manual/en/sqlite3.query.php
+https://www.php.net/manual/en/book.sqlite3.php
+https://gist.github.com/bladeSk/6294d3266370868601a7d2e50285dbf5
+https://www.php.net/manual/en/sqlite3.open.php
+https://dev.to/_russell/an-introduction-to-php-and-sqlite-2agg
+https://www.php.net/manual/en/sqlite3.prepare.php
+https://www.php.net/manual/en/sqlite3.construct.php
