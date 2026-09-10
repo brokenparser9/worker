@@ -649,3 +649,7 @@ https://developer.paypal.com/braintree/docs/reference/general/validation-errors/
 https://github.com/SAML-Toolkits/php-saml
 https://httpd.apache.org/docs/2.4/mod/mod_ssl.html
 https://stackoverflow.com/questions/2928827/access-php-var-from-external-javascript-file
+https://s26.q4cdn.com/410417801/files/doc_downloads/2026/04/2026-Proxy-Statement.pdf
+https://s26.q4cdn.com/
+https://uk.practicallaw.thomsonreuters.com/
+https://www.dfinsolutions.com/knowledge-hub/blog/what-proxy-statement
