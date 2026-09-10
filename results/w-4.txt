@@ -517,3 +517,13 @@ https://stackoverflow.com/questions/1646514/apache-reverse-proxy-authentication-
 https://stackoverflow.com/questions/5831683/how-to-hide-php-from-address-bar
 https://stackoverflow.com/questions/36971816/php-check-value-against-multiple-values-with-or-operator
 https://stackoverflow.com/questions/21484118/how-to-extract-variable-part-from-url-and-how-to-know-if-url-variable-is-appende
+https://stackoverflow.com/questions/17921321/how-to-encrypt-product-id-in-url
+https://stackoverflow.com/questions/17921321/how-to-encrypt-product-id-in-url/17921398#17921398
+https://www.coursehero.com/file/p53dm7jj/indexphp-id-intextcategoryjoin-cmscontentsgdfilesphpmd167-boatplansaspid-cgi/?__cf_chl_rt_tk=mYfvKn3UC8F8r9pqFdRwYxjbWFrkMjhpV53P0BO_hJg-1789066448-1.0.1.1-YqvhR7HC3zsMUoY2FauS395ybe._IfTl5TFw7kqS1WM
+https://s204.q4cdn.com/332108499/files/doc_financials/2025/ar/2025-Proxy-PG.pdf
+https://www.coursehero.com/
+https://s204.q4cdn.com/
+https://www.investor.gov/
+https://developer.adobe.com/
+https://www.investor.gov/introduction-investing/investing-basics/glossary/proxy-statements-how-find
+https://developer.adobe.com/commerce/php/development/backward-incompatible-changes/
