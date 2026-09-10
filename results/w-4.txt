@@ -324,3 +324,12 @@ https://stackoverflow.com/questions/469964/unable-to-connect-to-mssql-database-v
 https://stackoverflow.com/questions/39118999/get-tld-from-url-via-php
 https://stackoverflow.com/questions/10299148/mysql-error-1045-28000-access-denied-for-user-billlocalhost-using-passw
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/1-part-100-article/8k_carding_dorks__).txt
+https://www.coursehero.com/file/p14ad593/cgifil-efileextention-supportpagecgifilename-index5phpconfigFile-llindexphpsub/?__cf_chl_rt_tk=lCSKy7TOkyBBVmdEAm_zmUvZTyhNSdlLcccUaiGyols-1789064716-1.0.1.1-rELZXV3oB1Sf5d9uqI9q.LNrJeTYQh0R2nCfD0XnAMo
+https://stackoverflow.com/questions/883365/row-count-with-pdo
+https://www.coursehero.com/file/p3oestl9/intitle-PhpMyExplorer-inurl-indexphp-cvs-intitle-phpPgAdmin-Login-Language/?__cf_chl_rt_tk=2WFjDrvnNuvoxn7hawoRS1cWIUUYSDykI80tRGaXhw4-1789064719-1.0.1.1-T9Td3wpu89QjkSKHfswXaOzDdoOkDoflzL1Izp4Jg2Q
+https://stackoverflow.com/questions/6242378/fatal-error-class-intldateformatter-not-found
+https://stackoverflow.com/questions/206558/what-is-a-multi-part-identifier-and-why-cant-it-be-bound
+https://stackoverflow.com/questions/168610/can-you-get-a-windows-ad-username-in-php
+https://www.oracle.com/
+https://www.elastic.co/docs/reference/elasticsearch/clients/php/search_operations
+https://www.oracle.com/a/tech/docs/database/201212-ug-php-oracle.pdf
