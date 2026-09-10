@@ -176,3 +176,16 @@ https://www.diligent.com/resources/blog/what-is-a-proxy-statement
 https://www.fool.com/terms/p/proxy-statement/
 https://brightdata.com/blog/how-tos/php-proxy-servers
 https://httpd.apache.org/docs/current/mod/mod_proxy.html
+https://moodle.org/mod/forum/discuss.php?d=473950&__cf_chl_rt_tk=tbqoBhZYpJ2ZMvWg0runPyJIAyXL_9EL20KvXV_EG4g-1789064218-1.0.1.1-Bunz4hp.AyqQeBX0SRmQKKjI1ykXUpjzfzoBmr42kzQ
+https://stackoverflow.com/questions/1053424/how-do-i-get-php-errors-to-display
+https://stackoverflow.com/questions/1280767/how-do-i-run-php-code-when-a-user-clicks-on-a-link
+https://docs.phpmyadmin.net/
+https://developer.mozilla.org/
+https://moodle.org/
+https://www.php.net/ChangeLog-5.php
+https://docs.phpmyadmin.net/en/release_4_9_9/faq.html
+https://gist.github.com/jhackz/c4376bb4787aebd86a86736cecba86e3
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://www.php.net/ChangeLog-7.php
+https://docs.phpmyadmin.net/en/latest/faq.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Disposition
