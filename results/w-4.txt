@@ -653,3 +653,15 @@ https://s26.q4cdn.com/410417801/files/doc_downloads/2026/04/2026-Proxy-Statement
 https://s26.q4cdn.com/
 https://uk.practicallaw.thomsonreuters.com/
 https://www.dfinsolutions.com/knowledge-hub/blog/what-proxy-statement
+https://bbs.archlinux.org/viewtopic.php?id=101750
+https://www.sitepoint.com/community/t/cant-get-extension-modules-to-work-in-apache-php-environment/43367
+https://www.sitepoint.com/
+https://simplesamlphp.org/
+https://www.inmotionhosting.com/
+https://bbs.archlinux.org/
+https://docs.sencha.com/ext/7.0.0/guides/backend_connectors/direct/mysql_php.html
+https://simplesamlphp.org/docs/stable/simplesamlphp-reference-idp-hosted.html
+https://www.inmotionhosting.com/support/website/what-is-your-default-php-ini-file/
+https://www.elastic.co/docs/reference/elasticsearch/clients/php/indexing_documents
+https://docs.phpmyadmin.net/en/release_5_1_0/faq.html
+https://www.php.net/manual/en/function.curl-getinfo.php
