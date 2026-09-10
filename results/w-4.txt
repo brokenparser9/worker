@@ -364,3 +364,11 @@ https://stackoverflow.com/questions/17299201/getting-web-url-address-to-detect-w
 https://github.com/xdebug/vscode-php-debug/issues/740
 https://docs.phpmyadmin.net/cs/latest/faq.html
 https://docs.plesk.com/en-US/obsidian/administrator-guide/web-hosting/php-management/plesk-for-linux-installing-php-extensions-from-pecl.80036/
+https://stackoverflow.com/questions/42513232/how-to-extract-a-tables-data-in-an-external-url
+https://stackoverflow.com/questions/11960619/load-external-php-file-in-jquery-modal-dialog-onclick
+https://stackoverflow.com/questions/1846882/open-basedir-restriction-in-effect-file-is-not-within-the-allowed-paths
+https://stackoverflow.com/questions/33869521/how-can-i-enable-php-extension-intl
+https://stackoverflow.com/questions/38965899/how-to-get-the-homepage-url
+https://stackoverflow.com/questions/33676599/get-page-id-value-and-display-in-url-via-htaccess
+https://stackoverflow.com/questions/7538791/urlid-1-how-do-i-get-the-id-using-a-php-mysql-function
+https://stackoverflow.com/questions/62852398/how-to-get-url-path-in-php-index-file
