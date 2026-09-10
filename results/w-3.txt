@@ -97,3 +97,12 @@ https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke
 https://www.spamhaus.org/blocklists/exploits-blocklist/
 https://portswigger.net/web-security/file-upload
 https://labs.watchtowr.com/form-tools-we-need-to-talk-about-php/
+https://www.akamai.com/blog?ref=ntdjndz&page=97
+https://mvp.microsoft.com/en-us/PublicProfile/5001131
+https://stackoverflow.com/questions/7739233/double-escape-sequence-inside-a-url-the-request-filtering-module-is-configured
+https://mvp.microsoft.com/
+https://www.simplified.guide/
+https://www.akamai.com/
+https://dns.google/
+https://www.cisa.gov/news-events/bulletins/sb26-173
+https://github.com/shopware/shopware-cli/blob/main/docs/proxy.md
