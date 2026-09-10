@@ -15,3 +15,12 @@ https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week
 https://formulae.brew.sh/cask/
 https://www.digitaldatatactics.com/index.php/author/themaster/
 https://www.picussecurity.com/resource/blog/apt28-cyber-threat-profile-and-detailed-ttps
+https://news.ycombinator.com/item?id=45898407
+https://stackoverflow.com/questions/62635914/initialize-stateobject-with-a-parameter-in-swiftui?__cf_chl_rt_tk=j_2Nk0EXUUgUrDcH4nO.j4178lhhwFHmX7MTQ8uqbsk-1789062512-1.0.1.1-mjISZNOGwirFzsRLsnm1E6vErZDlg2eWCTD6yjodl7w
+https://stackoverflow.com/questions/64317228/how-to-remove-script-code-from-messenger-preview
+https://stackoverflow.com/questions/78912056/android-compose-preview-screenshot-testing-on-alpha02-and-higher-not-working
+https://apps.apple.com/
+https://gist.github.com/
+https://news.ycombinator.com/
+https://apps.apple.com/us/app/mychart/id382952264
+https://gist.github.com/noveoko/7c3f71f118ef24d7db28f9fb610431c1
