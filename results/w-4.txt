@@ -672,3 +672,9 @@ https://stackoverflow.com/questions/47776522/php-undefined-index-notice-when-rea
 https://stackoverflow.com/questions/21803509/remove-php-file-extension-from-the-url
 https://stackoverflow.com/questions/1075409/creating-your-own-tinyurl
 https://stackoverflow.com/questions/55982280/how-to-get-value-from-url-in-php
+https://www.sec.gov/Archives/edgar/data/63908/000120677422001058/mcd3962181-defc14a.htm
+https://www.limbachinc.com/
+https://ir.thomsonreuters.com/
+http://www3.prudential.com/
+https://investors.publicstorage.com/
+https://www.limbachinc.com/investor-relations/financial-info/proxy-statements/
