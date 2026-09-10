@@ -41,3 +41,16 @@ https://scrapfly.io/blog/posts/curl-with-proxy
 https://xsoar.pan.dev/docs/reference/integrations/netcraft-v2
 https://docs.oasis-open.org/cti/stix/v2.1/csprd03/stix-v2.1-csprd03.html
 https://www.elastic.co/docs/reference/beats/filebeat/exported-fields-misp
+https://forum.joomla.org/viewtopic.php?t=1020693&__cf_chl_rt_tk=oqoJUDk1sRdLtQpgrtigFoIPDMFRlLAm0pMeqElVF_M-1789062564-1.0.1.1-QEpeTLIS4h3twL15j_J0bvbXuEfak_jt57VCqzj0ZBM
+https://stackoverflow.com/questions/128035/how-do-i-pull-from-a-git-repository-through-an-http-proxy
+https://forum.joomla.org/
+https://edu.chainguard.dev/
+https://www.euaa.europa.eu/
+https://techdocs.f5.com/
+https://scrapfly.io/blog/posts/how-to-scrape-facebook
+https://www.linkedin.com/posts/vaughndumas_ai-activity-7433988548753747968-vaMv
+https://apps.apple.com/us/app/tennessee-lottery-official-app/id1012390852
+https://edu.chainguard.dev/platform/administration/custom-idps/idp-providers/keycloak/
+https://www.euaa.europa.eu/sites/default/files/publications/2025-10/2025_10_EUAA_COI_Report_Iraq_Country_Focus.pdf
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-13-1-0-8.html
+https://www.reddit.com/r/Boostcamp/
