@@ -152,3 +152,14 @@ https://www.sec.gov/answers/proxy.htm
 https://www.enpro.com/for-investors/financials/proxy-statements/default.aspx
 https://www.law.cornell.edu/wex/proxy_statement
 https://investor.prudential.com/financials/proxy-statement-annual-report-and-voting-results
+https://stackoverflow.com/questions/66822608/how-can-i-submit-my-proxy-and-name-on-localhost
+https://www.exploit-db.com/exploits/3800
+https://stackoverflow.com/questions/7605449/retrieving-a-url-though-an-authenticating-proxy-using-php
+https://stackoverflow.com/questions/36376798/mysql-connect-via-proxy-php
+https://stackoverflow.com/questions/5533771/php-http-proxy-server
+https://stackoverflow.com/questions/14041796/web-service-proxy-generator-in-php-environment
+https://stackoverflow.com/questions/3892635/how-to-have-php-to-use-proxy-setting-to-connect-to-internet
+https://stackoverflow.com/questions/22267226/php-connect-to-https-site-through-proxy
+https://www.exploit-db.com/
+https://github.com/ResearchandDestroy/DorXNG/blob/main/query.lst
+https://github.com/Ishanoshada/GDorks/blob/main/dorks4-category%20.txt
