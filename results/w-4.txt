@@ -191,3 +191,7 @@ https://docs.phpmyadmin.net/en/latest/faq.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Disposition
 https://stackoverflow.com/questions/26023444/url-replace-phpid-1-extension-for-a-h3-tag-value-from-my-content
 https://www.facebook.com/groups/2204685680/posts/10157168008300681/
+https://content.next.westlaw.com/practical-law/document/Ibb0a13fdef0511e28578f7ccc38dcbee/Proxy-Statement?viewType=FullText&transitionType=Default&contextData=%28sc.Default%29&__cf_chl_rt_tk=DizSbLiUJ5BpnKTMgeeGK4SDB3Hk2q.RU6WBFYgNgsM-1789064261-1.0.1.1-0yS86LX0OCU3o.WB2gS2IxXEyV1uEjEhgTvek7c6gBk
+https://content.next.westlaw.com/
+https://guides.ll.georgetown.edu/
+https://guides.ll.georgetown.edu/companyresearch/annual-reports
