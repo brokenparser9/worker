@@ -680,3 +680,9 @@ https://investors.publicstorage.com/
 https://www.limbachinc.com/investor-relations/financial-info/proxy-statements/
 https://corporate.mcdonalds.com/
 https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD%20-%202025%20Notice%20of%20Meeting%20Proxy%20Statement.pdf
+https://stackoverflow.com/questions/9478104/check-proxy-using-php
+https://www.langenlois.at/
+https://docs.phpmyadmin.net/en/latest/faq.html
+https://en.wikipedia.org/wiki/HTTP_404
+https://www.langenlois.at/phpmyadmin/doc/html/faq.html
+https://www.quora.com/How-do-I-remove-a-PHP-extension-from-a-URL-such-that-if-the-page-is-viewed-with-a-*-PHP-extension-it-will-give-a-404-error
