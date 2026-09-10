@@ -626,3 +626,13 @@ https://docs.sencha.com/extjs/6.5.1/modern/Ext.html
 https://docs.phpmyadmin.net/en/latest/config.html
 https://docs.plesk.com/release-notes/obsidian/change-log/
 https://docs.oracle.com/en/middleware/standalone/weblogic-server/14.1.1.0/develop-plugin/apache.html#PLGWL-GUID-B90C2424-75E0-491E-BC32-7AAFBFFC58FF
+https://stackoverflow.com/questions/25027013/how-to-fix-php-warning-php-startup-unable-to-load-dynamic-library-ext-php-cu
+https://stackoverflow.com/questions/59359733/php-secure-url-variables
+https://stackoverflow.com/questions/31473565/connecting-mysql-database-using-pdo-in-external-php-file
+https://stackoverflow.com/questions/15207627/extracting-information-from-url-with-php
+https://stackoverflow.com/questions/12338342/get-id-from-url-security
+https://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess
+https://stackoverflow.com/questions/35638497/curl-error-60-ssl-certificate-prblm-unable-to-get-local-issuer-certificate
+https://stackoverflow.com/questions/59460716/how-to-protect-an-id-in-the-url-with-php
+https://stackoverflow.com/questions/58420569/getting-the-ip-address-of-remote-server-in-php
+https://stackoverflow.com/questions/4545790/file-get-contents-returns-403-forbidden
