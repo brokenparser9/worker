@@ -358,3 +358,9 @@ https://stackoverflow.com/questions/25994266/use-external-variable-in-array-filt
 https://stackoverflow.com/questions/59336951/message-trying-to-access-array-offset-on-value-of-type-null
 https://stackoverflow.com/questions/76074131/how-to-enable-php-extensions-in-ubuntu
 https://stackoverflow.com/questions/30367459/php-shopping-cart-security
+https://www.coursehero.com/file/92420601/Checkedstxt/?__cf_chl_rt_tk=rKUm_tAxta2c2RujSmP.27E7FqP8o2Fne9NlM8dMWzo-1789064878-1.0.1.1-WZjBcbbHdewQ31O6th7O8nFyURCUpw9PSae3r3unHjc
+https://www.sec.gov/Archives/edgar/data/2040807/000119312525004504/d900229ds1.htm
+https://stackoverflow.com/questions/17299201/getting-web-url-address-to-detect-web-proxy
+https://github.com/xdebug/vscode-php-debug/issues/740
+https://docs.phpmyadmin.net/cs/latest/faq.html
+https://docs.plesk.com/en-US/obsidian/administrator-guide/web-hosting/php-management/plesk-for-linux-installing-php-extensions-from-pecl.80036/
