@@ -284,3 +284,4 @@ https://stackoverflow.com/questions/22332031/composer-the-requested-php-extensio
 https://stackoverflow.com/questions/44272747/accessing-external-database-using-the-wpdb-class-in-wordpress
 https://stackoverflow.com/questions/9196228/php-include-to-external-url
 https://stackoverflow.com/questions/3592270/php-get-html-source-code-with-curl
+https://www.dfinsolutions.com/knowledge-hub/blog/what-proxy-statement
