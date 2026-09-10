@@ -219,3 +219,5 @@ https://stackoverflow.com/questions/15207627/extracting-information-from-url-wit
 https://stackoverflow.com/questions/58420569/getting-the-ip-address-of-remote-server-in-php
 https://stackoverflow.com/questions/4545790/file-get-contents-returns-403-forbidden
 https://stackoverflow.com/questions/2919968/php-read-a-cookie-that-is-on-another-domain
+https://corporate.mcdonalds.com/
+https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD%20-%202025%20Notice%20of%20Meeting%20Proxy%20Statement.pdf
