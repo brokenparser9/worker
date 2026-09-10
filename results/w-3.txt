@@ -220,3 +220,11 @@ https://www.exploit-db.com/
 https://tnsr.org/
 https://forums.cdprojektred.com/
 https://www.vin.com/
+https://depot.som.yale.edu/icf/papers/fileuploads/2489/original/07-31.pdf
+https://onlinelibrary.wiley.com/doi/10.1002/jcaf.22501?__cf_chl_rt_tk=GWe8mtHcRiOK7W4WfWqTasz.g9pq5ZoMDuqT9UdoxX4-1789080613-1.0.1.1-HrNJoDRGKVoIkRBSc_Rz5BtOgvrgE5kBlrL4ml5Ftys
+https://blog.cloudflare.com/
+https://www.briskinfosec.com/
+http://depot.som.yale.edu/
+https://onlinelibrary.wiley.com/
+https://blog.cloudflare.com/the-internet-is-hostile-building-a-more-resilient-network/
+https://www.briskinfosec.com/blogs/blogsdetail/Top-Trending-Web-app-security-Vulnerabilities-#:~:text=There%20are%20lot%20of%20automated,Aquatone
