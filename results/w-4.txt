@@ -352,3 +352,9 @@ https://byteful.com/
 https://www.unilever.com/files/unilever-annual-report-and-accounts-2025.pdf
 https://byteful.com/blog/php-proxy-setting-up-and-using-proxies
 https://gist.github.com/madalin-dogaru/2b3ef5fec1f2b8a849e042e5fb3d3367
+https://www.coursehero.com/file/64786100/CC-DORKStxt/?__cf_chl_rt_tk=MWtblnf41cLlAD3u5TFrQpa6yBLJx5tverPtgVY21u0-1789064834-1.0.1.1-qYCw9txxNcB6FgclvnP_kBklsEK2fhi0LaWSzpLoaMY
+https://stackoverflow.com/questions/26198106/list-of-php-extensions-modules
+https://stackoverflow.com/questions/25994266/use-external-variable-in-array-filter
+https://stackoverflow.com/questions/59336951/message-trying-to-access-array-offset-on-value-of-type-null
+https://stackoverflow.com/questions/76074131/how-to-enable-php-extensions-in-ubuntu
+https://stackoverflow.com/questions/30367459/php-shopping-cart-security
