@@ -221,3 +221,11 @@ https://stackoverflow.com/questions/4545790/file-get-contents-returns-403-forbid
 https://stackoverflow.com/questions/2919968/php-read-a-cookie-that-is-on-another-domain
 https://corporate.mcdonalds.com/
 https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD%20-%202025%20Notice%20of%20Meeting%20Proxy%20Statement.pdf
+https://stackoverflow.com/questions/4064444/returning-json-from-a-php-script
+https://en.wikipedia.org/
+https://benjitrapp.github.io/
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://benjitrapp.github.io/memories/2022-08-20-google-dorks-list/
+https://httpd.apache.org/docs/current/rewrite/rewritemap.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types
+https://docs.oracle.com/cd/E40938_01/doc.74/e40142/dev_php_apps.htm
