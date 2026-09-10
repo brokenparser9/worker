@@ -344,3 +344,4 @@ https://docs.stripe.com/api
 https://www.canada.ca/en/public-health.html
 https://developer.paypal.com/braintree/docs/reference/response/transaction/php
 https://github.com/nette/http
+https://www.quantillium.com/blog/what-is-proxy-statement
