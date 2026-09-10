@@ -264,3 +264,9 @@ https://stackoverflow.com/questions/21803509/remove-php-file-extension-from-the-
 https://stackoverflow.com/questions/55982280/how-to-get-value-from-url-in-php
 https://stackoverflow.com/questions/71025115/dealing-with-php-8-1-warning-for-undefined-array-key
 https://stackoverflow.com/questions/59149877/visual-studio-code-php-intelephense-keeps-showing-a-not-existing-error
+https://www.limbachinc.com/
+https://ir.thomsonreuters.com/
+http://www3.prudential.com/
+https://fisglobal.gcs-web.com/
+https://investors.publicstorage.com/
+https://www.limbachinc.com/investor-relations/financial-info/proxy-statements/
