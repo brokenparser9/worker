@@ -391,3 +391,5 @@ https://stackoverflow.com/questions/171318/how-do-i-capture-php-output-into-a-va
 https://github.com/BookStackApp/BookStack/issues/3462
 https://github.com/delight-im/php-auth
 https://www.php.net/manual/en/indexes.examples.php
+https://legal-resources.uslegalforms.com/
+https://legal-resources.uslegalforms.com/p/proxy-statements
