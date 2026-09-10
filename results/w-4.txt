@@ -592,3 +592,13 @@ https://www.diligent.com/resources/blog/what-is-a-proxy-statement
 https://www.fool.com/terms/p/proxy-statement/
 https://brightdata.com/blog/how-tos/php-proxy-servers
 https://httpd.apache.org/docs/current/mod/mod_proxy.html
+https://stackoverflow.com/questions/1280767/how-do-i-run-php-code-when-a-user-clicks-on-a-link
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/413
+https://stackoverflow.com/questions/11960619/load-external-php-file-in-jquery-modal-dialog-onclick
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/303
+https://gist.github.com/TheSunMan/4008090
+https://stackoverflow.com/questions/32795998/hiding-true-database-object-id-in-urls
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies
+https://www.php.net/ChangeLog-7.php
+https://gist.github.com/drupalalsur/cf6f8edbad701d7d530da149220de118
+https://www.php.net/manual/en/class.com.php
