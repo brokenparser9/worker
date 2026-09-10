@@ -358,3 +358,8 @@ https://www.facebook.com/NBCDigitalNews/posts/trustco-to-acquire-shares-in-south
 https://www.facebook.com/citi973/posts/nineteen-19-out-of-the-thirty-eight-38-listed-companies-recorded-gains-for-2017t/10155541478116107/
 https://www.facebook.com/theindianmusicdiaries/posts/we-invest-a-lot-in-our-jamming-at-studios-in-buying-expensive-gearsinstrument-ha/2067827763308982/
 https://www.facebook.com/groups/52925307570/posts/10158126264887571/
+https://stackoverflow.com/questions/8187288/why-does-this-sqlite-query-select-all-dates-even-those-outside-of-the-criteria?__cf_chl_rt_tk=uuqC6iTYQa4XrUUEqihg.k_d5WjxUPowMo7UR8dVEBY-1789075890-1.0.1.1-aTbHjHP1irgn.mVRtGL7FyGWoLor5YEZMH9u7kO9a0A
+https://stackoverflow.com/questions/73757532/how-to-store-and-query-dates-in-sqlite-using-db-browser-for-sqlite
+https://www.php.net/manual/en/sqlite3.query.php
+https://sqlite.org/cli.html
+https://www.geeksforgeeks.org/sqlite/how-to-query-for-all-dates-greater-than-a-certain-date-in-sqlite/
