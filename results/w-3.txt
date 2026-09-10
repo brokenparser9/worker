@@ -188,3 +188,12 @@ https://xsoar.pan.dev/docs/reference/integrations/virus-total-api-v3
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-17-1-3-1.html
 https://libguides.northwestern.edu/az.php
 https://www.haproxy.com/documentation/haproxy-configuration-manual/latest/#:~:text=This%20document%20covers%20the%20configuration,any%20hints%2C%20examples%2C%20or%20advice.
+https://www.occ.gov/news-issuances/bulletins/2008/bulletin-2008-16.html
+https://hackerone.com/reports/172137
+https://www.sophos.com/
+https://www.occ.gov/
+https://hackerone.com/
+https://cops.usdoj.gov/
+https://www.sophos.com/en-us/blog/poisoned-python-and-php-packages-purloin-passwords-for-aws-access
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8264286/
+https://cops.usdoj.gov/pdf/e09042536.pdf
