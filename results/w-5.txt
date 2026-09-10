@@ -187,3 +187,16 @@ https://docs.devart.com/
 https://cloudlinux.zendesk.com/hc/en-us/articles/4587109929116-This-extension-requires-the-Microsoft-ODBC-Driver-for-SQL-Server
 https://www.php.net/manual/en/function.odbc-connect.php
 https://docs.devart.com/odbc/sqlserver/php.htm
+https://www.phpbb.com/community/viewtopic.php?t=2191399
+https://stackoverflow.com/questions/55741010/php-syntax-error-for-concatenation-of-string-with-the-operator
+https://forums.phpfreaks.com/topic/305106-parse-error-syntax-error-unexpected-include-t_include-in-cxampphtdocspoetsincreate-accountphp-on-line-6/?__cf_chl_rt_tk=.u9awDWBsOycx8OmopK3tr_PDlVrNSV3AfKH084S5Pk-1789079315-1.0.1.1-41x7pB6v2VUdkeFRJyAWd56P4fSMcFvWuWm9xubV6Ik
+https://www.quora.com/How-can-I-solve-a-syntax-error-or-an-unexpected-end-of-a-file-in-PHP?__cf_chl_rt_tk=zFrEfsEcJKklChzeU.SZfyPq48SSjoIjjybWuy6QRMM-1789079317-1.0.1.1-0Lxb0clg.F8.1QR65q0R57JgoYqnxOzTFOr6ABp.crY
+https://wordpress.stackexchange.com/questions/425024/php-parse-error-syntax-error-unexpected-token-endwhile
+https://forums.phpfreaks.com/
+https://www.phpbb.com/
+https://wordpress.stackexchange.com/
+https://www.awardspace.com/
+https://support.cpanel.net/
+https://www.reddit.com/r/PHPhelp/comments/1o2bfg8/parse_error_syntax_error_unexpected_token/
+https://www.awardspace.com/kb/syntax-error-unexpected-t-string/
+https://support.cpanel.net/hc/en-us/articles/360055102734-PHP-Deprecated-Array-and-string-offset-access-syntax-with-curly-braces-is-deprecated
