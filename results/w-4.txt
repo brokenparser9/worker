@@ -166,3 +166,13 @@ https://github.com/Ishanoshada/GDorks/blob/main/dorks4-category%20.txt
 https://www.sec.gov/Archives/edgar/data/320193/000119312511003231/ddef14a.htm
 https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/
 https://github.com/zounar/php-proxy
+https://stackoverflow.com/questions/60141044/how-can-i-find-an-applications-base-url-behind-a-proxy
+https://stackoverflow.com/questions/60141044/how-can-i-find-an-applications-base-url-behind-a-proxy/60159309#60159309
+https://www.diligent.com/
+https://www.fool.com/
+https://httpd.apache.org/
+https://www.sec.gov/edgar/browse/
+https://www.diligent.com/resources/blog/what-is-a-proxy-statement
+https://www.fool.com/terms/p/proxy-statement/
+https://brightdata.com/blog/how-tos/php-proxy-servers
+https://httpd.apache.org/docs/current/mod/mod_proxy.html
