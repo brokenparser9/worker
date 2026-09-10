@@ -556,3 +556,14 @@ https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-
 https://www.globaldatabase.com/browser-extension
 https://brightdata.com/blog/proxy-101/proxy-error-codes
 https://www.eia.gov/states/overview
+https://stackoverflow.com/questions/14626262/retrieve-extension-version-in-php
+https://stackoverflow.com/questions/33302442/get-info-from-external-api-url-using-php
+https://stackoverflow.com/questions/23771117/requires-ext-fileinfo-the-requested-php-extension-fileinfo-is-missing
+https://stackoverflow.com/questions/3892635/how-to-have-php-to-use-proxy-setting-to-connect-to-internet
+https://stackoverflow.com/questions/66485835/i-have-made-a-proxy-scraper-in-php-but-i-dont-know-how-to-check-if-the-proxy-is
+https://stackoverflow.com/questions/71025115/dealing-with-php-8-1-warning-for-undefined-array-key
+https://stackoverflow.com/questions/58215104/whats-the-neterr-http2-protocol-error-about
+https://stackoverflow.com/questions/409496/prevent-direct-access-to-a-php-include-file
+https://stackoverflow.com/questions/24306335/413-request-entity-too-large-file-upload-issue
+https://stackoverflow.com/questions/31291317/php-is-not-recognized-as-an-internal-or-external-command-in-command-prompt
+https://lumendatabase.org/notices/96002602
