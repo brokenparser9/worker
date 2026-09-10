@@ -403,3 +403,9 @@ https://ejournal3.undip.ac.id/
 https://www.php.net/manual/en/function.fread.php
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies
 https://docs.oracle.com/en/middleware/fusion-middleware/web-tier/14.1.2/develop-plugin/apache.html
+https://stackoverflow.com/questions/2891574/how-do-i-resolve-a-http-414-request-uri-too-long-error
+https://stackoverflow.com/questions/30240840/laravel-5-socialite-curl-error-77-error-setting-certificate-verify-locations
+https://stackoverflow.com/questions/17018586/apache-2-4-php-fpm-and-authorization-headers
+https://stackoverflow.com/questions/6240414/add-http-prefix-to-url-when-missing
+https://stackoverflow.com/questions/26685877/call-php-file-outside-wwwroot-folder-windows-host-arvixe
+https://stackoverflow.com/questions/28858351/php-ssl-certificate-error-unable-to-get-local-issuer-certificate
