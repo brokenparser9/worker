@@ -336,3 +336,11 @@ https://www.oracle.com/a/tech/docs/database/201212-ug-php-oracle.pdf
 https://guides.newman.baruch.cuny.edu/c.php?g=188202&p=1244333
 https://guides.newman.baruch.cuny.edu/
 https://investors.publicstorage.com/financial-reports/proxy-statements/default.aspx
+https://aws.amazon.com/
+https://docs.stripe.com/
+https://www.canada.ca/
+https://httpd.apache.org/docs/2.4/mod/mod_ssl.html
+https://docs.stripe.com/api
+https://www.canada.ca/en/public-health.html
+https://developer.paypal.com/braintree/docs/reference/response/transaction/php
+https://github.com/nette/http
