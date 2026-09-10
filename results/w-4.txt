@@ -636,3 +636,15 @@ https://stackoverflow.com/questions/35638497/curl-error-60-ssl-certificate-prblm
 https://stackoverflow.com/questions/59460716/how-to-protect-an-id-in-the-url-with-php
 https://stackoverflow.com/questions/58420569/getting-the-ip-address-of-remote-server-in-php
 https://stackoverflow.com/questions/4545790/file-get-contents-returns-403-forbidden
+https://www.exploit-db.com/exploits/3800
+https://stackoverflow.com/questions/40815984/how-to-install-all-required-php-extensions-for-laravel
+https://www.coursehero.com/file/p3oestl9/intitle-PhpMyExplorer-inurl-indexphp-cvs-intitle-phpPgAdmin-Login-Language/?__cf_chl_rt_tk=t_fp0CaGyGZRzdPa4_2gXCloeu5u6rptcNlvbby3GxA-1789066747-1.0.1.1-0WZa6v8wHr0S8ENFYB2z8CKo.c2bkRI2YV9YXb8EedQ
+https://docs.stripe.com/
+https://en.wikipedia.org/
+https://www.exploit-db.com/
+https://docs.stripe.com/api
+https://docs.oracle.com/en-us/iaas/Content/WAF/Reference/protectionruleids.htm
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://developer.paypal.com/braintree/docs/reference/general/validation-errors/all/php/
+https://github.com/SAML-Toolkits/php-saml
+https://httpd.apache.org/docs/2.4/mod/mod_ssl.html
