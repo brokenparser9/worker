@@ -386,3 +386,8 @@ https://stackoverflow.com/questions/63974805/creating-a-prepared-statement-for-p
 https://stackoverflow.com/questions/2102981/building-a-simple-php-url-proxy
 https://github.com/luminati-io/proxy-scrape-php
 https://www.php.net/manual/en/context.http.php
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/404
+https://stackoverflow.com/questions/171318/how-do-i-capture-php-output-into-a-variable
+https://github.com/BookStackApp/BookStack/issues/3462
+https://github.com/delight-im/php-auth
+https://www.php.net/manual/en/indexes.examples.php
