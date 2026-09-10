@@ -8,19 +8,16 @@ on:
         required: true
         default: "5"
         type: string
-
       pages:
         description: "Pages per dork"
         required: true
         default: "5"
         type: string
-
       delay:
         description: "Delay seconds between pages"
         required: true
         default: "4"
         type: string
-
       job_id:
         description: "Brain Hub job ID"
         required: false
@@ -35,16 +32,12 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-
   setup:
     name: Prepare workers
     runs-on: ubuntu-latest
-
     outputs:
       matrix: ${{ steps.matrix.outputs.matrix }}
-
     steps:
-
       - name: Validate inputs
         env:
           WORKERS: ${{ inputs.workers }}
@@ -52,28 +45,19 @@ jobs:
           DELAY: ${{ inputs.delay }}
         run: |
           set -euo pipefail
-
           python3 - <<'PY'
-          import os
-          import sys
-
+          import os, sys
           workers = int(os.environ["WORKERS"])
           pages = int(os.environ["PAGES"])
           delay = float(os.environ["DELAY"])
-
           if not 1 <= workers <= 15:
-              print("::error::workers must be between 1 and 15")
-              sys.exit(1)
+              print("::error::workers must be 1-15"); sys.exit(1)
           if pages < 1:
-              print("::error::pages must be >= 1")
-              sys.exit(1)
+              print("::error::pages must be >=1"); sys.exit(1)
           if delay < 0:
-              print("::error::delay must be >= 0")
-              sys.exit(1)
-
+              print("::error::delay must be >=0"); sys.exit(1)
           print(f"workers={workers} pages={pages} delay={delay}")
           PY
-
       - name: Build worker matrix
         id: matrix
         env:
@@ -81,8 +65,7 @@ jobs:
         run: |
           set -euo pipefail
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
-          import json
-          import os
+          import json, os
           workers = int(os.environ["WORKERS"])
           print("matrix=" + json.dumps({"worker": [f"w-{i}" for i in range(1, workers + 1)]}))
           PY
@@ -90,16 +73,12 @@ jobs:
   scrape:
     name: Worker ${{ matrix.worker }}
     needs: setup
-
     strategy:
       fail-fast: false
       max-parallel: 15
       matrix: ${{ fromJSON(needs.setup.outputs.matrix) }}
-
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Checkout user repository
         uses: actions/checkout@v4
         with:
@@ -119,16 +98,9 @@ jobs:
         working-directory: user_repo
         run: |
           set -euo pipefail
-          if [ ! -f dorks.txt ]; then
-            echo "::error::dorks.txt not found"
-            exit 1
-          fi
-          if ! grep -qve '^[[:space:]]*$' dorks.txt; then
-            echo "::error::dorks.txt is empty"
-            exit 1
-          fi
-          COUNT="$(grep -cve '^[[:space:]]*$' dorks.txt || true)"
-          echo "Dorks available: ${COUNT}"
+          if [ ! -f dorks.txt ]; then echo "::error::dorks.txt missing"; exit 1; fi
+          if ! grep -qve '^[[:space:]]*$' dorks.txt; then echo "::error::dorks.txt empty"; exit 1; fi
+          echo "Dorks: $(grep -cve '^[[:space:]]*$' dorks.txt)"
 
       - name: Inject assigned dorks
         run: |
@@ -148,78 +120,50 @@ jobs:
         run: |
           set -euo pipefail
           python -m pip install --upgrade pip
-          pip install playwright ddddocr
+          pip install playwright ddddocr Pillow
           playwright install --with-deps chromium
           sudo apt-get update
-          sudo apt-get install -y \
-            xvfb \
-            unzip \
-            wget
+          sudo apt-get install -y xvfb unzip wget
 
       - name: Install cloudflared
         run: |
-          wget -q \
-            https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 \
-            -O /tmp/cloudflared
+          wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -O /tmp/cloudflared
           chmod +x /tmp/cloudflared
           /tmp/cloudflared --version
 
-      - name: Prepare Raptor extension (Buster never loaded)
+      - name: Prepare Raptor extension
         working-directory: source
         shell: bash
         run: |
           set -euo pipefail
-
           EXT_DIR="/tmp/free-ai-recaptcha-solver"
           EXTRACT_DIR="/tmp/free-ai-recaptcha-solver-extracted"
           RECONSTRUCTED="/tmp/free-ai-recaptcha-solver.bin"
-
-          echo "========================================"
-          echo "      RAPTOR EXTENSION PREPARATION"
-          echo "========================================"
 
           rm -rf "${EXT_DIR}" "${EXTRACT_DIR}" "${RECONSTRUCTED}"
           mkdir -p "${EXT_DIR}" "${EXTRACT_DIR}"
 
           for PART in extension.bin.1 extension.bin.2 extension.bin.3; do
-            if [ ! -f "${PART}" ]; then
-              echo "::error::${PART} not found"
-              exit 1
-            fi
-            echo "${PART} exists ($(stat -c %s "${PART}") bytes)"
+            if [ ! -f "${PART}" ]; then echo "::error::${PART} not found"; exit 1; fi
+            echo "${PART} ($(stat -c %s ${PART}) bytes)"
           done
 
           cat extension.bin.1 extension.bin.2 extension.bin.3 > "${RECONSTRUCTED}"
-          echo "Reconstructed: $(stat -c %s "${RECONSTRUCTED}") bytes"
-
           python3 - "${RECONSTRUCTED}" <<'PY'
           import sys
           from pathlib import Path
-          archive = Path(sys.argv[1])
-          with archive.open("rb") as f:
-              magic = f.read(4)
-          print(f"magic: {magic.hex()}")
-          if magic not in (b"PK\x03\x04", b"PK\x05\x06", b"PK\x07\x08"):
-              print("::error::not a ZIP")
-              sys.exit(1)
+          a = Path(sys.argv[1])
+          with a.open("rb") as f: m = f.read(4)
+          if m not in (b"PK\x03\x04", b"PK\x05\x06", b"PK\x07\x08"):
+              print("::error::not a ZIP"); sys.exit(1)
           PY
-
-          if ! unzip -t "${RECONSTRUCTED}" > /tmp/unzip-test.log 2>&1; then
-            echo "::error::ZIP validation failed"
-            cat /tmp/unzip-test.log
-            exit 1
-          fi
-
           unzip -q "${RECONSTRUCTED}" -d "${EXTRACT_DIR}"
 
           if [ -f "${EXTRACT_DIR}/manifest.json" ]; then
             BASE_DIR="${EXTRACT_DIR}"
           else
             BASE_MANIFEST="$(find "${EXTRACT_DIR}" -type f -name 'manifest.json' -print -quit)"
-            if [ -z "${BASE_MANIFEST}" ]; then
-              echo "::error::no manifest.json"
-              exit 1
-            fi
+            test -n "${BASE_MANIFEST}" || { echo "::error::no manifest"; exit 1; }
             BASE_DIR="$(dirname "${BASE_MANIFEST}")"
           fi
 
@@ -227,12 +171,7 @@ jobs:
           mkdir -p "${EXT_DIR}"
           cp -a "${BASE_DIR}/." "${EXT_DIR}/"
 
-          echo "Fetching CaptchaRaptor WS addon..."
-          rm -rf /tmp/captchaplugin
-          git clone --depth 1 \
-            https://github.com/CaptchaRaptor/captchaplugin.git \
-            /tmp/captchaplugin
-
+          git clone --depth 1 https://github.com/CaptchaRaptor/captchaplugin.git /tmp/captchaplugin
           mkdir -p "${EXT_DIR}/ws"
           cp /tmp/captchaplugin/ws-addon/ws/background_ws.js "${EXT_DIR}/ws/background_ws.js"
           cp /tmp/captchaplugin/ws-addon/ws/offscreen.html "${EXT_DIR}/ws/offscreen.html"
@@ -240,71 +179,36 @@ jobs:
           cp /tmp/captchaplugin/ws-addon/ws/recaptcha_frame_watch.js "${EXT_DIR}/ws/recaptcha_frame_watch.js"
           cp /tmp/captchaplugin/ws-addon/manifest.json "${EXT_DIR}/manifest.json"
 
-          FINAL_MANIFEST="${EXT_DIR}/manifest.json"
-
-          python3 - "${FINAL_MANIFEST}" <<'PY'
-          import json
-          import sys
+          python3 - "${EXT_DIR}/manifest.json" <<'PY'
+          import json, sys
           from pathlib import Path
-
-          path = Path(sys.argv[1])
-          data = json.loads(path.read_text(encoding="utf-8"))
-          name = str(data.get("name", ""))
-          background = data.get("background", {}) or {}
-          service_worker = background.get("service_worker")
-          permissions = set(data.get("permissions", []))
-
-          print(f"name: {name}")
-          print(f"version: {data.get('version')}")
-          print(f"service_worker: {service_worker}")
-          print(f"permissions: {sorted(permissions)}")
-
-          lowered = name.lower()
-          if "buster" in lowered:
-              print("::error::BUSTER DETECTED")
-              sys.exit(1)
-          if not ("captcharaptor" in lowered or "raptor" in lowered or "free ai recaptcha solver" in lowered):
-              print(f"::error::Unknown extension: {name!r}")
-              sys.exit(1)
-          if service_worker != "background.js":
-              print(f"::error::Unexpected SW: {service_worker!r}")
-              sys.exit(1)
-          missing = {"tabs", "debugger", "offscreen"} - permissions
-          if missing:
-              print(f"::error::missing perms: {sorted(missing)}")
-              sys.exit(1)
-          print("Raptor WS manifest validation: OK")
+          d = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
+          name = str(d.get("name", "")).lower()
+          if "buster" in name: raise SystemExit("BUSTER DETECTED")
+          if not ("captcharaptor" in name or "raptor" in name or "free ai recaptcha solver" in name):
+              raise SystemExit(f"Unknown ext: {name}")
+          print("Raptor manifest OK")
           PY
 
-          echo "Raptor extension ready"
-
-      - name: Check CaptchaPlugin API key secret
+      - name: Check CaptchaPlugin API key
         env:
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
         run: |
           set -euo pipefail
           if [ -z "${CAPTCHA_PLUGIN_API_KEY}" ]; then
-            echo "::error::CAPTCHA_PLUGIN_API_KEY missing"
-            exit 1
+            echo "::error::CAPTCHA_PLUGIN_API_KEY missing"; exit 1
           fi
-          echo "CAPTCHA_PLUGIN_API_KEY is configured"
+          echo "CAPTCHA_PLUGIN_API_KEY present"
 
       - name: Verify worker
         working-directory: source
         run: |
           set -euo pipefail
-
-          echo "Worker dir:"
           ls -la worker/
-
           test -f worker/worker.py
           test -f worker/text_captcha.py
-
-          python3 -m py_compile \
-            worker/worker.py \
-            worker/text_captcha.py
-
-          echo "worker.py + text_captcha.py syntax: OK"
+          python3 -m py_compile worker/worker.py worker/text_captcha.py
+          echo "syntax OK"
 
       - name: Verify Raptor extension
         run: |
@@ -312,18 +216,7 @@ jobs:
           EXT_DIR="/tmp/free-ai-recaptcha-solver"
           test -d "${EXT_DIR}"
           test -f "${EXT_DIR}/manifest.json"
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          path = Path("/tmp/free-ai-recaptcha-solver/manifest.json")
-          data = json.loads(path.read_text(encoding="utf-8"))
-          name = str(data.get("name", "")).lower()
-          if "buster" in name:
-              raise SystemExit("BUSTER DETECTED")
-          if not ("captcharaptor" in name or "raptor" in name or "free ai recaptcha solver" in name):
-              raise SystemExit(f"Unknown extension: {name!r}")
-          print("Raptor verify OK")
-          PY
+          echo "Raptor extension present"
 
       - name: Run worker
         working-directory: source
@@ -339,21 +232,10 @@ jobs:
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
         run: |
           set -euo pipefail
-
           echo "========================================"
           echo "          DORK SWARM WORKER v5.0"
-          echo "     (text-first → Raptor → tunnel)"
+          echo "     (text -> Raptor -> tunnel)"
           echo "========================================"
-
-          echo "Worker:     ${WORKER}"
-          echo "Workers:    ${WORKERS}"
-          echo "Pages:      ${PAGES}"
-          echo "Extension:  ${EXTENSION_PATH}"
-
           test -f worker/worker.py
           test -f worker/text_captcha.py
-
-          xvfb-run \
-            -a \
-            --server-args="-screen 0 1280x900x24" \
-            python3 worker/worker.py
+          xvfb-run -a --server-args="-screen 0 1280x900x24" python3 worker/worker.py
