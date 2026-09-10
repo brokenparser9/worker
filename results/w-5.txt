@@ -150,3 +150,17 @@ https://www.applebyglobal.com/
 https://www.acc.com/
 https://www.applebyglobal.com/insights/insights-2017/global-legal-insights---fund-finance-2017.pdf
 https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1462546_1.pdf
+https://stackoverflow.com/questions/44513054/pg-query-query-failed-error-column-doesnot-exist?__cf_chl_rt_tk=bWq__qmlpc84yQw1kA7GKcpkfQM5mEdGP1g9hoeD10E-1789077746-1.0.1.1-0w8HbK..JJI_dCsqvXFZvctYK4y5XUd3iBtEiCJWtEI
+https://stackoverflow.com/questions/44513054/pg-query-query-failed-error-column-doesnot-exist/44513124?__cf_chl_rt_tk=S2r0TCN8dbO1HgxP31b.bZ7E.a9M.XIiUHbOB37GMWo-1789077747-1.0.1.1-KzjANr7NV5BDxaMRrrjTd2mfsP41FPmOJVhf5wZu9Cc#44513124
+https://stackoverflow.com/questions/1241501/to-solve-a-pg-query-error-message-in-php?__cf_chl_rt_tk=nMKoKVL1EFuZmXkpIQAaFQfRgOEouulWl9a7Ju01IhI-1789077750-1.0.1.1-2Efh_OR_ot.O10mMGpX6MOixkr77U4ZFJ3VvXuh0ToM
+https://gis.stackexchange.com/questions/362226/php-call-to-undefined-function-pg-connect-with-ms4w-for-postgresql?__cf_chl_rt_tk=yPt6D6J4NI099w4wkSVbp7hJVXGpXyt6nKzCf5pxDRk-1789077756-1.0.1.1-0gnr87OUzznz972RUEgCBf3WHwqQpczTAkfGYmzds7Q
+https://github.com/flow-php/flow/issues/2483
+https://www.youtube.com/watch?v=SKeZhAfiEPY
+https://forum.phalcon.io/discussion/20749/zendmmheap-corrupted-on-db-query
+https://rjspmcollege.ac.in/wp-content/uploads/2021/01/Working-with-PHP-and-Postgresql-converted.pdf
+https://www.php.net/
+https://forum.phalcon.io/
+https://gis.stackexchange.com/
+https://rjspmcollege.ac.in/
+https://www.php.net/manual/en/function.pg-query.php
+https://www.reddit.com/r/PHPhelp/comments/1bn17pp/pg_query_works_fine_pg_insert_fails/
