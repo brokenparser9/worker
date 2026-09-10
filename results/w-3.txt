@@ -88,3 +88,12 @@ https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnot
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-15-1-3.html
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-16-0-0.html
 https://blog.cloudflare.com/20-percent-internet-upgrade/
+https://www.sciencedirect.com/science/article/pii/S0167404824000981?__cf_chl_rt_tk=8YodI_hzVQ4iQ6KUVURsqDEnhR9aUfp1R2GomldZfb8-1789063287-1.0.1.1-xn.mtJZCSVT3NTtiyBkkN7nbdmDWSKFHTgonUxbRJho
+https://www.huntress.com/
+https://www.spamhaus.org/
+https://portswigger.net/
+https://labs.watchtowr.com/
+https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke
+https://www.spamhaus.org/blocklists/exploits-blocklist/
+https://portswigger.net/web-security/file-upload
+https://labs.watchtowr.com/form-tools-we-need-to-talk-about-php/
