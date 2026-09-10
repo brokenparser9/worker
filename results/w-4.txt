@@ -372,3 +372,6 @@ https://stackoverflow.com/questions/38965899/how-to-get-the-homepage-url
 https://stackoverflow.com/questions/33676599/get-page-id-value-and-display-in-url-via-htaccess
 https://stackoverflow.com/questions/7538791/urlid-1-how-do-i-get-the-id-using-a-php-mysql-function
 https://stackoverflow.com/questions/62852398/how-to-get-url-path-in-php-index-file
+https://www.sec.gov/Archives/edgar/data/2040807/000119312525242494/d53787ddefm14a.htm
+https://aoreltd.com/
+https://aoreltd.com/proxy-statements/
