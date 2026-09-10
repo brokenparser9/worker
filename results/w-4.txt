@@ -333,3 +333,6 @@ https://stackoverflow.com/questions/168610/can-you-get-a-windows-ad-username-in-
 https://www.oracle.com/
 https://www.elastic.co/docs/reference/elasticsearch/clients/php/search_operations
 https://www.oracle.com/a/tech/docs/database/201212-ug-php-oracle.pdf
+https://guides.newman.baruch.cuny.edu/c.php?g=188202&p=1244333
+https://guides.newman.baruch.cuny.edu/
+https://investors.publicstorage.com/financial-reports/proxy-statements/default.aspx
