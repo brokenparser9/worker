@@ -82,3 +82,16 @@ https://nginx.org/en/docs/http/ngx_http_core_module.html
 https://docs.saucelabs.com/dev/cli/sauce-connect-proxy/
 https://curl.se/docs/tutorial.html
 https://www.drupal.org/forum/support/post-installation/2020-04-06/solved-drupal-8-is-adding-indexphp-in-url
+https://dptsecure.com/view_file.php?filename=view_file.php&filetype=html
+https://stackoverflow.com/questions/173868/how-can-i-get-a-files-extension-in-php
+https://dptsecure.com/
+https://doc.wikimedia.org/
+https://www.cve.org/
+http://182.253.238.218/
+https://pubmed.ncbi.nlm.nih.gov/
+https://www.reddit.com/r/phinvest/comments/mh0t2o/how_does_one_get_access_to_ph_public_company/
+https://doc.wikimedia.org/mediawiki-core/master/php/ExtensionRegistry_8php_source.html
+https://github.com/oliver-moran/php-proxy/blob/master/index.php
+https://www.php.net/ChangeLog-8.php
+https://www.quora.com/How-do-I-view-a-PHP-source-code-of-a-website-just-like-we-see-the-HTML-and-other-codes
+https://pubmed.ncbi.nlm.nih.gov/help/
