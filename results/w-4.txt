@@ -584,3 +584,11 @@ https://stackoverflow.com/questions/29395452/php-connection-failed-sqlstatehy000
 https://stackoverflow.com/questions/68876020/use-php-change-link-address-in-html-source-code
 https://stackoverflow.com/questions/43910868/fatal-unable-to-update-url-base-from-redirection
 https://stackoverflow.com/questions/23740548/how-do-i-pass-variables-and-data-from-php-to-javascript
+https://stackoverflow.com/questions/60141044/how-can-i-find-an-applications-base-url-behind-a-proxy
+https://stackoverflow.com/questions/60141044/how-can-i-find-an-applications-base-url-behind-a-proxy/60159309#60159309
+https://www.diligent.com/
+https://www.fool.com/
+https://www.diligent.com/resources/blog/what-is-a-proxy-statement
+https://www.fool.com/terms/p/proxy-statement/
+https://brightdata.com/blog/how-tos/php-proxy-servers
+https://httpd.apache.org/docs/current/mod/mod_proxy.html
