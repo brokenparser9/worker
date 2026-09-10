@@ -767,3 +767,15 @@ https://knowledge.lancashire.ac.uk/
 https://www.unilever.com/files/unilever-annual-report-and-accounts-2024.pdf
 https://www.bighand.com/en-us/our-solutions/business-intelligence/
 https://www.mahindra.com/sites/default/files/2025-06/MMAnnualReportFY2025.pdf
+https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002001&id=9025926
+https://www.eia.gov/tools/a-z/index.php?id=t
+https://stackoverflow.com/questions/55615729/php-page-crash-pdo-with-85000-result-max-number-of-returning-rows?__cf_chl_rt_tk=3BIJuy_rQkw3HJadRbHj9qBpRVGeIHQ26WdGDWRO6GQ-1789081988-1.0.1.1-4gHJ3P7ek_jtvJ5cMH9jb30MzTEHUzBEW1Ld4tMVFAQ
+https://stackoverflow.com/questions/77141937/get-original-laravel-eloquent-model-on-update
+https://stackoverflow.com/questions/31164890/usps-api-returning-80040b19-error-code-and-account-is-in-production
+https://www.nass.usda.gov/
+https://www.eia.gov/
+https://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/index.php
+https://investor.lenovo.com/en/ai/ai_investments_reports.php
+https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Grapes/Crush/Reports/index.php
+https://investor.lenovo.com/en/ir/calendar.php
+https://www.eia.gov/petroleum/refinerycapacity/
