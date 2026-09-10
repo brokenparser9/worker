@@ -238,3 +238,9 @@ https://stackoverflow.com/questions/46264265/id-from-a-url-that-does-not-include
 https://stackoverflow.com/questions/74878889/php-warning-deprecated-creation-of-dynamic-property-is-deprecated
 https://stackoverflow.com/questions/2364840/what-is-the-size-limit-of-an-http-post-request
 https://stackoverflow.com/questions/55042524/encoding-a-url-to-retrieve-it-in-php
+https://uk.practicallaw.thomsonreuters.com/8-382-3722?transitionType=Default&contextData=(sc.Default)#:~:text=The%20proxy%20statement%20provides%20information,company%2C%20including%20corporate%20governance%20matters.
+https://www.sec.gov/Archives/edgar/data/63908/000120677422001058/mcd3962181-defc14a.htm
+https://s26.q4cdn.com/410417801/files/doc_downloads/2026/04/2026-Proxy-Statement.pdf
+https://s26.q4cdn.com/
+https://uk.practicallaw.thomsonreuters.com/
+https://www.investor.gov/introduction-investing/investing-basics/glossary/proxy-statements
