@@ -542,3 +542,17 @@ https://www.haproxy.com/documentation/haproxy-configuration-manual/latest/
 https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf
 https://help.zscaler.com/zia/caution-custom-notification
 https://developer.visa.com/request_response_codes
+https://studylib.net/doc/27651973/google-dorks-for-sql-injection
+https://stackoverflow.com/questions/52288781/php-profiler-getting-client-ip-and-url-from-php-extension-using-c
+https://www.imf.org/
+https://www.acunetix.com/
+https://www.globaldatabase.com/
+https://www.pcisecuritystandards.org/
+https://brightdata.com/
+https://www.odoo.com/
+https://www.eia.gov/
+https://www.imf.org/en/home
+https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/
+https://www.globaldatabase.com/browser-extension
+https://brightdata.com/blog/proxy-101/proxy-error-codes
+https://www.eia.gov/states/overview
