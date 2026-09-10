@@ -173,3 +173,17 @@ https://www.php.net/manual/en/sqlite3.open.php
 https://dev.to/_russell/an-introduction-to-php-and-sqlite-2agg
 https://www.php.net/manual/en/sqlite3.prepare.php
 https://www.php.net/manual/en/sqlite3.construct.php
+https://stackoverflow.com/questions/37563615/this-extension-requires-the-microsoft-odbc-driver-11-for-sql-server-in-php?__cf_chl_rt_tk=2RFd5kSBD9vjZgbwngPZjryQ_S6LKdkAsOLrD1_uybA-1789079291-1.0.1.1-PG4f0m82m473iOMpqUs.ar4cLlfKXCVGanbj7572J4Q
+https://learn.microsoft.com/en-us/answers/questions/5600575/odbc-connection-via-php-suddenly-started-failing
+https://www.experts-exchange.com/questions/29256799/Why-can't-php-find-the-odbc-driver.html
+https://github.com/microsoft/msphpsql/issues/1457
+https://www.facebook.com/groups/codingquestions/posts/657640231303966/
+https://stackoverflow.com/questions/71688125/odbc-driver-18-for-sql-serverssl-provider-error1416f086
+https://stackoverflow.com/questions/71688125/odbc-driver-18-for-sql-serverssl-provider-error1416f086/72348333#72348333
+https://cloudlinux.zendesk.com/
+https://learn.microsoft.com/
+https://www.experts-exchange.com/
+https://docs.devart.com/
+https://cloudlinux.zendesk.com/hc/en-us/articles/4587109929116-This-extension-requires-the-Microsoft-ODBC-Driver-for-SQL-Server
+https://www.php.net/manual/en/function.odbc-connect.php
+https://docs.devart.com/odbc/sqlserver/php.htm
