@@ -1,0 +1,2000 @@
+fiduciary duty inurl:view.php inurl:id= intext:"id="
+fiduciary duty inurl:product.php inurl:id= intext:"id="
+fiduciary duty inurl:pro.php inurl:id= intext:"id="
+fiduciary duty inurl:show.php inurl:id= intext:"id="
+fiduciary duty inurl:detail.php inurl:id= intext:"id="
+fiduciary duty inurl:item.php inurl:id= intext:"id="
+fiduciary duty inurl:article.php inurl:id= intext:"id="
+fiduciary duty inurl:news.php inurl:id= intext:"id="
+fiduciary duty inurl:page.php inurl:id= intext:"id="
+fiduciary duty inurl:main.php inurl:id= intext:"id="
+fiduciary duty inurl:cat.php inurl:id= intext:"id="
+fiduciary duty inurl:category.php inurl:id= intext:"id="
+fiduciary duty inurl:goods.php inurl:id= intext:"id="
+fiduciary duty inurl:shop.php inurl:id= intext:"id="
+fiduciary duty inurl:listing.php inurl:id= intext:"id="
+fiduciary duty inurl:post.php inurl:id= intext:"id="
+fiduciary duty inurl:print.php inurl:id= intext:"id="
+fiduciary duty inurl:info.php inurl:id= intext:"id="
+fiduciary duty inurl:book.php inurl:id= intext:"id="
+fiduciary duty inurl:index.php inurl:id= intext:"id="
+fiduciary duty inurl:read.php inurl:id= intext:"id="
+fiduciary duty inurl:data.php inurl:id= intext:"id="
+fiduciary duty inurl:gallery.php inurl:id= intext:"id="
+fiduciary duty inurl:event.php inurl:id= intext:"id="
+fiduciary duty inurl:review.php inurl:id= intext:"id="
+fiduciary duty inurl:offer.php inurl:id= intext:"id="
+fiduciary duty inurl:download.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:file.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:open.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:load.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:get.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:preview.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:export.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:report.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:dl.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:attach.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:stream.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty inurl:serve.php inurl:id= intext:"Warning: mysql_"
+fiduciary duty intext:"You have an error in your SQL syntax" -inurl:https
+fiduciary duty intext:"mysql_fetch_array()" -inurl:https
+fiduciary duty intext:"Warning: mysql_" intext:"on line" -inurl:https
+fiduciary duty intext:"Uncaught mysqli_sql_exception" -inurl:https
+fiduciary duty intext:"pg_query(): Query failed" -inurl:https
+fiduciary duty intext:"SQLite3::query" intext:"on line" -inurl:https
+fiduciary duty intext:"ORA-00933" -inurl:https
+fiduciary duty intext:"ORA-01756" -inurl:https
+fiduciary duty intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+fiduciary duty intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+fiduciary duty intext:"Syntax error in string in query" -inurl:https
+fiduciary duty intext:"Invalid query:" intext:"on line" -inurl:https
+fiduciary duty intext:"mysql_num_rows()" -inurl:https
+fiduciary duty intext:"DB Error:" intext:"on line" -inurl:https
+fiduciary duty intext:"Unclosed quotation mark after the character string" -inurl:https
+fiduciary duty intext:"Incorrect syntax near" -inurl:https
+fiduciary duty intext:"supplied argument is not a valid MySQL" -inurl:https
+fiduciary duty intext:"org.postgresql.util.PSQLException" -inurl:https
+fiduciary duty intext:"com.mysql.jdbc.exceptions" -inurl:https
+fiduciary duty intext:"mysqli_error()" -inurl:https
+fiduciary duty intext:"mysql_error()" -inurl:https
+fiduciary duty intext:"SQLSTATE[42000]" -inurl:https
+fiduciary duty intext:"Fatal error" intext:"mysql" -inurl:https
+fiduciary duty intext:"Warning: pg_" intext:"on line" -inurl:https
+fiduciary duty intext:"System.Data.SqlClient.SqlException" -inurl:https
+boardroom inurl:view.php inurl:id= intext:"id="
+boardroom inurl:product.php inurl:id= intext:"id="
+boardroom inurl:pro.php inurl:id= intext:"id="
+boardroom inurl:show.php inurl:id= intext:"id="
+boardroom inurl:detail.php inurl:id= intext:"id="
+boardroom inurl:item.php inurl:id= intext:"id="
+boardroom inurl:article.php inurl:id= intext:"id="
+boardroom inurl:news.php inurl:id= intext:"id="
+boardroom inurl:page.php inurl:id= intext:"id="
+boardroom inurl:main.php inurl:id= intext:"id="
+boardroom inurl:cat.php inurl:id= intext:"id="
+boardroom inurl:category.php inurl:id= intext:"id="
+boardroom inurl:goods.php inurl:id= intext:"id="
+boardroom inurl:shop.php inurl:id= intext:"id="
+boardroom inurl:listing.php inurl:id= intext:"id="
+boardroom inurl:post.php inurl:id= intext:"id="
+boardroom inurl:print.php inurl:id= intext:"id="
+boardroom inurl:info.php inurl:id= intext:"id="
+boardroom inurl:book.php inurl:id= intext:"id="
+boardroom inurl:index.php inurl:id= intext:"id="
+boardroom inurl:read.php inurl:id= intext:"id="
+boardroom inurl:data.php inurl:id= intext:"id="
+boardroom inurl:gallery.php inurl:id= intext:"id="
+boardroom inurl:event.php inurl:id= intext:"id="
+boardroom inurl:review.php inurl:id= intext:"id="
+boardroom inurl:offer.php inurl:id= intext:"id="
+boardroom inurl:download.php inurl:id= before:2023-01-01
+boardroom inurl:file.php inurl:id= before:2023-01-01
+boardroom inurl:open.php inurl:id= before:2023-01-01
+boardroom inurl:load.php inurl:id= before:2023-01-01
+boardroom inurl:get.php inurl:id= before:2023-01-01
+boardroom inurl:fetch.php inurl:id= before:2023-01-01
+boardroom inurl:preview.php inurl:id= before:2023-01-01
+boardroom inurl:export.php inurl:id= before:2023-01-01
+boardroom inurl:report.php inurl:id= before:2023-01-01
+boardroom inurl:dl.php inurl:id= before:2023-01-01
+boardroom inurl:attach.php inurl:id= before:2023-01-01
+boardroom inurl:stream.php inurl:id= before:2023-01-01
+boardroom inurl:serve.php inurl:id= before:2023-01-01
+boardroom intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+boardroom intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+boardroom intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+boardroom intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+boardroom intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+boardroom intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+boardroom intext:"ORA-00933" intext:"Warning: mysql_"
+boardroom intext:"ORA-01756" intext:"Warning: mysql_"
+boardroom intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+boardroom intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+boardroom intext:"Syntax error in string in query" intext:"Warning: mysql_"
+boardroom intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+boardroom intext:"mysql_num_rows()" intext:"Warning: mysql_"
+boardroom intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+boardroom intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+boardroom intext:"Incorrect syntax near" intext:"Warning: mysql_"
+boardroom intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+boardroom intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+boardroom intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+boardroom intext:"mysqli_error()" intext:"Warning: mysql_"
+boardroom intext:"mysql_error()" intext:"Warning: mysql_"
+boardroom intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+boardroom intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+boardroom intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+boardroom intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+conglomerate inurl:view.php inurl:id= ext:php
+conglomerate inurl:product.php inurl:id= ext:php
+conglomerate inurl:pro.php inurl:id= ext:php
+conglomerate inurl:show.php inurl:id= ext:php
+conglomerate inurl:detail.php inurl:id= ext:php
+conglomerate inurl:item.php inurl:id= ext:php
+conglomerate inurl:article.php inurl:id= ext:php
+conglomerate inurl:news.php inurl:id= ext:php
+conglomerate inurl:page.php inurl:id= ext:php
+conglomerate inurl:main.php inurl:id= ext:php
+conglomerate inurl:cat.php inurl:id= ext:php
+conglomerate inurl:category.php inurl:id= ext:php
+conglomerate inurl:goods.php inurl:id= ext:php
+conglomerate inurl:shop.php inurl:id= ext:php
+conglomerate inurl:listing.php inurl:id= ext:php
+conglomerate inurl:post.php inurl:id= ext:php
+conglomerate inurl:print.php inurl:id= ext:php
+conglomerate inurl:info.php inurl:id= ext:php
+conglomerate inurl:book.php inurl:id= ext:php
+conglomerate inurl:index.php inurl:id= ext:php
+conglomerate inurl:read.php inurl:id= ext:php
+conglomerate inurl:data.php inurl:id= ext:php
+conglomerate inurl:gallery.php inurl:id= ext:php
+conglomerate inurl:event.php inurl:id= ext:php
+conglomerate inurl:review.php inurl:id= ext:php
+conglomerate inurl:offer.php inurl:id= ext:php
+conglomerate inurl:download.php inurl:id= before:2023-01-01
+conglomerate inurl:file.php inurl:id= before:2023-01-01
+conglomerate inurl:open.php inurl:id= before:2023-01-01
+conglomerate inurl:load.php inurl:id= before:2023-01-01
+conglomerate inurl:get.php inurl:id= before:2023-01-01
+conglomerate inurl:fetch.php inurl:id= before:2023-01-01
+conglomerate inurl:preview.php inurl:id= before:2023-01-01
+conglomerate inurl:export.php inurl:id= before:2023-01-01
+conglomerate inurl:report.php inurl:id= before:2023-01-01
+conglomerate inurl:dl.php inurl:id= before:2023-01-01
+conglomerate inurl:attach.php inurl:id= before:2023-01-01
+conglomerate inurl:stream.php inurl:id= before:2023-01-01
+conglomerate inurl:serve.php inurl:id= before:2023-01-01
+conglomerate intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+conglomerate intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+conglomerate intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+conglomerate intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+conglomerate intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+conglomerate intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+conglomerate intext:"ORA-00933" intext:"Warning: mysql_"
+conglomerate intext:"ORA-01756" intext:"Warning: mysql_"
+conglomerate intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+conglomerate intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+conglomerate intext:"Syntax error in string in query" intext:"Warning: mysql_"
+conglomerate intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+conglomerate intext:"mysql_num_rows()" intext:"Warning: mysql_"
+conglomerate intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+conglomerate intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+conglomerate intext:"Incorrect syntax near" intext:"Warning: mysql_"
+conglomerate intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+conglomerate intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+conglomerate intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+conglomerate intext:"mysqli_error()" intext:"Warning: mysql_"
+conglomerate intext:"mysql_error()" intext:"Warning: mysql_"
+conglomerate intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+conglomerate intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+conglomerate intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+conglomerate intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+holding company inurl:view.php inurl:id= before:2023-01-01
+holding company inurl:product.php inurl:id= before:2023-01-01
+holding company inurl:pro.php inurl:id= before:2023-01-01
+holding company inurl:show.php inurl:id= before:2023-01-01
+holding company inurl:detail.php inurl:id= before:2023-01-01
+holding company inurl:item.php inurl:id= before:2023-01-01
+holding company inurl:article.php inurl:id= before:2023-01-01
+holding company inurl:news.php inurl:id= before:2023-01-01
+holding company inurl:page.php inurl:id= before:2023-01-01
+holding company inurl:main.php inurl:id= before:2023-01-01
+holding company inurl:cat.php inurl:id= before:2023-01-01
+holding company inurl:category.php inurl:id= before:2023-01-01
+holding company inurl:goods.php inurl:id= before:2023-01-01
+holding company inurl:shop.php inurl:id= before:2023-01-01
+holding company inurl:listing.php inurl:id= before:2023-01-01
+holding company inurl:post.php inurl:id= before:2023-01-01
+holding company inurl:print.php inurl:id= before:2023-01-01
+holding company inurl:info.php inurl:id= before:2023-01-01
+holding company inurl:book.php inurl:id= before:2023-01-01
+holding company inurl:index.php inurl:id= before:2023-01-01
+holding company inurl:read.php inurl:id= before:2023-01-01
+holding company inurl:data.php inurl:id= before:2023-01-01
+holding company inurl:gallery.php inurl:id= before:2023-01-01
+holding company inurl:event.php inurl:id= before:2023-01-01
+holding company inurl:review.php inurl:id= before:2023-01-01
+holding company inurl:offer.php inurl:id= before:2023-01-01
+holding company inurl:download.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:file.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:open.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:load.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:get.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:preview.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:export.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:report.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:dl.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:attach.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:stream.php inurl:id= intext:"Warning: mysql_"
+holding company inurl:serve.php inurl:id= intext:"Warning: mysql_"
+holding company intext:"You have an error in your SQL syntax" ext:php
+holding company intext:"mysql_fetch_array()" ext:php
+holding company intext:"Warning: mysql_" intext:"on line" ext:php
+holding company intext:"Uncaught mysqli_sql_exception" ext:php
+holding company intext:"pg_query(): Query failed" ext:php
+holding company intext:"SQLite3::query" intext:"on line" ext:php
+holding company intext:"ORA-00933" ext:php
+holding company intext:"ORA-01756" ext:php
+holding company intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+holding company intext:"ODBC SQL Server Driver" intext:"error" ext:php
+holding company intext:"Syntax error in string in query" ext:php
+holding company intext:"Invalid query:" intext:"on line" ext:php
+holding company intext:"mysql_num_rows()" ext:php
+holding company intext:"DB Error:" intext:"on line" ext:php
+holding company intext:"Unclosed quotation mark after the character string" ext:php
+holding company intext:"Incorrect syntax near" ext:php
+holding company intext:"supplied argument is not a valid MySQL" ext:php
+holding company intext:"org.postgresql.util.PSQLException" ext:php
+holding company intext:"com.mysql.jdbc.exceptions" ext:php
+holding company intext:"mysqli_error()" ext:php
+holding company intext:"mysql_error()" ext:php
+holding company intext:"SQLSTATE[42000]" ext:php
+holding company intext:"Fatal error" intext:"mysql" ext:php
+holding company intext:"Warning: pg_" intext:"on line" ext:php
+holding company intext:"System.Data.SqlClient.SqlException" ext:php
+spin off inurl:view.php inurl:id= intext:"id="
+spin off inurl:product.php inurl:id= intext:"id="
+spin off inurl:pro.php inurl:id= intext:"id="
+spin off inurl:show.php inurl:id= intext:"id="
+spin off inurl:detail.php inurl:id= intext:"id="
+spin off inurl:item.php inurl:id= intext:"id="
+spin off inurl:article.php inurl:id= intext:"id="
+spin off inurl:news.php inurl:id= intext:"id="
+spin off inurl:page.php inurl:id= intext:"id="
+spin off inurl:main.php inurl:id= intext:"id="
+spin off inurl:cat.php inurl:id= intext:"id="
+spin off inurl:category.php inurl:id= intext:"id="
+spin off inurl:goods.php inurl:id= intext:"id="
+spin off inurl:shop.php inurl:id= intext:"id="
+spin off inurl:listing.php inurl:id= intext:"id="
+spin off inurl:post.php inurl:id= intext:"id="
+spin off inurl:print.php inurl:id= intext:"id="
+spin off inurl:info.php inurl:id= intext:"id="
+spin off inurl:book.php inurl:id= intext:"id="
+spin off inurl:index.php inurl:id= intext:"id="
+spin off inurl:read.php inurl:id= intext:"id="
+spin off inurl:data.php inurl:id= intext:"id="
+spin off inurl:gallery.php inurl:id= intext:"id="
+spin off inurl:event.php inurl:id= intext:"id="
+spin off inurl:review.php inurl:id= intext:"id="
+spin off inurl:offer.php inurl:id= intext:"id="
+spin off inurl:download.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:file.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:open.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:load.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:get.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:preview.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:export.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:report.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:dl.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:attach.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:stream.php inurl:id= intext:"Warning: mysql_"
+spin off inurl:serve.php inurl:id= intext:"Warning: mysql_"
+spin off intext:"You have an error in your SQL syntax" -inurl:https
+spin off intext:"mysql_fetch_array()" -inurl:https
+spin off intext:"Warning: mysql_" intext:"on line" -inurl:https
+spin off intext:"Uncaught mysqli_sql_exception" -inurl:https
+spin off intext:"pg_query(): Query failed" -inurl:https
+spin off intext:"SQLite3::query" intext:"on line" -inurl:https
+spin off intext:"ORA-00933" -inurl:https
+spin off intext:"ORA-01756" -inurl:https
+spin off intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+spin off intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+spin off intext:"Syntax error in string in query" -inurl:https
+spin off intext:"Invalid query:" intext:"on line" -inurl:https
+spin off intext:"mysql_num_rows()" -inurl:https
+spin off intext:"DB Error:" intext:"on line" -inurl:https
+spin off intext:"Unclosed quotation mark after the character string" -inurl:https
+spin off intext:"Incorrect syntax near" -inurl:https
+spin off intext:"supplied argument is not a valid MySQL" -inurl:https
+spin off intext:"org.postgresql.util.PSQLException" -inurl:https
+spin off intext:"com.mysql.jdbc.exceptions" -inurl:https
+spin off intext:"mysqli_error()" -inurl:https
+spin off intext:"mysql_error()" -inurl:https
+spin off intext:"SQLSTATE[42000]" -inurl:https
+spin off intext:"Fatal error" intext:"mysql" -inurl:https
+spin off intext:"Warning: pg_" intext:"on line" -inurl:https
+spin off intext:"System.Data.SqlClient.SqlException" -inurl:https
+carveout inurl:view.php inurl:id= ext:php
+carveout inurl:product.php inurl:id= ext:php
+carveout inurl:pro.php inurl:id= ext:php
+carveout inurl:show.php inurl:id= ext:php
+carveout inurl:detail.php inurl:id= ext:php
+carveout inurl:item.php inurl:id= ext:php
+carveout inurl:article.php inurl:id= ext:php
+carveout inurl:news.php inurl:id= ext:php
+carveout inurl:page.php inurl:id= ext:php
+carveout inurl:main.php inurl:id= ext:php
+carveout inurl:cat.php inurl:id= ext:php
+carveout inurl:category.php inurl:id= ext:php
+carveout inurl:goods.php inurl:id= ext:php
+carveout inurl:shop.php inurl:id= ext:php
+carveout inurl:listing.php inurl:id= ext:php
+carveout inurl:post.php inurl:id= ext:php
+carveout inurl:print.php inurl:id= ext:php
+carveout inurl:info.php inurl:id= ext:php
+carveout inurl:book.php inurl:id= ext:php
+carveout inurl:index.php inurl:id= ext:php
+carveout inurl:read.php inurl:id= ext:php
+carveout inurl:data.php inurl:id= ext:php
+carveout inurl:gallery.php inurl:id= ext:php
+carveout inurl:event.php inurl:id= ext:php
+carveout inurl:review.php inurl:id= ext:php
+carveout inurl:offer.php inurl:id= ext:php
+carveout inurl:download.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:file.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:open.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:load.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:get.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:preview.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:export.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:report.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:dl.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:attach.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:stream.php inurl:id= intext:"Warning: mysql_"
+carveout inurl:serve.php inurl:id= intext:"Warning: mysql_"
+carveout intext:"You have an error in your SQL syntax" before:2023-01-01
+carveout intext:"mysql_fetch_array()" before:2023-01-01
+carveout intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+carveout intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+carveout intext:"pg_query(): Query failed" before:2023-01-01
+carveout intext:"SQLite3::query" intext:"on line" before:2023-01-01
+carveout intext:"ORA-00933" before:2023-01-01
+carveout intext:"ORA-01756" before:2023-01-01
+carveout intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+carveout intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+carveout intext:"Syntax error in string in query" before:2023-01-01
+carveout intext:"Invalid query:" intext:"on line" before:2023-01-01
+carveout intext:"mysql_num_rows()" before:2023-01-01
+carveout intext:"DB Error:" intext:"on line" before:2023-01-01
+carveout intext:"Unclosed quotation mark after the character string" before:2023-01-01
+carveout intext:"Incorrect syntax near" before:2023-01-01
+carveout intext:"supplied argument is not a valid MySQL" before:2023-01-01
+carveout intext:"org.postgresql.util.PSQLException" before:2023-01-01
+carveout intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+carveout intext:"mysqli_error()" before:2023-01-01
+carveout intext:"mysql_error()" before:2023-01-01
+carveout intext:"SQLSTATE[42000]" before:2023-01-01
+carveout intext:"Fatal error" intext:"mysql" before:2023-01-01
+carveout intext:"Warning: pg_" intext:"on line" before:2023-01-01
+carveout intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+earnout inurl:view.php inurl:id= before:2023-01-01
+earnout inurl:product.php inurl:id= before:2023-01-01
+earnout inurl:pro.php inurl:id= before:2023-01-01
+earnout inurl:show.php inurl:id= before:2023-01-01
+earnout inurl:detail.php inurl:id= before:2023-01-01
+earnout inurl:item.php inurl:id= before:2023-01-01
+earnout inurl:article.php inurl:id= before:2023-01-01
+earnout inurl:news.php inurl:id= before:2023-01-01
+earnout inurl:page.php inurl:id= before:2023-01-01
+earnout inurl:main.php inurl:id= before:2023-01-01
+earnout inurl:cat.php inurl:id= before:2023-01-01
+earnout inurl:category.php inurl:id= before:2023-01-01
+earnout inurl:goods.php inurl:id= before:2023-01-01
+earnout inurl:shop.php inurl:id= before:2023-01-01
+earnout inurl:listing.php inurl:id= before:2023-01-01
+earnout inurl:post.php inurl:id= before:2023-01-01
+earnout inurl:print.php inurl:id= before:2023-01-01
+earnout inurl:info.php inurl:id= before:2023-01-01
+earnout inurl:book.php inurl:id= before:2023-01-01
+earnout inurl:index.php inurl:id= before:2023-01-01
+earnout inurl:read.php inurl:id= before:2023-01-01
+earnout inurl:data.php inurl:id= before:2023-01-01
+earnout inurl:gallery.php inurl:id= before:2023-01-01
+earnout inurl:event.php inurl:id= before:2023-01-01
+earnout inurl:review.php inurl:id= before:2023-01-01
+earnout inurl:offer.php inurl:id= before:2023-01-01
+earnout inurl:download.php inurl:id= -inurl:https
+earnout inurl:file.php inurl:id= -inurl:https
+earnout inurl:open.php inurl:id= -inurl:https
+earnout inurl:load.php inurl:id= -inurl:https
+earnout inurl:get.php inurl:id= -inurl:https
+earnout inurl:fetch.php inurl:id= -inurl:https
+earnout inurl:preview.php inurl:id= -inurl:https
+earnout inurl:export.php inurl:id= -inurl:https
+earnout inurl:report.php inurl:id= -inurl:https
+earnout inurl:dl.php inurl:id= -inurl:https
+earnout inurl:attach.php inurl:id= -inurl:https
+earnout inurl:stream.php inurl:id= -inurl:https
+earnout inurl:serve.php inurl:id= -inurl:https
+earnout intext:"You have an error in your SQL syntax" before:2023-01-01
+earnout intext:"mysql_fetch_array()" before:2023-01-01
+earnout intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+earnout intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+earnout intext:"pg_query(): Query failed" before:2023-01-01
+earnout intext:"SQLite3::query" intext:"on line" before:2023-01-01
+earnout intext:"ORA-00933" before:2023-01-01
+earnout intext:"ORA-01756" before:2023-01-01
+earnout intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+earnout intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+earnout intext:"Syntax error in string in query" before:2023-01-01
+earnout intext:"Invalid query:" intext:"on line" before:2023-01-01
+earnout intext:"mysql_num_rows()" before:2023-01-01
+earnout intext:"DB Error:" intext:"on line" before:2023-01-01
+earnout intext:"Unclosed quotation mark after the character string" before:2023-01-01
+earnout intext:"Incorrect syntax near" before:2023-01-01
+earnout intext:"supplied argument is not a valid MySQL" before:2023-01-01
+earnout intext:"org.postgresql.util.PSQLException" before:2023-01-01
+earnout intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+earnout intext:"mysqli_error()" before:2023-01-01
+earnout intext:"mysql_error()" before:2023-01-01
+earnout intext:"SQLSTATE[42000]" before:2023-01-01
+earnout intext:"Fatal error" intext:"mysql" before:2023-01-01
+earnout intext:"Warning: pg_" intext:"on line" before:2023-01-01
+earnout intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+golden parachute inurl:view.php inurl:id= -inurl:https
+golden parachute inurl:product.php inurl:id= -inurl:https
+golden parachute inurl:pro.php inurl:id= -inurl:https
+golden parachute inurl:show.php inurl:id= -inurl:https
+golden parachute inurl:detail.php inurl:id= -inurl:https
+golden parachute inurl:item.php inurl:id= -inurl:https
+golden parachute inurl:article.php inurl:id= -inurl:https
+golden parachute inurl:news.php inurl:id= -inurl:https
+golden parachute inurl:page.php inurl:id= -inurl:https
+golden parachute inurl:main.php inurl:id= -inurl:https
+golden parachute inurl:cat.php inurl:id= -inurl:https
+golden parachute inurl:category.php inurl:id= -inurl:https
+golden parachute inurl:goods.php inurl:id= -inurl:https
+golden parachute inurl:shop.php inurl:id= -inurl:https
+golden parachute inurl:listing.php inurl:id= -inurl:https
+golden parachute inurl:post.php inurl:id= -inurl:https
+golden parachute inurl:print.php inurl:id= -inurl:https
+golden parachute inurl:info.php inurl:id= -inurl:https
+golden parachute inurl:book.php inurl:id= -inurl:https
+golden parachute inurl:index.php inurl:id= -inurl:https
+golden parachute inurl:read.php inurl:id= -inurl:https
+golden parachute inurl:data.php inurl:id= -inurl:https
+golden parachute inurl:gallery.php inurl:id= -inurl:https
+golden parachute inurl:event.php inurl:id= -inurl:https
+golden parachute inurl:review.php inurl:id= -inurl:https
+golden parachute inurl:offer.php inurl:id= -inurl:https
+golden parachute inurl:download.php inurl:id= -inurl:https
+golden parachute inurl:file.php inurl:id= -inurl:https
+golden parachute inurl:open.php inurl:id= -inurl:https
+golden parachute inurl:load.php inurl:id= -inurl:https
+golden parachute inurl:get.php inurl:id= -inurl:https
+golden parachute inurl:fetch.php inurl:id= -inurl:https
+golden parachute inurl:preview.php inurl:id= -inurl:https
+golden parachute inurl:export.php inurl:id= -inurl:https
+golden parachute inurl:report.php inurl:id= -inurl:https
+golden parachute inurl:dl.php inurl:id= -inurl:https
+golden parachute inurl:attach.php inurl:id= -inurl:https
+golden parachute inurl:stream.php inurl:id= -inurl:https
+golden parachute inurl:serve.php inurl:id= -inurl:https
+golden parachute intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+golden parachute intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+golden parachute intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+golden parachute intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+golden parachute intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+golden parachute intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+golden parachute intext:"ORA-00933" intext:"Warning: mysql_"
+golden parachute intext:"ORA-01756" intext:"Warning: mysql_"
+golden parachute intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+golden parachute intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+golden parachute intext:"Syntax error in string in query" intext:"Warning: mysql_"
+golden parachute intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+golden parachute intext:"mysql_num_rows()" intext:"Warning: mysql_"
+golden parachute intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+golden parachute intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+golden parachute intext:"Incorrect syntax near" intext:"Warning: mysql_"
+golden parachute intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+golden parachute intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+golden parachute intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+golden parachute intext:"mysqli_error()" intext:"Warning: mysql_"
+golden parachute intext:"mysql_error()" intext:"Warning: mysql_"
+golden parachute intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+golden parachute intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+golden parachute intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+golden parachute intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+golden handshake inurl:view.php inurl:id= -inurl:https
+golden handshake inurl:product.php inurl:id= -inurl:https
+golden handshake inurl:pro.php inurl:id= -inurl:https
+golden handshake inurl:show.php inurl:id= -inurl:https
+golden handshake inurl:detail.php inurl:id= -inurl:https
+golden handshake inurl:item.php inurl:id= -inurl:https
+golden handshake inurl:article.php inurl:id= -inurl:https
+golden handshake inurl:news.php inurl:id= -inurl:https
+golden handshake inurl:page.php inurl:id= -inurl:https
+golden handshake inurl:main.php inurl:id= -inurl:https
+golden handshake inurl:cat.php inurl:id= -inurl:https
+golden handshake inurl:category.php inurl:id= -inurl:https
+golden handshake inurl:goods.php inurl:id= -inurl:https
+golden handshake inurl:shop.php inurl:id= -inurl:https
+golden handshake inurl:listing.php inurl:id= -inurl:https
+golden handshake inurl:post.php inurl:id= -inurl:https
+golden handshake inurl:print.php inurl:id= -inurl:https
+golden handshake inurl:info.php inurl:id= -inurl:https
+golden handshake inurl:book.php inurl:id= -inurl:https
+golden handshake inurl:index.php inurl:id= -inurl:https
+golden handshake inurl:read.php inurl:id= -inurl:https
+golden handshake inurl:data.php inurl:id= -inurl:https
+golden handshake inurl:gallery.php inurl:id= -inurl:https
+golden handshake inurl:event.php inurl:id= -inurl:https
+golden handshake inurl:review.php inurl:id= -inurl:https
+golden handshake inurl:offer.php inurl:id= -inurl:https
+golden handshake inurl:download.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:file.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:open.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:load.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:get.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:preview.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:export.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:report.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:dl.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:attach.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:stream.php inurl:id= intext:"Warning: mysql_"
+golden handshake inurl:serve.php inurl:id= intext:"Warning: mysql_"
+golden handshake intext:"You have an error in your SQL syntax" ext:php
+golden handshake intext:"mysql_fetch_array()" ext:php
+golden handshake intext:"Warning: mysql_" intext:"on line" ext:php
+golden handshake intext:"Uncaught mysqli_sql_exception" ext:php
+golden handshake intext:"pg_query(): Query failed" ext:php
+golden handshake intext:"SQLite3::query" intext:"on line" ext:php
+golden handshake intext:"ORA-00933" ext:php
+golden handshake intext:"ORA-01756" ext:php
+golden handshake intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+golden handshake intext:"ODBC SQL Server Driver" intext:"error" ext:php
+golden handshake intext:"Syntax error in string in query" ext:php
+golden handshake intext:"Invalid query:" intext:"on line" ext:php
+golden handshake intext:"mysql_num_rows()" ext:php
+golden handshake intext:"DB Error:" intext:"on line" ext:php
+golden handshake intext:"Unclosed quotation mark after the character string" ext:php
+golden handshake intext:"Incorrect syntax near" ext:php
+golden handshake intext:"supplied argument is not a valid MySQL" ext:php
+golden handshake intext:"org.postgresql.util.PSQLException" ext:php
+golden handshake intext:"com.mysql.jdbc.exceptions" ext:php
+golden handshake intext:"mysqli_error()" ext:php
+golden handshake intext:"mysql_error()" ext:php
+golden handshake intext:"SQLSTATE[42000]" ext:php
+golden handshake intext:"Fatal error" intext:"mysql" ext:php
+golden handshake intext:"Warning: pg_" intext:"on line" ext:php
+golden handshake intext:"System.Data.SqlClient.SqlException" ext:php
+poison pill inurl:view.php inurl:id= intext:"id="
+poison pill inurl:product.php inurl:id= intext:"id="
+poison pill inurl:pro.php inurl:id= intext:"id="
+poison pill inurl:show.php inurl:id= intext:"id="
+poison pill inurl:detail.php inurl:id= intext:"id="
+poison pill inurl:item.php inurl:id= intext:"id="
+poison pill inurl:article.php inurl:id= intext:"id="
+poison pill inurl:news.php inurl:id= intext:"id="
+poison pill inurl:page.php inurl:id= intext:"id="
+poison pill inurl:main.php inurl:id= intext:"id="
+poison pill inurl:cat.php inurl:id= intext:"id="
+poison pill inurl:category.php inurl:id= intext:"id="
+poison pill inurl:goods.php inurl:id= intext:"id="
+poison pill inurl:shop.php inurl:id= intext:"id="
+poison pill inurl:listing.php inurl:id= intext:"id="
+poison pill inurl:post.php inurl:id= intext:"id="
+poison pill inurl:print.php inurl:id= intext:"id="
+poison pill inurl:info.php inurl:id= intext:"id="
+poison pill inurl:book.php inurl:id= intext:"id="
+poison pill inurl:index.php inurl:id= intext:"id="
+poison pill inurl:read.php inurl:id= intext:"id="
+poison pill inurl:data.php inurl:id= intext:"id="
+poison pill inurl:gallery.php inurl:id= intext:"id="
+poison pill inurl:event.php inurl:id= intext:"id="
+poison pill inurl:review.php inurl:id= intext:"id="
+poison pill inurl:offer.php inurl:id= intext:"id="
+poison pill inurl:download.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:file.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:open.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:load.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:get.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:preview.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:export.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:report.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:dl.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:attach.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:stream.php inurl:id= intext:"Warning: mysql_"
+poison pill inurl:serve.php inurl:id= intext:"Warning: mysql_"
+poison pill intext:"You have an error in your SQL syntax" -inurl:https
+poison pill intext:"mysql_fetch_array()" -inurl:https
+poison pill intext:"Warning: mysql_" intext:"on line" -inurl:https
+poison pill intext:"Uncaught mysqli_sql_exception" -inurl:https
+poison pill intext:"pg_query(): Query failed" -inurl:https
+poison pill intext:"SQLite3::query" intext:"on line" -inurl:https
+poison pill intext:"ORA-00933" -inurl:https
+poison pill intext:"ORA-01756" -inurl:https
+poison pill intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+poison pill intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+poison pill intext:"Syntax error in string in query" -inurl:https
+poison pill intext:"Invalid query:" intext:"on line" -inurl:https
+poison pill intext:"mysql_num_rows()" -inurl:https
+poison pill intext:"DB Error:" intext:"on line" -inurl:https
+poison pill intext:"Unclosed quotation mark after the character string" -inurl:https
+poison pill intext:"Incorrect syntax near" -inurl:https
+poison pill intext:"supplied argument is not a valid MySQL" -inurl:https
+poison pill intext:"org.postgresql.util.PSQLException" -inurl:https
+poison pill intext:"com.mysql.jdbc.exceptions" -inurl:https
+poison pill intext:"mysqli_error()" -inurl:https
+poison pill intext:"mysql_error()" -inurl:https
+poison pill intext:"SQLSTATE[42000]" -inurl:https
+poison pill intext:"Fatal error" intext:"mysql" -inurl:https
+poison pill intext:"Warning: pg_" intext:"on line" -inurl:https
+poison pill intext:"System.Data.SqlClient.SqlException" -inurl:https
+white knight inurl:view.php inurl:id= intext:"id="
+white knight inurl:product.php inurl:id= intext:"id="
+white knight inurl:pro.php inurl:id= intext:"id="
+white knight inurl:show.php inurl:id= intext:"id="
+white knight inurl:detail.php inurl:id= intext:"id="
+white knight inurl:item.php inurl:id= intext:"id="
+white knight inurl:article.php inurl:id= intext:"id="
+white knight inurl:news.php inurl:id= intext:"id="
+white knight inurl:page.php inurl:id= intext:"id="
+white knight inurl:main.php inurl:id= intext:"id="
+white knight inurl:cat.php inurl:id= intext:"id="
+white knight inurl:category.php inurl:id= intext:"id="
+white knight inurl:goods.php inurl:id= intext:"id="
+white knight inurl:shop.php inurl:id= intext:"id="
+white knight inurl:listing.php inurl:id= intext:"id="
+white knight inurl:post.php inurl:id= intext:"id="
+white knight inurl:print.php inurl:id= intext:"id="
+white knight inurl:info.php inurl:id= intext:"id="
+white knight inurl:book.php inurl:id= intext:"id="
+white knight inurl:index.php inurl:id= intext:"id="
+white knight inurl:read.php inurl:id= intext:"id="
+white knight inurl:data.php inurl:id= intext:"id="
+white knight inurl:gallery.php inurl:id= intext:"id="
+white knight inurl:event.php inurl:id= intext:"id="
+white knight inurl:review.php inurl:id= intext:"id="
+white knight inurl:offer.php inurl:id= intext:"id="
+white knight inurl:download.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:file.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:open.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:load.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:get.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:preview.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:export.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:report.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:dl.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:attach.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:stream.php inurl:id= intext:"Warning: mysql_"
+white knight inurl:serve.php inurl:id= intext:"Warning: mysql_"
+white knight intext:"You have an error in your SQL syntax" -inurl:https
+white knight intext:"mysql_fetch_array()" -inurl:https
+white knight intext:"Warning: mysql_" intext:"on line" -inurl:https
+white knight intext:"Uncaught mysqli_sql_exception" -inurl:https
+white knight intext:"pg_query(): Query failed" -inurl:https
+white knight intext:"SQLite3::query" intext:"on line" -inurl:https
+white knight intext:"ORA-00933" -inurl:https
+white knight intext:"ORA-01756" -inurl:https
+white knight intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+white knight intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+white knight intext:"Syntax error in string in query" -inurl:https
+white knight intext:"Invalid query:" intext:"on line" -inurl:https
+white knight intext:"mysql_num_rows()" -inurl:https
+white knight intext:"DB Error:" intext:"on line" -inurl:https
+white knight intext:"Unclosed quotation mark after the character string" -inurl:https
+white knight intext:"Incorrect syntax near" -inurl:https
+white knight intext:"supplied argument is not a valid MySQL" -inurl:https
+white knight intext:"org.postgresql.util.PSQLException" -inurl:https
+white knight intext:"com.mysql.jdbc.exceptions" -inurl:https
+white knight intext:"mysqli_error()" -inurl:https
+white knight intext:"mysql_error()" -inurl:https
+white knight intext:"SQLSTATE[42000]" -inurl:https
+white knight intext:"Fatal error" intext:"mysql" -inurl:https
+white knight intext:"Warning: pg_" intext:"on line" -inurl:https
+white knight intext:"System.Data.SqlClient.SqlException" -inurl:https
+greenmail inurl:view.php inurl:id= ext:php
+greenmail inurl:product.php inurl:id= ext:php
+greenmail inurl:pro.php inurl:id= ext:php
+greenmail inurl:show.php inurl:id= ext:php
+greenmail inurl:detail.php inurl:id= ext:php
+greenmail inurl:item.php inurl:id= ext:php
+greenmail inurl:article.php inurl:id= ext:php
+greenmail inurl:news.php inurl:id= ext:php
+greenmail inurl:page.php inurl:id= ext:php
+greenmail inurl:main.php inurl:id= ext:php
+greenmail inurl:cat.php inurl:id= ext:php
+greenmail inurl:category.php inurl:id= ext:php
+greenmail inurl:goods.php inurl:id= ext:php
+greenmail inurl:shop.php inurl:id= ext:php
+greenmail inurl:listing.php inurl:id= ext:php
+greenmail inurl:post.php inurl:id= ext:php
+greenmail inurl:print.php inurl:id= ext:php
+greenmail inurl:info.php inurl:id= ext:php
+greenmail inurl:book.php inurl:id= ext:php
+greenmail inurl:index.php inurl:id= ext:php
+greenmail inurl:read.php inurl:id= ext:php
+greenmail inurl:data.php inurl:id= ext:php
+greenmail inurl:gallery.php inurl:id= ext:php
+greenmail inurl:event.php inurl:id= ext:php
+greenmail inurl:review.php inurl:id= ext:php
+greenmail inurl:offer.php inurl:id= ext:php
+greenmail inurl:download.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:file.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:open.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:load.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:get.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:fetch.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:preview.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:export.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:report.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:dl.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:attach.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:stream.php inurl:id= intext:"Warning: mysql_"
+greenmail inurl:serve.php inurl:id= intext:"Warning: mysql_"
+greenmail intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+greenmail intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+greenmail intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+greenmail intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+greenmail intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+greenmail intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+greenmail intext:"ORA-00933" intext:"Warning: mysql_"
+greenmail intext:"ORA-01756" intext:"Warning: mysql_"
+greenmail intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+greenmail intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+greenmail intext:"Syntax error in string in query" intext:"Warning: mysql_"
+greenmail intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+greenmail intext:"mysql_num_rows()" intext:"Warning: mysql_"
+greenmail intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+greenmail intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+greenmail intext:"Incorrect syntax near" intext:"Warning: mysql_"
+greenmail intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+greenmail intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+greenmail intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+greenmail intext:"mysqli_error()" intext:"Warning: mysql_"
+greenmail intext:"mysql_error()" intext:"Warning: mysql_"
+greenmail intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+greenmail intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+greenmail intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+greenmail intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+proxy fight inurl:view.php inurl:id= ext:php
+proxy fight inurl:product.php inurl:id= ext:php
+proxy fight inurl:pro.php inurl:id= ext:php
+proxy fight inurl:show.php inurl:id= ext:php
+proxy fight inurl:detail.php inurl:id= ext:php
+proxy fight inurl:item.php inurl:id= ext:php
+proxy fight inurl:article.php inurl:id= ext:php
+proxy fight inurl:news.php inurl:id= ext:php
+proxy fight inurl:page.php inurl:id= ext:php
+proxy fight inurl:main.php inurl:id= ext:php
+proxy fight inurl:cat.php inurl:id= ext:php
+proxy fight inurl:category.php inurl:id= ext:php
+proxy fight inurl:goods.php inurl:id= ext:php
+proxy fight inurl:shop.php inurl:id= ext:php
+proxy fight inurl:listing.php inurl:id= ext:php
+proxy fight inurl:post.php inurl:id= ext:php
+proxy fight inurl:print.php inurl:id= ext:php
+proxy fight inurl:info.php inurl:id= ext:php
+proxy fight inurl:book.php inurl:id= ext:php
+proxy fight inurl:index.php inurl:id= ext:php
+proxy fight inurl:read.php inurl:id= ext:php
+proxy fight inurl:data.php inurl:id= ext:php
+proxy fight inurl:gallery.php inurl:id= ext:php
+proxy fight inurl:event.php inurl:id= ext:php
+proxy fight inurl:review.php inurl:id= ext:php
+proxy fight inurl:offer.php inurl:id= ext:php
+proxy fight inurl:download.php inurl:id= -inurl:https
+proxy fight inurl:file.php inurl:id= -inurl:https
+proxy fight inurl:open.php inurl:id= -inurl:https
+proxy fight inurl:load.php inurl:id= -inurl:https
+proxy fight inurl:get.php inurl:id= -inurl:https
+proxy fight inurl:fetch.php inurl:id= -inurl:https
+proxy fight inurl:preview.php inurl:id= -inurl:https
+proxy fight inurl:export.php inurl:id= -inurl:https
+proxy fight inurl:report.php inurl:id= -inurl:https
+proxy fight inurl:dl.php inurl:id= -inurl:https
+proxy fight inurl:attach.php inurl:id= -inurl:https
+proxy fight inurl:stream.php inurl:id= -inurl:https
+proxy fight inurl:serve.php inurl:id= -inurl:https
+proxy fight intext:"You have an error in your SQL syntax" before:2023-01-01
+proxy fight intext:"mysql_fetch_array()" before:2023-01-01
+proxy fight intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+proxy fight intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+proxy fight intext:"pg_query(): Query failed" before:2023-01-01
+proxy fight intext:"SQLite3::query" intext:"on line" before:2023-01-01
+proxy fight intext:"ORA-00933" before:2023-01-01
+proxy fight intext:"ORA-01756" before:2023-01-01
+proxy fight intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+proxy fight intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+proxy fight intext:"Syntax error in string in query" before:2023-01-01
+proxy fight intext:"Invalid query:" intext:"on line" before:2023-01-01
+proxy fight intext:"mysql_num_rows()" before:2023-01-01
+proxy fight intext:"DB Error:" intext:"on line" before:2023-01-01
+proxy fight intext:"Unclosed quotation mark after the character string" before:2023-01-01
+proxy fight intext:"Incorrect syntax near" before:2023-01-01
+proxy fight intext:"supplied argument is not a valid MySQL" before:2023-01-01
+proxy fight intext:"org.postgresql.util.PSQLException" before:2023-01-01
+proxy fight intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+proxy fight intext:"mysqli_error()" before:2023-01-01
+proxy fight intext:"mysql_error()" before:2023-01-01
+proxy fight intext:"SQLSTATE[42000]" before:2023-01-01
+proxy fight intext:"Fatal error" intext:"mysql" before:2023-01-01
+proxy fight intext:"Warning: pg_" intext:"on line" before:2023-01-01
+proxy fight intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+hostile takeover inurl:view.php inurl:id= intext:"id="
+hostile takeover inurl:product.php inurl:id= intext:"id="
+hostile takeover inurl:pro.php inurl:id= intext:"id="
+hostile takeover inurl:show.php inurl:id= intext:"id="
+hostile takeover inurl:detail.php inurl:id= intext:"id="
+hostile takeover inurl:item.php inurl:id= intext:"id="
+hostile takeover inurl:article.php inurl:id= intext:"id="
+hostile takeover inurl:news.php inurl:id= intext:"id="
+hostile takeover inurl:page.php inurl:id= intext:"id="
+hostile takeover inurl:main.php inurl:id= intext:"id="
+hostile takeover inurl:cat.php inurl:id= intext:"id="
+hostile takeover inurl:category.php inurl:id= intext:"id="
+hostile takeover inurl:goods.php inurl:id= intext:"id="
+hostile takeover inurl:shop.php inurl:id= intext:"id="
+hostile takeover inurl:listing.php inurl:id= intext:"id="
+hostile takeover inurl:post.php inurl:id= intext:"id="
+hostile takeover inurl:print.php inurl:id= intext:"id="
+hostile takeover inurl:info.php inurl:id= intext:"id="
+hostile takeover inurl:book.php inurl:id= intext:"id="
+hostile takeover inurl:index.php inurl:id= intext:"id="
+hostile takeover inurl:read.php inurl:id= intext:"id="
+hostile takeover inurl:data.php inurl:id= intext:"id="
+hostile takeover inurl:gallery.php inurl:id= intext:"id="
+hostile takeover inurl:event.php inurl:id= intext:"id="
+hostile takeover inurl:review.php inurl:id= intext:"id="
+hostile takeover inurl:offer.php inurl:id= intext:"id="
+hostile takeover inurl:download.php inurl:id= before:2023-01-01
+hostile takeover inurl:file.php inurl:id= before:2023-01-01
+hostile takeover inurl:open.php inurl:id= before:2023-01-01
+hostile takeover inurl:load.php inurl:id= before:2023-01-01
+hostile takeover inurl:get.php inurl:id= before:2023-01-01
+hostile takeover inurl:fetch.php inurl:id= before:2023-01-01
+hostile takeover inurl:preview.php inurl:id= before:2023-01-01
+hostile takeover inurl:export.php inurl:id= before:2023-01-01
+hostile takeover inurl:report.php inurl:id= before:2023-01-01
+hostile takeover inurl:dl.php inurl:id= before:2023-01-01
+hostile takeover inurl:attach.php inurl:id= before:2023-01-01
+hostile takeover inurl:stream.php inurl:id= before:2023-01-01
+hostile takeover inurl:serve.php inurl:id= before:2023-01-01
+hostile takeover intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+hostile takeover intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+hostile takeover intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+hostile takeover intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+hostile takeover intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+hostile takeover intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+hostile takeover intext:"ORA-00933" intext:"Warning: mysql_"
+hostile takeover intext:"ORA-01756" intext:"Warning: mysql_"
+hostile takeover intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+hostile takeover intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+hostile takeover intext:"Syntax error in string in query" intext:"Warning: mysql_"
+hostile takeover intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+hostile takeover intext:"mysql_num_rows()" intext:"Warning: mysql_"
+hostile takeover intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+hostile takeover intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+hostile takeover intext:"Incorrect syntax near" intext:"Warning: mysql_"
+hostile takeover intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+hostile takeover intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+hostile takeover intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+hostile takeover intext:"mysqli_error()" intext:"Warning: mysql_"
+hostile takeover intext:"mysql_error()" intext:"Warning: mysql_"
+hostile takeover intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+hostile takeover intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+hostile takeover intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+hostile takeover intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+tender offer inurl:view.php inurl:id= intext:"id="
+tender offer inurl:product.php inurl:id= intext:"id="
+tender offer inurl:pro.php inurl:id= intext:"id="
+tender offer inurl:show.php inurl:id= intext:"id="
+tender offer inurl:detail.php inurl:id= intext:"id="
+tender offer inurl:item.php inurl:id= intext:"id="
+tender offer inurl:article.php inurl:id= intext:"id="
+tender offer inurl:news.php inurl:id= intext:"id="
+tender offer inurl:page.php inurl:id= intext:"id="
+tender offer inurl:main.php inurl:id= intext:"id="
+tender offer inurl:cat.php inurl:id= intext:"id="
+tender offer inurl:category.php inurl:id= intext:"id="
+tender offer inurl:goods.php inurl:id= intext:"id="
+tender offer inurl:shop.php inurl:id= intext:"id="
+tender offer inurl:listing.php inurl:id= intext:"id="
+tender offer inurl:post.php inurl:id= intext:"id="
+tender offer inurl:print.php inurl:id= intext:"id="
+tender offer inurl:info.php inurl:id= intext:"id="
+tender offer inurl:book.php inurl:id= intext:"id="
+tender offer inurl:index.php inurl:id= intext:"id="
+tender offer inurl:read.php inurl:id= intext:"id="
+tender offer inurl:data.php inurl:id= intext:"id="
+tender offer inurl:gallery.php inurl:id= intext:"id="
+tender offer inurl:event.php inurl:id= intext:"id="
+tender offer inurl:review.php inurl:id= intext:"id="
+tender offer inurl:offer.php inurl:id= intext:"id="
+tender offer inurl:download.php inurl:id= -inurl:https
+tender offer inurl:file.php inurl:id= -inurl:https
+tender offer inurl:open.php inurl:id= -inurl:https
+tender offer inurl:load.php inurl:id= -inurl:https
+tender offer inurl:get.php inurl:id= -inurl:https
+tender offer inurl:fetch.php inurl:id= -inurl:https
+tender offer inurl:preview.php inurl:id= -inurl:https
+tender offer inurl:export.php inurl:id= -inurl:https
+tender offer inurl:report.php inurl:id= -inurl:https
+tender offer inurl:dl.php inurl:id= -inurl:https
+tender offer inurl:attach.php inurl:id= -inurl:https
+tender offer inurl:stream.php inurl:id= -inurl:https
+tender offer inurl:serve.php inurl:id= -inurl:https
+tender offer intext:"You have an error in your SQL syntax" before:2023-01-01
+tender offer intext:"mysql_fetch_array()" before:2023-01-01
+tender offer intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+tender offer intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+tender offer intext:"pg_query(): Query failed" before:2023-01-01
+tender offer intext:"SQLite3::query" intext:"on line" before:2023-01-01
+tender offer intext:"ORA-00933" before:2023-01-01
+tender offer intext:"ORA-01756" before:2023-01-01
+tender offer intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+tender offer intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+tender offer intext:"Syntax error in string in query" before:2023-01-01
+tender offer intext:"Invalid query:" intext:"on line" before:2023-01-01
+tender offer intext:"mysql_num_rows()" before:2023-01-01
+tender offer intext:"DB Error:" intext:"on line" before:2023-01-01
+tender offer intext:"Unclosed quotation mark after the character string" before:2023-01-01
+tender offer intext:"Incorrect syntax near" before:2023-01-01
+tender offer intext:"supplied argument is not a valid MySQL" before:2023-01-01
+tender offer intext:"org.postgresql.util.PSQLException" before:2023-01-01
+tender offer intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+tender offer intext:"mysqli_error()" before:2023-01-01
+tender offer intext:"mysql_error()" before:2023-01-01
+tender offer intext:"SQLSTATE[42000]" before:2023-01-01
+tender offer intext:"Fatal error" intext:"mysql" before:2023-01-01
+tender offer intext:"Warning: pg_" intext:"on line" before:2023-01-01
+tender offer intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+stock option inurl:view.php inurl:id= -inurl:https
+stock option inurl:product.php inurl:id= -inurl:https
+stock option inurl:pro.php inurl:id= -inurl:https
+stock option inurl:show.php inurl:id= -inurl:https
+stock option inurl:detail.php inurl:id= -inurl:https
+stock option inurl:item.php inurl:id= -inurl:https
+stock option inurl:article.php inurl:id= -inurl:https
+stock option inurl:news.php inurl:id= -inurl:https
+stock option inurl:page.php inurl:id= -inurl:https
+stock option inurl:main.php inurl:id= -inurl:https
+stock option inurl:cat.php inurl:id= -inurl:https
+stock option inurl:category.php inurl:id= -inurl:https
+stock option inurl:goods.php inurl:id= -inurl:https
+stock option inurl:shop.php inurl:id= -inurl:https
+stock option inurl:listing.php inurl:id= -inurl:https
+stock option inurl:post.php inurl:id= -inurl:https
+stock option inurl:print.php inurl:id= -inurl:https
+stock option inurl:info.php inurl:id= -inurl:https
+stock option inurl:book.php inurl:id= -inurl:https
+stock option inurl:index.php inurl:id= -inurl:https
+stock option inurl:read.php inurl:id= -inurl:https
+stock option inurl:data.php inurl:id= -inurl:https
+stock option inurl:gallery.php inurl:id= -inurl:https
+stock option inurl:event.php inurl:id= -inurl:https
+stock option inurl:review.php inurl:id= -inurl:https
+stock option inurl:offer.php inurl:id= -inurl:https
+stock option inurl:download.php inurl:id= ext:php
+stock option inurl:file.php inurl:id= ext:php
+stock option inurl:open.php inurl:id= ext:php
+stock option inurl:load.php inurl:id= ext:php
+stock option inurl:get.php inurl:id= ext:php
+stock option inurl:fetch.php inurl:id= ext:php
+stock option inurl:preview.php inurl:id= ext:php
+stock option inurl:export.php inurl:id= ext:php
+stock option inurl:report.php inurl:id= ext:php
+stock option inurl:dl.php inurl:id= ext:php
+stock option inurl:attach.php inurl:id= ext:php
+stock option inurl:stream.php inurl:id= ext:php
+stock option inurl:serve.php inurl:id= ext:php
+stock option intext:"You have an error in your SQL syntax" -inurl:https
+stock option intext:"mysql_fetch_array()" -inurl:https
+stock option intext:"Warning: mysql_" intext:"on line" -inurl:https
+stock option intext:"Uncaught mysqli_sql_exception" -inurl:https
+stock option intext:"pg_query(): Query failed" -inurl:https
+stock option intext:"SQLite3::query" intext:"on line" -inurl:https
+stock option intext:"ORA-00933" -inurl:https
+stock option intext:"ORA-01756" -inurl:https
+stock option intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+stock option intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+stock option intext:"Syntax error in string in query" -inurl:https
+stock option intext:"Invalid query:" intext:"on line" -inurl:https
+stock option intext:"mysql_num_rows()" -inurl:https
+stock option intext:"DB Error:" intext:"on line" -inurl:https
+stock option intext:"Unclosed quotation mark after the character string" -inurl:https
+stock option intext:"Incorrect syntax near" -inurl:https
+stock option intext:"supplied argument is not a valid MySQL" -inurl:https
+stock option intext:"org.postgresql.util.PSQLException" -inurl:https
+stock option intext:"com.mysql.jdbc.exceptions" -inurl:https
+stock option intext:"mysqli_error()" -inurl:https
+stock option intext:"mysql_error()" -inurl:https
+stock option intext:"SQLSTATE[42000]" -inurl:https
+stock option intext:"Fatal error" intext:"mysql" -inurl:https
+stock option intext:"Warning: pg_" intext:"on line" -inurl:https
+stock option intext:"System.Data.SqlClient.SqlException" -inurl:https
+equity stake inurl:view.php inurl:id= before:2023-01-01
+equity stake inurl:product.php inurl:id= before:2023-01-01
+equity stake inurl:pro.php inurl:id= before:2023-01-01
+equity stake inurl:show.php inurl:id= before:2023-01-01
+equity stake inurl:detail.php inurl:id= before:2023-01-01
+equity stake inurl:item.php inurl:id= before:2023-01-01
+equity stake inurl:article.php inurl:id= before:2023-01-01
+equity stake inurl:news.php inurl:id= before:2023-01-01
+equity stake inurl:page.php inurl:id= before:2023-01-01
+equity stake inurl:main.php inurl:id= before:2023-01-01
+equity stake inurl:cat.php inurl:id= before:2023-01-01
+equity stake inurl:category.php inurl:id= before:2023-01-01
+equity stake inurl:goods.php inurl:id= before:2023-01-01
+equity stake inurl:shop.php inurl:id= before:2023-01-01
+equity stake inurl:listing.php inurl:id= before:2023-01-01
+equity stake inurl:post.php inurl:id= before:2023-01-01
+equity stake inurl:print.php inurl:id= before:2023-01-01
+equity stake inurl:info.php inurl:id= before:2023-01-01
+equity stake inurl:book.php inurl:id= before:2023-01-01
+equity stake inurl:index.php inurl:id= before:2023-01-01
+equity stake inurl:read.php inurl:id= before:2023-01-01
+equity stake inurl:data.php inurl:id= before:2023-01-01
+equity stake inurl:gallery.php inurl:id= before:2023-01-01
+equity stake inurl:event.php inurl:id= before:2023-01-01
+equity stake inurl:review.php inurl:id= before:2023-01-01
+equity stake inurl:offer.php inurl:id= before:2023-01-01
+equity stake inurl:download.php inurl:id= before:2023-01-01
+equity stake inurl:file.php inurl:id= before:2023-01-01
+equity stake inurl:open.php inurl:id= before:2023-01-01
+equity stake inurl:load.php inurl:id= before:2023-01-01
+equity stake inurl:get.php inurl:id= before:2023-01-01
+equity stake inurl:fetch.php inurl:id= before:2023-01-01
+equity stake inurl:preview.php inurl:id= before:2023-01-01
+equity stake inurl:export.php inurl:id= before:2023-01-01
+equity stake inurl:report.php inurl:id= before:2023-01-01
+equity stake inurl:dl.php inurl:id= before:2023-01-01
+equity stake inurl:attach.php inurl:id= before:2023-01-01
+equity stake inurl:stream.php inurl:id= before:2023-01-01
+equity stake inurl:serve.php inurl:id= before:2023-01-01
+equity stake intext:"You have an error in your SQL syntax" intext:"Warning: mysql_"
+equity stake intext:"mysql_fetch_array()" intext:"Warning: mysql_"
+equity stake intext:"Warning: mysql_" intext:"on line" intext:"Warning: mysql_"
+equity stake intext:"Uncaught mysqli_sql_exception" intext:"Warning: mysql_"
+equity stake intext:"pg_query(): Query failed" intext:"Warning: mysql_"
+equity stake intext:"SQLite3::query" intext:"on line" intext:"Warning: mysql_"
+equity stake intext:"ORA-00933" intext:"Warning: mysql_"
+equity stake intext:"ORA-01756" intext:"Warning: mysql_"
+equity stake intext:"Microsoft OLE DB Provider for SQL Server" intext:"Warning: mysql_"
+equity stake intext:"ODBC SQL Server Driver" intext:"error" intext:"Warning: mysql_"
+equity stake intext:"Syntax error in string in query" intext:"Warning: mysql_"
+equity stake intext:"Invalid query:" intext:"on line" intext:"Warning: mysql_"
+equity stake intext:"mysql_num_rows()" intext:"Warning: mysql_"
+equity stake intext:"DB Error:" intext:"on line" intext:"Warning: mysql_"
+equity stake intext:"Unclosed quotation mark after the character string" intext:"Warning: mysql_"
+equity stake intext:"Incorrect syntax near" intext:"Warning: mysql_"
+equity stake intext:"supplied argument is not a valid MySQL" intext:"Warning: mysql_"
+equity stake intext:"org.postgresql.util.PSQLException" intext:"Warning: mysql_"
+equity stake intext:"com.mysql.jdbc.exceptions" intext:"Warning: mysql_"
+equity stake intext:"mysqli_error()" intext:"Warning: mysql_"
+equity stake intext:"mysql_error()" intext:"Warning: mysql_"
+equity stake intext:"SQLSTATE[42000]" intext:"Warning: mysql_"
+equity stake intext:"Fatal error" intext:"mysql" intext:"Warning: mysql_"
+equity stake intext:"Warning: pg_" intext:"on line" intext:"Warning: mysql_"
+equity stake intext:"System.Data.SqlClient.SqlException" intext:"Warning: mysql_"
+voting rights inurl:view.php inurl:id= -inurl:https
+voting rights inurl:product.php inurl:id= -inurl:https
+voting rights inurl:pro.php inurl:id= -inurl:https
+voting rights inurl:show.php inurl:id= -inurl:https
+voting rights inurl:detail.php inurl:id= -inurl:https
+voting rights inurl:item.php inurl:id= -inurl:https
+voting rights inurl:article.php inurl:id= -inurl:https
+voting rights inurl:news.php inurl:id= -inurl:https
+voting rights inurl:page.php inurl:id= -inurl:https
+voting rights inurl:main.php inurl:id= -inurl:https
+voting rights inurl:cat.php inurl:id= -inurl:https
+voting rights inurl:category.php inurl:id= -inurl:https
+voting rights inurl:goods.php inurl:id= -inurl:https
+voting rights inurl:shop.php inurl:id= -inurl:https
+voting rights inurl:listing.php inurl:id= -inurl:https
+voting rights inurl:post.php inurl:id= -inurl:https
+voting rights inurl:print.php inurl:id= -inurl:https
+voting rights inurl:info.php inurl:id= -inurl:https
+voting rights inurl:book.php inurl:id= -inurl:https
+voting rights inurl:index.php inurl:id= -inurl:https
+voting rights inurl:read.php inurl:id= -inurl:https
+voting rights inurl:data.php inurl:id= -inurl:https
+voting rights inurl:gallery.php inurl:id= -inurl:https
+voting rights inurl:event.php inurl:id= -inurl:https
+voting rights inurl:review.php inurl:id= -inurl:https
+voting rights inurl:offer.php inurl:id= -inurl:https
+voting rights inurl:download.php inurl:id= before:2023-01-01
+voting rights inurl:file.php inurl:id= before:2023-01-01
+voting rights inurl:open.php inurl:id= before:2023-01-01
+voting rights inurl:load.php inurl:id= before:2023-01-01
+voting rights inurl:get.php inurl:id= before:2023-01-01
+voting rights inurl:fetch.php inurl:id= before:2023-01-01
+voting rights inurl:preview.php inurl:id= before:2023-01-01
+voting rights inurl:export.php inurl:id= before:2023-01-01
+voting rights inurl:report.php inurl:id= before:2023-01-01
+voting rights inurl:dl.php inurl:id= before:2023-01-01
+voting rights inurl:attach.php inurl:id= before:2023-01-01
+voting rights inurl:stream.php inurl:id= before:2023-01-01
+voting rights inurl:serve.php inurl:id= before:2023-01-01
+voting rights intext:"You have an error in your SQL syntax" -inurl:https
+voting rights intext:"mysql_fetch_array()" -inurl:https
+voting rights intext:"Warning: mysql_" intext:"on line" -inurl:https
+voting rights intext:"Uncaught mysqli_sql_exception" -inurl:https
+voting rights intext:"pg_query(): Query failed" -inurl:https
+voting rights intext:"SQLite3::query" intext:"on line" -inurl:https
+voting rights intext:"ORA-00933" -inurl:https
+voting rights intext:"ORA-01756" -inurl:https
+voting rights intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+voting rights intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+voting rights intext:"Syntax error in string in query" -inurl:https
+voting rights intext:"Invalid query:" intext:"on line" -inurl:https
+voting rights intext:"mysql_num_rows()" -inurl:https
+voting rights intext:"DB Error:" intext:"on line" -inurl:https
+voting rights intext:"Unclosed quotation mark after the character string" -inurl:https
+voting rights intext:"Incorrect syntax near" -inurl:https
+voting rights intext:"supplied argument is not a valid MySQL" -inurl:https
+voting rights intext:"org.postgresql.util.PSQLException" -inurl:https
+voting rights intext:"com.mysql.jdbc.exceptions" -inurl:https
+voting rights intext:"mysqli_error()" -inurl:https
+voting rights intext:"mysql_error()" -inurl:https
+voting rights intext:"SQLSTATE[42000]" -inurl:https
+voting rights intext:"Fatal error" intext:"mysql" -inurl:https
+voting rights intext:"Warning: pg_" intext:"on line" -inurl:https
+voting rights intext:"System.Data.SqlClient.SqlException" -inurl:https
+shareholder activism inurl:view.php inurl:id= ext:php
+shareholder activism inurl:product.php inurl:id= ext:php
+shareholder activism inurl:pro.php inurl:id= ext:php
+shareholder activism inurl:show.php inurl:id= ext:php
+shareholder activism inurl:detail.php inurl:id= ext:php
+shareholder activism inurl:item.php inurl:id= ext:php
+shareholder activism inurl:article.php inurl:id= ext:php
+shareholder activism inurl:news.php inurl:id= ext:php
+shareholder activism inurl:page.php inurl:id= ext:php
+shareholder activism inurl:main.php inurl:id= ext:php
+shareholder activism inurl:cat.php inurl:id= ext:php
+shareholder activism inurl:category.php inurl:id= ext:php
+shareholder activism inurl:goods.php inurl:id= ext:php
+shareholder activism inurl:shop.php inurl:id= ext:php
+shareholder activism inurl:listing.php inurl:id= ext:php
+shareholder activism inurl:post.php inurl:id= ext:php
+shareholder activism inurl:print.php inurl:id= ext:php
+shareholder activism inurl:info.php inurl:id= ext:php
+shareholder activism inurl:book.php inurl:id= ext:php
+shareholder activism inurl:index.php inurl:id= ext:php
+shareholder activism inurl:read.php inurl:id= ext:php
+shareholder activism inurl:data.php inurl:id= ext:php
+shareholder activism inurl:gallery.php inurl:id= ext:php
+shareholder activism inurl:event.php inurl:id= ext:php
+shareholder activism inurl:review.php inurl:id= ext:php
+shareholder activism inurl:offer.php inurl:id= ext:php
+shareholder activism inurl:download.php inurl:id= before:2023-01-01
+shareholder activism inurl:file.php inurl:id= before:2023-01-01
+shareholder activism inurl:open.php inurl:id= before:2023-01-01
+shareholder activism inurl:load.php inurl:id= before:2023-01-01
+shareholder activism inurl:get.php inurl:id= before:2023-01-01
+shareholder activism inurl:fetch.php inurl:id= before:2023-01-01
+shareholder activism inurl:preview.php inurl:id= before:2023-01-01
+shareholder activism inurl:export.php inurl:id= before:2023-01-01
+shareholder activism inurl:report.php inurl:id= before:2023-01-01
+shareholder activism inurl:dl.php inurl:id= before:2023-01-01
+shareholder activism inurl:attach.php inurl:id= before:2023-01-01
+shareholder activism inurl:stream.php inurl:id= before:2023-01-01
+shareholder activism inurl:serve.php inurl:id= before:2023-01-01
+shareholder activism intext:"You have an error in your SQL syntax" -inurl:https
+shareholder activism intext:"mysql_fetch_array()" -inurl:https
+shareholder activism intext:"Warning: mysql_" intext:"on line" -inurl:https
+shareholder activism intext:"Uncaught mysqli_sql_exception" -inurl:https
+shareholder activism intext:"pg_query(): Query failed" -inurl:https
+shareholder activism intext:"SQLite3::query" intext:"on line" -inurl:https
+shareholder activism intext:"ORA-00933" -inurl:https
+shareholder activism intext:"ORA-01756" -inurl:https
+shareholder activism intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+shareholder activism intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+shareholder activism intext:"Syntax error in string in query" -inurl:https
+shareholder activism intext:"Invalid query:" intext:"on line" -inurl:https
+shareholder activism intext:"mysql_num_rows()" -inurl:https
+shareholder activism intext:"DB Error:" intext:"on line" -inurl:https
+shareholder activism intext:"Unclosed quotation mark after the character string" -inurl:https
+shareholder activism intext:"Incorrect syntax near" -inurl:https
+shareholder activism intext:"supplied argument is not a valid MySQL" -inurl:https
+shareholder activism intext:"org.postgresql.util.PSQLException" -inurl:https
+shareholder activism intext:"com.mysql.jdbc.exceptions" -inurl:https
+shareholder activism intext:"mysqli_error()" -inurl:https
+shareholder activism intext:"mysql_error()" -inurl:https
+shareholder activism intext:"SQLSTATE[42000]" -inurl:https
+shareholder activism intext:"Fatal error" intext:"mysql" -inurl:https
+shareholder activism intext:"Warning: pg_" intext:"on line" -inurl:https
+shareholder activism intext:"System.Data.SqlClient.SqlException" -inurl:https
+proxy statement inurl:view.php inurl:id= ext:php
+proxy statement inurl:product.php inurl:id= ext:php
+proxy statement inurl:pro.php inurl:id= ext:php
+proxy statement inurl:show.php inurl:id= ext:php
+proxy statement inurl:detail.php inurl:id= ext:php
+proxy statement inurl:item.php inurl:id= ext:php
+proxy statement inurl:article.php inurl:id= ext:php
+proxy statement inurl:news.php inurl:id= ext:php
+proxy statement inurl:page.php inurl:id= ext:php
+proxy statement inurl:main.php inurl:id= ext:php
+proxy statement inurl:cat.php inurl:id= ext:php
+proxy statement inurl:category.php inurl:id= ext:php
+proxy statement inurl:goods.php inurl:id= ext:php
+proxy statement inurl:shop.php inurl:id= ext:php
+proxy statement inurl:listing.php inurl:id= ext:php
+proxy statement inurl:post.php inurl:id= ext:php
+proxy statement inurl:print.php inurl:id= ext:php
+proxy statement inurl:info.php inurl:id= ext:php
+proxy statement inurl:book.php inurl:id= ext:php
+proxy statement inurl:index.php inurl:id= ext:php
+proxy statement inurl:read.php inurl:id= ext:php
+proxy statement inurl:data.php inurl:id= ext:php
+proxy statement inurl:gallery.php inurl:id= ext:php
+proxy statement inurl:event.php inurl:id= ext:php
+proxy statement inurl:review.php inurl:id= ext:php
+proxy statement inurl:offer.php inurl:id= ext:php
+proxy statement inurl:download.php inurl:id= -inurl:https
+proxy statement inurl:file.php inurl:id= -inurl:https
+proxy statement inurl:open.php inurl:id= -inurl:https
+proxy statement inurl:load.php inurl:id= -inurl:https
+proxy statement inurl:get.php inurl:id= -inurl:https
+proxy statement inurl:fetch.php inurl:id= -inurl:https
+proxy statement inurl:preview.php inurl:id= -inurl:https
+proxy statement inurl:export.php inurl:id= -inurl:https
+proxy statement inurl:report.php inurl:id= -inurl:https
+proxy statement inurl:dl.php inurl:id= -inurl:https
+proxy statement inurl:attach.php inurl:id= -inurl:https
+proxy statement inurl:stream.php inurl:id= -inurl:https
+proxy statement inurl:serve.php inurl:id= -inurl:https
+proxy statement intext:"You have an error in your SQL syntax" -inurl:https
+proxy statement intext:"mysql_fetch_array()" -inurl:https
+proxy statement intext:"Warning: mysql_" intext:"on line" -inurl:https
+proxy statement intext:"Uncaught mysqli_sql_exception" -inurl:https
+proxy statement intext:"pg_query(): Query failed" -inurl:https
+proxy statement intext:"SQLite3::query" intext:"on line" -inurl:https
+proxy statement intext:"ORA-00933" -inurl:https
+proxy statement intext:"ORA-01756" -inurl:https
+proxy statement intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+proxy statement intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+proxy statement intext:"Syntax error in string in query" -inurl:https
+proxy statement intext:"Invalid query:" intext:"on line" -inurl:https
+proxy statement intext:"mysql_num_rows()" -inurl:https
+proxy statement intext:"DB Error:" intext:"on line" -inurl:https
+proxy statement intext:"Unclosed quotation mark after the character string" -inurl:https
+proxy statement intext:"Incorrect syntax near" -inurl:https
+proxy statement intext:"supplied argument is not a valid MySQL" -inurl:https
+proxy statement intext:"org.postgresql.util.PSQLException" -inurl:https
+proxy statement intext:"com.mysql.jdbc.exceptions" -inurl:https
+proxy statement intext:"mysqli_error()" -inurl:https
+proxy statement intext:"mysql_error()" -inurl:https
+proxy statement intext:"SQLSTATE[42000]" -inurl:https
+proxy statement intext:"Fatal error" intext:"mysql" -inurl:https
+proxy statement intext:"Warning: pg_" intext:"on line" -inurl:https
+proxy statement intext:"System.Data.SqlClient.SqlException" -inurl:https
+annual report inurl:view.php inurl:id= -inurl:https
+annual report inurl:product.php inurl:id= -inurl:https
+annual report inurl:pro.php inurl:id= -inurl:https
+annual report inurl:show.php inurl:id= -inurl:https
+annual report inurl:detail.php inurl:id= -inurl:https
+annual report inurl:item.php inurl:id= -inurl:https
+annual report inurl:article.php inurl:id= -inurl:https
+annual report inurl:news.php inurl:id= -inurl:https
+annual report inurl:page.php inurl:id= -inurl:https
+annual report inurl:main.php inurl:id= -inurl:https
+annual report inurl:cat.php inurl:id= -inurl:https
+annual report inurl:category.php inurl:id= -inurl:https
+annual report inurl:goods.php inurl:id= -inurl:https
+annual report inurl:shop.php inurl:id= -inurl:https
+annual report inurl:listing.php inurl:id= -inurl:https
+annual report inurl:post.php inurl:id= -inurl:https
+annual report inurl:print.php inurl:id= -inurl:https
+annual report inurl:info.php inurl:id= -inurl:https
+annual report inurl:book.php inurl:id= -inurl:https
+annual report inurl:index.php inurl:id= -inurl:https
+annual report inurl:read.php inurl:id= -inurl:https
+annual report inurl:data.php inurl:id= -inurl:https
+annual report inurl:gallery.php inurl:id= -inurl:https
+annual report inurl:event.php inurl:id= -inurl:https
+annual report inurl:review.php inurl:id= -inurl:https
+annual report inurl:offer.php inurl:id= -inurl:https
+annual report inurl:download.php inurl:id= ext:php
+annual report inurl:file.php inurl:id= ext:php
+annual report inurl:open.php inurl:id= ext:php
+annual report inurl:load.php inurl:id= ext:php
+annual report inurl:get.php inurl:id= ext:php
+annual report inurl:fetch.php inurl:id= ext:php
+annual report inurl:preview.php inurl:id= ext:php
+annual report inurl:export.php inurl:id= ext:php
+annual report inurl:report.php inurl:id= ext:php
+annual report inurl:dl.php inurl:id= ext:php
+annual report inurl:attach.php inurl:id= ext:php
+annual report inurl:stream.php inurl:id= ext:php
+annual report inurl:serve.php inurl:id= ext:php
+annual report intext:"You have an error in your SQL syntax" -inurl:https
+annual report intext:"mysql_fetch_array()" -inurl:https
+annual report intext:"Warning: mysql_" intext:"on line" -inurl:https
+annual report intext:"Uncaught mysqli_sql_exception" -inurl:https
+annual report intext:"pg_query(): Query failed" -inurl:https
+annual report intext:"SQLite3::query" intext:"on line" -inurl:https
+annual report intext:"ORA-00933" -inurl:https
+annual report intext:"ORA-01756" -inurl:https
+annual report intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+annual report intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+annual report intext:"Syntax error in string in query" -inurl:https
+annual report intext:"Invalid query:" intext:"on line" -inurl:https
+annual report intext:"mysql_num_rows()" -inurl:https
+annual report intext:"DB Error:" intext:"on line" -inurl:https
+annual report intext:"Unclosed quotation mark after the character string" -inurl:https
+annual report intext:"Incorrect syntax near" -inurl:https
+annual report intext:"supplied argument is not a valid MySQL" -inurl:https
+annual report intext:"org.postgresql.util.PSQLException" -inurl:https
+annual report intext:"com.mysql.jdbc.exceptions" -inurl:https
+annual report intext:"mysqli_error()" -inurl:https
+annual report intext:"mysql_error()" -inurl:https
+annual report intext:"SQLSTATE[42000]" -inurl:https
+annual report intext:"Fatal error" intext:"mysql" -inurl:https
+annual report intext:"Warning: pg_" intext:"on line" -inurl:https
+annual report intext:"System.Data.SqlClient.SqlException" -inurl:https
+earnings call inurl:view.php inurl:id= intext:"id="
+earnings call inurl:product.php inurl:id= intext:"id="
+earnings call inurl:pro.php inurl:id= intext:"id="
+earnings call inurl:show.php inurl:id= intext:"id="
+earnings call inurl:detail.php inurl:id= intext:"id="
+earnings call inurl:item.php inurl:id= intext:"id="
+earnings call inurl:article.php inurl:id= intext:"id="
+earnings call inurl:news.php inurl:id= intext:"id="
+earnings call inurl:page.php inurl:id= intext:"id="
+earnings call inurl:main.php inurl:id= intext:"id="
+earnings call inurl:cat.php inurl:id= intext:"id="
+earnings call inurl:category.php inurl:id= intext:"id="
+earnings call inurl:goods.php inurl:id= intext:"id="
+earnings call inurl:shop.php inurl:id= intext:"id="
+earnings call inurl:listing.php inurl:id= intext:"id="
+earnings call inurl:post.php inurl:id= intext:"id="
+earnings call inurl:print.php inurl:id= intext:"id="
+earnings call inurl:info.php inurl:id= intext:"id="
+earnings call inurl:book.php inurl:id= intext:"id="
+earnings call inurl:index.php inurl:id= intext:"id="
+earnings call inurl:read.php inurl:id= intext:"id="
+earnings call inurl:data.php inurl:id= intext:"id="
+earnings call inurl:gallery.php inurl:id= intext:"id="
+earnings call inurl:event.php inurl:id= intext:"id="
+earnings call inurl:review.php inurl:id= intext:"id="
+earnings call inurl:offer.php inurl:id= intext:"id="
+earnings call inurl:download.php inurl:id= before:2023-01-01
+earnings call inurl:file.php inurl:id= before:2023-01-01
+earnings call inurl:open.php inurl:id= before:2023-01-01
+earnings call inurl:load.php inurl:id= before:2023-01-01
+earnings call inurl:get.php inurl:id= before:2023-01-01
+earnings call inurl:fetch.php inurl:id= before:2023-01-01
+earnings call inurl:preview.php inurl:id= before:2023-01-01
+earnings call inurl:export.php inurl:id= before:2023-01-01
+earnings call inurl:report.php inurl:id= before:2023-01-01
+earnings call inurl:dl.php inurl:id= before:2023-01-01
+earnings call inurl:attach.php inurl:id= before:2023-01-01
+earnings call inurl:stream.php inurl:id= before:2023-01-01
+earnings call inurl:serve.php inurl:id= before:2023-01-01
+earnings call intext:"You have an error in your SQL syntax" -inurl:https
+earnings call intext:"mysql_fetch_array()" -inurl:https
+earnings call intext:"Warning: mysql_" intext:"on line" -inurl:https
+earnings call intext:"Uncaught mysqli_sql_exception" -inurl:https
+earnings call intext:"pg_query(): Query failed" -inurl:https
+earnings call intext:"SQLite3::query" intext:"on line" -inurl:https
+earnings call intext:"ORA-00933" -inurl:https
+earnings call intext:"ORA-01756" -inurl:https
+earnings call intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+earnings call intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+earnings call intext:"Syntax error in string in query" -inurl:https
+earnings call intext:"Invalid query:" intext:"on line" -inurl:https
+earnings call intext:"mysql_num_rows()" -inurl:https
+earnings call intext:"DB Error:" intext:"on line" -inurl:https
+earnings call intext:"Unclosed quotation mark after the character string" -inurl:https
+earnings call intext:"Incorrect syntax near" -inurl:https
+earnings call intext:"supplied argument is not a valid MySQL" -inurl:https
+earnings call intext:"org.postgresql.util.PSQLException" -inurl:https
+earnings call intext:"com.mysql.jdbc.exceptions" -inurl:https
+earnings call intext:"mysqli_error()" -inurl:https
+earnings call intext:"mysql_error()" -inurl:https
+earnings call intext:"SQLSTATE[42000]" -inurl:https
+earnings call intext:"Fatal error" intext:"mysql" -inurl:https
+earnings call intext:"Warning: pg_" intext:"on line" -inurl:https
+earnings call intext:"System.Data.SqlClient.SqlException" -inurl:https
+investor relations inurl:view.php inurl:id= before:2023-01-01
+investor relations inurl:product.php inurl:id= before:2023-01-01
+investor relations inurl:pro.php inurl:id= before:2023-01-01
+investor relations inurl:show.php inurl:id= before:2023-01-01
+investor relations inurl:detail.php inurl:id= before:2023-01-01
+investor relations inurl:item.php inurl:id= before:2023-01-01
+investor relations inurl:article.php inurl:id= before:2023-01-01
+investor relations inurl:news.php inurl:id= before:2023-01-01
+investor relations inurl:page.php inurl:id= before:2023-01-01
+investor relations inurl:main.php inurl:id= before:2023-01-01
+investor relations inurl:cat.php inurl:id= before:2023-01-01
+investor relations inurl:category.php inurl:id= before:2023-01-01
+investor relations inurl:goods.php inurl:id= before:2023-01-01
+investor relations inurl:shop.php inurl:id= before:2023-01-01
+investor relations inurl:listing.php inurl:id= before:2023-01-01
+investor relations inurl:post.php inurl:id= before:2023-01-01
+investor relations inurl:print.php inurl:id= before:2023-01-01
+investor relations inurl:info.php inurl:id= before:2023-01-01
+investor relations inurl:book.php inurl:id= before:2023-01-01
+investor relations inurl:index.php inurl:id= before:2023-01-01
+investor relations inurl:read.php inurl:id= before:2023-01-01
+investor relations inurl:data.php inurl:id= before:2023-01-01
+investor relations inurl:gallery.php inurl:id= before:2023-01-01
+investor relations inurl:event.php inurl:id= before:2023-01-01
+investor relations inurl:review.php inurl:id= before:2023-01-01
+investor relations inurl:offer.php inurl:id= before:2023-01-01
+investor relations inurl:download.php inurl:id= ext:php
+investor relations inurl:file.php inurl:id= ext:php
+investor relations inurl:open.php inurl:id= ext:php
+investor relations inurl:load.php inurl:id= ext:php
+investor relations inurl:get.php inurl:id= ext:php
+investor relations inurl:fetch.php inurl:id= ext:php
+investor relations inurl:preview.php inurl:id= ext:php
+investor relations inurl:export.php inurl:id= ext:php
+investor relations inurl:report.php inurl:id= ext:php
+investor relations inurl:dl.php inurl:id= ext:php
+investor relations inurl:attach.php inurl:id= ext:php
+investor relations inurl:stream.php inurl:id= ext:php
+investor relations inurl:serve.php inurl:id= ext:php
+investor relations intext:"You have an error in your SQL syntax" ext:php
+investor relations intext:"mysql_fetch_array()" ext:php
+investor relations intext:"Warning: mysql_" intext:"on line" ext:php
+investor relations intext:"Uncaught mysqli_sql_exception" ext:php
+investor relations intext:"pg_query(): Query failed" ext:php
+investor relations intext:"SQLite3::query" intext:"on line" ext:php
+investor relations intext:"ORA-00933" ext:php
+investor relations intext:"ORA-01756" ext:php
+investor relations intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+investor relations intext:"ODBC SQL Server Driver" intext:"error" ext:php
+investor relations intext:"Syntax error in string in query" ext:php
+investor relations intext:"Invalid query:" intext:"on line" ext:php
+investor relations intext:"mysql_num_rows()" ext:php
+investor relations intext:"DB Error:" intext:"on line" ext:php
+investor relations intext:"Unclosed quotation mark after the character string" ext:php
+investor relations intext:"Incorrect syntax near" ext:php
+investor relations intext:"supplied argument is not a valid MySQL" ext:php
+investor relations intext:"org.postgresql.util.PSQLException" ext:php
+investor relations intext:"com.mysql.jdbc.exceptions" ext:php
+investor relations intext:"mysqli_error()" ext:php
+investor relations intext:"mysql_error()" ext:php
+investor relations intext:"SQLSTATE[42000]" ext:php
+investor relations intext:"Fatal error" intext:"mysql" ext:php
+investor relations intext:"Warning: pg_" intext:"on line" ext:php
+investor relations intext:"System.Data.SqlClient.SqlException" ext:php
+transfer pricing inurl:view.php inurl:id= intext:"id="
+transfer pricing inurl:product.php inurl:id= intext:"id="
+transfer pricing inurl:pro.php inurl:id= intext:"id="
+transfer pricing inurl:show.php inurl:id= intext:"id="
+transfer pricing inurl:detail.php inurl:id= intext:"id="
+transfer pricing inurl:item.php inurl:id= intext:"id="
+transfer pricing inurl:article.php inurl:id= intext:"id="
+transfer pricing inurl:news.php inurl:id= intext:"id="
+transfer pricing inurl:page.php inurl:id= intext:"id="
+transfer pricing inurl:main.php inurl:id= intext:"id="
+transfer pricing inurl:cat.php inurl:id= intext:"id="
+transfer pricing inurl:category.php inurl:id= intext:"id="
+transfer pricing inurl:goods.php inurl:id= intext:"id="
+transfer pricing inurl:shop.php inurl:id= intext:"id="
+transfer pricing inurl:listing.php inurl:id= intext:"id="
+transfer pricing inurl:post.php inurl:id= intext:"id="
+transfer pricing inurl:print.php inurl:id= intext:"id="
+transfer pricing inurl:info.php inurl:id= intext:"id="
+transfer pricing inurl:book.php inurl:id= intext:"id="
+transfer pricing inurl:index.php inurl:id= intext:"id="
+transfer pricing inurl:read.php inurl:id= intext:"id="
+transfer pricing inurl:data.php inurl:id= intext:"id="
+transfer pricing inurl:gallery.php inurl:id= intext:"id="
+transfer pricing inurl:event.php inurl:id= intext:"id="
+transfer pricing inurl:review.php inurl:id= intext:"id="
+transfer pricing inurl:offer.php inurl:id= intext:"id="
+transfer pricing inurl:download.php inurl:id= -inurl:https
+transfer pricing inurl:file.php inurl:id= -inurl:https
+transfer pricing inurl:open.php inurl:id= -inurl:https
+transfer pricing inurl:load.php inurl:id= -inurl:https
+transfer pricing inurl:get.php inurl:id= -inurl:https
+transfer pricing inurl:fetch.php inurl:id= -inurl:https
+transfer pricing inurl:preview.php inurl:id= -inurl:https
+transfer pricing inurl:export.php inurl:id= -inurl:https
+transfer pricing inurl:report.php inurl:id= -inurl:https
+transfer pricing inurl:dl.php inurl:id= -inurl:https
+transfer pricing inurl:attach.php inurl:id= -inurl:https
+transfer pricing inurl:stream.php inurl:id= -inurl:https
+transfer pricing inurl:serve.php inurl:id= -inurl:https
+transfer pricing intext:"You have an error in your SQL syntax" before:2023-01-01
+transfer pricing intext:"mysql_fetch_array()" before:2023-01-01
+transfer pricing intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+transfer pricing intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+transfer pricing intext:"pg_query(): Query failed" before:2023-01-01
+transfer pricing intext:"SQLite3::query" intext:"on line" before:2023-01-01
+transfer pricing intext:"ORA-00933" before:2023-01-01
+transfer pricing intext:"ORA-01756" before:2023-01-01
+transfer pricing intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+transfer pricing intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+transfer pricing intext:"Syntax error in string in query" before:2023-01-01
+transfer pricing intext:"Invalid query:" intext:"on line" before:2023-01-01
+transfer pricing intext:"mysql_num_rows()" before:2023-01-01
+transfer pricing intext:"DB Error:" intext:"on line" before:2023-01-01
+transfer pricing intext:"Unclosed quotation mark after the character string" before:2023-01-01
+transfer pricing intext:"Incorrect syntax near" before:2023-01-01
+transfer pricing intext:"supplied argument is not a valid MySQL" before:2023-01-01
+transfer pricing intext:"org.postgresql.util.PSQLException" before:2023-01-01
+transfer pricing intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+transfer pricing intext:"mysqli_error()" before:2023-01-01
+transfer pricing intext:"mysql_error()" before:2023-01-01
+transfer pricing intext:"SQLSTATE[42000]" before:2023-01-01
+transfer pricing intext:"Fatal error" intext:"mysql" before:2023-01-01
+transfer pricing intext:"Warning: pg_" intext:"on line" before:2023-01-01
+transfer pricing intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+tax shelter inurl:view.php inurl:id= intext:"id="
+tax shelter inurl:product.php inurl:id= intext:"id="
+tax shelter inurl:pro.php inurl:id= intext:"id="
+tax shelter inurl:show.php inurl:id= intext:"id="
+tax shelter inurl:detail.php inurl:id= intext:"id="
+tax shelter inurl:item.php inurl:id= intext:"id="
+tax shelter inurl:article.php inurl:id= intext:"id="
+tax shelter inurl:news.php inurl:id= intext:"id="
+tax shelter inurl:page.php inurl:id= intext:"id="
+tax shelter inurl:main.php inurl:id= intext:"id="
+tax shelter inurl:cat.php inurl:id= intext:"id="
+tax shelter inurl:category.php inurl:id= intext:"id="
+tax shelter inurl:goods.php inurl:id= intext:"id="
+tax shelter inurl:shop.php inurl:id= intext:"id="
+tax shelter inurl:listing.php inurl:id= intext:"id="
+tax shelter inurl:post.php inurl:id= intext:"id="
+tax shelter inurl:print.php inurl:id= intext:"id="
+tax shelter inurl:info.php inurl:id= intext:"id="
+tax shelter inurl:book.php inurl:id= intext:"id="
+tax shelter inurl:index.php inurl:id= intext:"id="
+tax shelter inurl:read.php inurl:id= intext:"id="
+tax shelter inurl:data.php inurl:id= intext:"id="
+tax shelter inurl:gallery.php inurl:id= intext:"id="
+tax shelter inurl:event.php inurl:id= intext:"id="
+tax shelter inurl:review.php inurl:id= intext:"id="
+tax shelter inurl:offer.php inurl:id= intext:"id="
+tax shelter inurl:download.php inurl:id= ext:php
+tax shelter inurl:file.php inurl:id= ext:php
+tax shelter inurl:open.php inurl:id= ext:php
+tax shelter inurl:load.php inurl:id= ext:php
+tax shelter inurl:get.php inurl:id= ext:php
+tax shelter inurl:fetch.php inurl:id= ext:php
+tax shelter inurl:preview.php inurl:id= ext:php
+tax shelter inurl:export.php inurl:id= ext:php
+tax shelter inurl:report.php inurl:id= ext:php
+tax shelter inurl:dl.php inurl:id= ext:php
+tax shelter inurl:attach.php inurl:id= ext:php
+tax shelter inurl:stream.php inurl:id= ext:php
+tax shelter inurl:serve.php inurl:id= ext:php
+tax shelter intext:"You have an error in your SQL syntax" -inurl:https
+tax shelter intext:"mysql_fetch_array()" -inurl:https
+tax shelter intext:"Warning: mysql_" intext:"on line" -inurl:https
+tax shelter intext:"Uncaught mysqli_sql_exception" -inurl:https
+tax shelter intext:"pg_query(): Query failed" -inurl:https
+tax shelter intext:"SQLite3::query" intext:"on line" -inurl:https
+tax shelter intext:"ORA-00933" -inurl:https
+tax shelter intext:"ORA-01756" -inurl:https
+tax shelter intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+tax shelter intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+tax shelter intext:"Syntax error in string in query" -inurl:https
+tax shelter intext:"Invalid query:" intext:"on line" -inurl:https
+tax shelter intext:"mysql_num_rows()" -inurl:https
+tax shelter intext:"DB Error:" intext:"on line" -inurl:https
+tax shelter intext:"Unclosed quotation mark after the character string" -inurl:https
+tax shelter intext:"Incorrect syntax near" -inurl:https
+tax shelter intext:"supplied argument is not a valid MySQL" -inurl:https
+tax shelter intext:"org.postgresql.util.PSQLException" -inurl:https
+tax shelter intext:"com.mysql.jdbc.exceptions" -inurl:https
+tax shelter intext:"mysqli_error()" -inurl:https
+tax shelter intext:"mysql_error()" -inurl:https
+tax shelter intext:"SQLSTATE[42000]" -inurl:https
+tax shelter intext:"Fatal error" intext:"mysql" -inurl:https
+tax shelter intext:"Warning: pg_" intext:"on line" -inurl:https
+tax shelter intext:"System.Data.SqlClient.SqlException" -inurl:https
+debt covenant inurl:view.php inurl:id= ext:php
+debt covenant inurl:product.php inurl:id= ext:php
+debt covenant inurl:pro.php inurl:id= ext:php
+debt covenant inurl:show.php inurl:id= ext:php
+debt covenant inurl:detail.php inurl:id= ext:php
+debt covenant inurl:item.php inurl:id= ext:php
+debt covenant inurl:article.php inurl:id= ext:php
+debt covenant inurl:news.php inurl:id= ext:php
+debt covenant inurl:page.php inurl:id= ext:php
+debt covenant inurl:main.php inurl:id= ext:php
+debt covenant inurl:cat.php inurl:id= ext:php
+debt covenant inurl:category.php inurl:id= ext:php
+debt covenant inurl:goods.php inurl:id= ext:php
+debt covenant inurl:shop.php inurl:id= ext:php
+debt covenant inurl:listing.php inurl:id= ext:php
+debt covenant inurl:post.php inurl:id= ext:php
+debt covenant inurl:print.php inurl:id= ext:php
+debt covenant inurl:info.php inurl:id= ext:php
+debt covenant inurl:book.php inurl:id= ext:php
+debt covenant inurl:index.php inurl:id= ext:php
+debt covenant inurl:read.php inurl:id= ext:php
+debt covenant inurl:data.php inurl:id= ext:php
+debt covenant inurl:gallery.php inurl:id= ext:php
+debt covenant inurl:event.php inurl:id= ext:php
+debt covenant inurl:review.php inurl:id= ext:php
+debt covenant inurl:offer.php inurl:id= ext:php
+debt covenant inurl:download.php inurl:id= -inurl:https
+debt covenant inurl:file.php inurl:id= -inurl:https
+debt covenant inurl:open.php inurl:id= -inurl:https
+debt covenant inurl:load.php inurl:id= -inurl:https
+debt covenant inurl:get.php inurl:id= -inurl:https
+debt covenant inurl:fetch.php inurl:id= -inurl:https
+debt covenant inurl:preview.php inurl:id= -inurl:https
+debt covenant inurl:export.php inurl:id= -inurl:https
+debt covenant inurl:report.php inurl:id= -inurl:https
+debt covenant inurl:dl.php inurl:id= -inurl:https
+debt covenant inurl:attach.php inurl:id= -inurl:https
+debt covenant inurl:stream.php inurl:id= -inurl:https
+debt covenant inurl:serve.php inurl:id= -inurl:https
+debt covenant intext:"You have an error in your SQL syntax" ext:php
+debt covenant intext:"mysql_fetch_array()" ext:php
+debt covenant intext:"Warning: mysql_" intext:"on line" ext:php
+debt covenant intext:"Uncaught mysqli_sql_exception" ext:php
+debt covenant intext:"pg_query(): Query failed" ext:php
+debt covenant intext:"SQLite3::query" intext:"on line" ext:php
+debt covenant intext:"ORA-00933" ext:php
+debt covenant intext:"ORA-01756" ext:php
+debt covenant intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+debt covenant intext:"ODBC SQL Server Driver" intext:"error" ext:php
+debt covenant intext:"Syntax error in string in query" ext:php
+debt covenant intext:"Invalid query:" intext:"on line" ext:php
+debt covenant intext:"mysql_num_rows()" ext:php
+debt covenant intext:"DB Error:" intext:"on line" ext:php
+debt covenant intext:"Unclosed quotation mark after the character string" ext:php
+debt covenant intext:"Incorrect syntax near" ext:php
+debt covenant intext:"supplied argument is not a valid MySQL" ext:php
+debt covenant intext:"org.postgresql.util.PSQLException" ext:php
+debt covenant intext:"com.mysql.jdbc.exceptions" ext:php
+debt covenant intext:"mysqli_error()" ext:php
+debt covenant intext:"mysql_error()" ext:php
+debt covenant intext:"SQLSTATE[42000]" ext:php
+debt covenant intext:"Fatal error" intext:"mysql" ext:php
+debt covenant intext:"Warning: pg_" intext:"on line" ext:php
+debt covenant intext:"System.Data.SqlClient.SqlException" ext:php
+revolving credit inurl:view.php inurl:id= ext:php
+revolving credit inurl:product.php inurl:id= ext:php
+revolving credit inurl:pro.php inurl:id= ext:php
+revolving credit inurl:show.php inurl:id= ext:php
+revolving credit inurl:detail.php inurl:id= ext:php
+revolving credit inurl:item.php inurl:id= ext:php
+revolving credit inurl:article.php inurl:id= ext:php
+revolving credit inurl:news.php inurl:id= ext:php
+revolving credit inurl:page.php inurl:id= ext:php
+revolving credit inurl:main.php inurl:id= ext:php
+revolving credit inurl:cat.php inurl:id= ext:php
+revolving credit inurl:category.php inurl:id= ext:php
+revolving credit inurl:goods.php inurl:id= ext:php
+revolving credit inurl:shop.php inurl:id= ext:php
+revolving credit inurl:listing.php inurl:id= ext:php
+revolving credit inurl:post.php inurl:id= ext:php
+revolving credit inurl:print.php inurl:id= ext:php
+revolving credit inurl:info.php inurl:id= ext:php
+revolving credit inurl:book.php inurl:id= ext:php
+revolving credit inurl:index.php inurl:id= ext:php
+revolving credit inurl:read.php inurl:id= ext:php
+revolving credit inurl:data.php inurl:id= ext:php
+revolving credit inurl:gallery.php inurl:id= ext:php
+revolving credit inurl:event.php inurl:id= ext:php
+revolving credit inurl:review.php inurl:id= ext:php
+revolving credit inurl:offer.php inurl:id= ext:php
+revolving credit inurl:download.php inurl:id= -inurl:https
+revolving credit inurl:file.php inurl:id= -inurl:https
+revolving credit inurl:open.php inurl:id= -inurl:https
+revolving credit inurl:load.php inurl:id= -inurl:https
+revolving credit inurl:get.php inurl:id= -inurl:https
+revolving credit inurl:fetch.php inurl:id= -inurl:https
+revolving credit inurl:preview.php inurl:id= -inurl:https
+revolving credit inurl:export.php inurl:id= -inurl:https
+revolving credit inurl:report.php inurl:id= -inurl:https
+revolving credit inurl:dl.php inurl:id= -inurl:https
+revolving credit inurl:attach.php inurl:id= -inurl:https
+revolving credit inurl:stream.php inurl:id= -inurl:https
+revolving credit inurl:serve.php inurl:id= -inurl:https
+revolving credit intext:"You have an error in your SQL syntax" before:2023-01-01
+revolving credit intext:"mysql_fetch_array()" before:2023-01-01
+revolving credit intext:"Warning: mysql_" intext:"on line" before:2023-01-01
+revolving credit intext:"Uncaught mysqli_sql_exception" before:2023-01-01
+revolving credit intext:"pg_query(): Query failed" before:2023-01-01
+revolving credit intext:"SQLite3::query" intext:"on line" before:2023-01-01
+revolving credit intext:"ORA-00933" before:2023-01-01
+revolving credit intext:"ORA-01756" before:2023-01-01
+revolving credit intext:"Microsoft OLE DB Provider for SQL Server" before:2023-01-01
+revolving credit intext:"ODBC SQL Server Driver" intext:"error" before:2023-01-01
+revolving credit intext:"Syntax error in string in query" before:2023-01-01
+revolving credit intext:"Invalid query:" intext:"on line" before:2023-01-01
+revolving credit intext:"mysql_num_rows()" before:2023-01-01
+revolving credit intext:"DB Error:" intext:"on line" before:2023-01-01
+revolving credit intext:"Unclosed quotation mark after the character string" before:2023-01-01
+revolving credit intext:"Incorrect syntax near" before:2023-01-01
+revolving credit intext:"supplied argument is not a valid MySQL" before:2023-01-01
+revolving credit intext:"org.postgresql.util.PSQLException" before:2023-01-01
+revolving credit intext:"com.mysql.jdbc.exceptions" before:2023-01-01
+revolving credit intext:"mysqli_error()" before:2023-01-01
+revolving credit intext:"mysql_error()" before:2023-01-01
+revolving credit intext:"SQLSTATE[42000]" before:2023-01-01
+revolving credit intext:"Fatal error" intext:"mysql" before:2023-01-01
+revolving credit intext:"Warning: pg_" intext:"on line" before:2023-01-01
+revolving credit intext:"System.Data.SqlClient.SqlException" before:2023-01-01
+bridge loan inurl:view.php inurl:id= before:2023-01-01
+bridge loan inurl:product.php inurl:id= before:2023-01-01
+bridge loan inurl:pro.php inurl:id= before:2023-01-01
+bridge loan inurl:show.php inurl:id= before:2023-01-01
+bridge loan inurl:detail.php inurl:id= before:2023-01-01
+bridge loan inurl:item.php inurl:id= before:2023-01-01
+bridge loan inurl:article.php inurl:id= before:2023-01-01
+bridge loan inurl:news.php inurl:id= before:2023-01-01
+bridge loan inurl:page.php inurl:id= before:2023-01-01
+bridge loan inurl:main.php inurl:id= before:2023-01-01
+bridge loan inurl:cat.php inurl:id= before:2023-01-01
+bridge loan inurl:category.php inurl:id= before:2023-01-01
+bridge loan inurl:goods.php inurl:id= before:2023-01-01
+bridge loan inurl:shop.php inurl:id= before:2023-01-01
+bridge loan inurl:listing.php inurl:id= before:2023-01-01
+bridge loan inurl:post.php inurl:id= before:2023-01-01
+bridge loan inurl:print.php inurl:id= before:2023-01-01
+bridge loan inurl:info.php inurl:id= before:2023-01-01
+bridge loan inurl:book.php inurl:id= before:2023-01-01
+bridge loan inurl:index.php inurl:id= before:2023-01-01
+bridge loan inurl:read.php inurl:id= before:2023-01-01
+bridge loan inurl:data.php inurl:id= before:2023-01-01
+bridge loan inurl:gallery.php inurl:id= before:2023-01-01
+bridge loan inurl:event.php inurl:id= before:2023-01-01
+bridge loan inurl:review.php inurl:id= before:2023-01-01
+bridge loan inurl:offer.php inurl:id= before:2023-01-01
+bridge loan inurl:download.php inurl:id= -inurl:https
+bridge loan inurl:file.php inurl:id= -inurl:https
+bridge loan inurl:open.php inurl:id= -inurl:https
+bridge loan inurl:load.php inurl:id= -inurl:https
+bridge loan inurl:get.php inurl:id= -inurl:https
+bridge loan inurl:fetch.php inurl:id= -inurl:https
+bridge loan inurl:preview.php inurl:id= -inurl:https
+bridge loan inurl:export.php inurl:id= -inurl:https
+bridge loan inurl:report.php inurl:id= -inurl:https
+bridge loan inurl:dl.php inurl:id= -inurl:https
+bridge loan inurl:attach.php inurl:id= -inurl:https
+bridge loan inurl:stream.php inurl:id= -inurl:https
+bridge loan inurl:serve.php inurl:id= -inurl:https
+bridge loan intext:"You have an error in your SQL syntax" ext:php
+bridge loan intext:"mysql_fetch_array()" ext:php
+bridge loan intext:"Warning: mysql_" intext:"on line" ext:php
+bridge loan intext:"Uncaught mysqli_sql_exception" ext:php
+bridge loan intext:"pg_query(): Query failed" ext:php
+bridge loan intext:"SQLite3::query" intext:"on line" ext:php
+bridge loan intext:"ORA-00933" ext:php
+bridge loan intext:"ORA-01756" ext:php
+bridge loan intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+bridge loan intext:"ODBC SQL Server Driver" intext:"error" ext:php
+bridge loan intext:"Syntax error in string in query" ext:php
+bridge loan intext:"Invalid query:" intext:"on line" ext:php
+bridge loan intext:"mysql_num_rows()" ext:php
+bridge loan intext:"DB Error:" intext:"on line" ext:php
+bridge loan intext:"Unclosed quotation mark after the character string" ext:php
+bridge loan intext:"Incorrect syntax near" ext:php
+bridge loan intext:"supplied argument is not a valid MySQL" ext:php
+bridge loan intext:"org.postgresql.util.PSQLException" ext:php
+bridge loan intext:"com.mysql.jdbc.exceptions" ext:php
+bridge loan intext:"mysqli_error()" ext:php
+bridge loan intext:"mysql_error()" ext:php
+bridge loan intext:"SQLSTATE[42000]" ext:php
+bridge loan intext:"Fatal error" intext:"mysql" ext:php
+bridge loan intext:"Warning: pg_" intext:"on line" ext:php
+bridge loan intext:"System.Data.SqlClient.SqlException" ext:php
+mezzanine finance inurl:view.php inurl:id= intext:"id="
+mezzanine finance inurl:product.php inurl:id= intext:"id="
+mezzanine finance inurl:pro.php inurl:id= intext:"id="
+mezzanine finance inurl:show.php inurl:id= intext:"id="
+mezzanine finance inurl:detail.php inurl:id= intext:"id="
+mezzanine finance inurl:item.php inurl:id= intext:"id="
+mezzanine finance inurl:article.php inurl:id= intext:"id="
+mezzanine finance inurl:news.php inurl:id= intext:"id="
+mezzanine finance inurl:page.php inurl:id= intext:"id="
+mezzanine finance inurl:main.php inurl:id= intext:"id="
+mezzanine finance inurl:cat.php inurl:id= intext:"id="
+mezzanine finance inurl:category.php inurl:id= intext:"id="
+mezzanine finance inurl:goods.php inurl:id= intext:"id="
+mezzanine finance inurl:shop.php inurl:id= intext:"id="
+mezzanine finance inurl:listing.php inurl:id= intext:"id="
+mezzanine finance inurl:post.php inurl:id= intext:"id="
+mezzanine finance inurl:print.php inurl:id= intext:"id="
+mezzanine finance inurl:info.php inurl:id= intext:"id="
+mezzanine finance inurl:book.php inurl:id= intext:"id="
+mezzanine finance inurl:index.php inurl:id= intext:"id="
+mezzanine finance inurl:read.php inurl:id= intext:"id="
+mezzanine finance inurl:data.php inurl:id= intext:"id="
+mezzanine finance inurl:gallery.php inurl:id= intext:"id="
+mezzanine finance inurl:event.php inurl:id= intext:"id="
+mezzanine finance inurl:review.php inurl:id= intext:"id="
+mezzanine finance inurl:offer.php inurl:id= intext:"id="
+mezzanine finance inurl:download.php inurl:id= -inurl:https
+mezzanine finance inurl:file.php inurl:id= -inurl:https
+mezzanine finance inurl:open.php inurl:id= -inurl:https
+mezzanine finance inurl:load.php inurl:id= -inurl:https
+mezzanine finance inurl:get.php inurl:id= -inurl:https
+mezzanine finance inurl:fetch.php inurl:id= -inurl:https
+mezzanine finance inurl:preview.php inurl:id= -inurl:https
+mezzanine finance inurl:export.php inurl:id= -inurl:https
+mezzanine finance inurl:report.php inurl:id= -inurl:https
+mezzanine finance inurl:dl.php inurl:id= -inurl:https
+mezzanine finance inurl:attach.php inurl:id= -inurl:https
+mezzanine finance inurl:stream.php inurl:id= -inurl:https
+mezzanine finance inurl:serve.php inurl:id= -inurl:https
+mezzanine finance intext:"You have an error in your SQL syntax" -inurl:https
+mezzanine finance intext:"mysql_fetch_array()" -inurl:https
+mezzanine finance intext:"Warning: mysql_" intext:"on line" -inurl:https
+mezzanine finance intext:"Uncaught mysqli_sql_exception" -inurl:https
+mezzanine finance intext:"pg_query(): Query failed" -inurl:https
+mezzanine finance intext:"SQLite3::query" intext:"on line" -inurl:https
+mezzanine finance intext:"ORA-00933" -inurl:https
+mezzanine finance intext:"ORA-01756" -inurl:https
+mezzanine finance intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+mezzanine finance intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+mezzanine finance intext:"Syntax error in string in query" -inurl:https
+mezzanine finance intext:"Invalid query:" intext:"on line" -inurl:https
+mezzanine finance intext:"mysql_num_rows()" -inurl:https
+mezzanine finance intext:"DB Error:" intext:"on line" -inurl:https
+mezzanine finance intext:"Unclosed quotation mark after the character string" -inurl:https
+mezzanine finance intext:"Incorrect syntax near" -inurl:https
+mezzanine finance intext:"supplied argument is not a valid MySQL" -inurl:https
+mezzanine finance intext:"org.postgresql.util.PSQLException" -inurl:https
+mezzanine finance intext:"com.mysql.jdbc.exceptions" -inurl:https
+mezzanine finance intext:"mysqli_error()" -inurl:https
+mezzanine finance intext:"mysql_error()" -inurl:https
+mezzanine finance intext:"SQLSTATE[42000]" -inurl:https
+mezzanine finance intext:"Fatal error" intext:"mysql" -inurl:https
+mezzanine finance intext:"Warning: pg_" intext:"on line" -inurl:https
+mezzanine finance intext:"System.Data.SqlClient.SqlException" -inurl:https
+private equity inurl:view.php inurl:id= ext:php
+private equity inurl:product.php inurl:id= ext:php
+private equity inurl:pro.php inurl:id= ext:php
+private equity inurl:show.php inurl:id= ext:php
+private equity inurl:detail.php inurl:id= ext:php
+private equity inurl:item.php inurl:id= ext:php
+private equity inurl:article.php inurl:id= ext:php
+private equity inurl:news.php inurl:id= ext:php
+private equity inurl:page.php inurl:id= ext:php
+private equity inurl:main.php inurl:id= ext:php
+private equity inurl:cat.php inurl:id= ext:php
+private equity inurl:category.php inurl:id= ext:php
+private equity inurl:goods.php inurl:id= ext:php
+private equity inurl:shop.php inurl:id= ext:php
+private equity inurl:listing.php inurl:id= ext:php
+private equity inurl:post.php inurl:id= ext:php
+private equity inurl:print.php inurl:id= ext:php
+private equity inurl:info.php inurl:id= ext:php
+private equity inurl:book.php inurl:id= ext:php
+private equity inurl:index.php inurl:id= ext:php
+private equity inurl:read.php inurl:id= ext:php
+private equity inurl:data.php inurl:id= ext:php
+private equity inurl:gallery.php inurl:id= ext:php
+private equity inurl:event.php inurl:id= ext:php
+private equity inurl:review.php inurl:id= ext:php
+private equity inurl:offer.php inurl:id= ext:php
+private equity inurl:download.php inurl:id= before:2023-01-01
+private equity inurl:file.php inurl:id= before:2023-01-01
+private equity inurl:open.php inurl:id= before:2023-01-01
+private equity inurl:load.php inurl:id= before:2023-01-01
+private equity inurl:get.php inurl:id= before:2023-01-01
+private equity inurl:fetch.php inurl:id= before:2023-01-01
+private equity inurl:preview.php inurl:id= before:2023-01-01
+private equity inurl:export.php inurl:id= before:2023-01-01
+private equity inurl:report.php inurl:id= before:2023-01-01
+private equity inurl:dl.php inurl:id= before:2023-01-01
+private equity inurl:attach.php inurl:id= before:2023-01-01
+private equity inurl:stream.php inurl:id= before:2023-01-01
+private equity inurl:serve.php inurl:id= before:2023-01-01
+private equity intext:"You have an error in your SQL syntax" -inurl:https
+private equity intext:"mysql_fetch_array()" -inurl:https
+private equity intext:"Warning: mysql_" intext:"on line" -inurl:https
+private equity intext:"Uncaught mysqli_sql_exception" -inurl:https
+private equity intext:"pg_query(): Query failed" -inurl:https
+private equity intext:"SQLite3::query" intext:"on line" -inurl:https
+private equity intext:"ORA-00933" -inurl:https
+private equity intext:"ORA-01756" -inurl:https
+private equity intext:"Microsoft OLE DB Provider for SQL Server" -inurl:https
+private equity intext:"ODBC SQL Server Driver" intext:"error" -inurl:https
+private equity intext:"Syntax error in string in query" -inurl:https
+private equity intext:"Invalid query:" intext:"on line" -inurl:https
+private equity intext:"mysql_num_rows()" -inurl:https
+private equity intext:"DB Error:" intext:"on line" -inurl:https
+private equity intext:"Unclosed quotation mark after the character string" -inurl:https
+private equity intext:"Incorrect syntax near" -inurl:https
+private equity intext:"supplied argument is not a valid MySQL" -inurl:https
+private equity intext:"org.postgresql.util.PSQLException" -inurl:https
+private equity intext:"com.mysql.jdbc.exceptions" -inurl:https
+private equity intext:"mysqli_error()" -inurl:https
+private equity intext:"mysql_error()" -inurl:https
+private equity intext:"SQLSTATE[42000]" -inurl:https
+private equity intext:"Fatal error" intext:"mysql" -inurl:https
+private equity intext:"Warning: pg_" intext:"on line" -inurl:https
+private equity intext:"System.Data.SqlClient.SqlException" -inurl:https
+venture debt inurl:view.php inurl:id= -inurl:https
+venture debt inurl:product.php inurl:id= -inurl:https
+venture debt inurl:pro.php inurl:id= -inurl:https
+venture debt inurl:show.php inurl:id= -inurl:https
+venture debt inurl:detail.php inurl:id= -inurl:https
+venture debt inurl:item.php inurl:id= -inurl:https
+venture debt inurl:article.php inurl:id= -inurl:https
+venture debt inurl:news.php inurl:id= -inurl:https
+venture debt inurl:page.php inurl:id= -inurl:https
+venture debt inurl:main.php inurl:id= -inurl:https
+venture debt inurl:cat.php inurl:id= -inurl:https
+venture debt inurl:category.php inurl:id= -inurl:https
+venture debt inurl:goods.php inurl:id= -inurl:https
+venture debt inurl:shop.php inurl:id= -inurl:https
+venture debt inurl:listing.php inurl:id= -inurl:https
+venture debt inurl:post.php inurl:id= -inurl:https
+venture debt inurl:print.php inurl:id= -inurl:https
+venture debt inurl:info.php inurl:id= -inurl:https
+venture debt inurl:book.php inurl:id= -inurl:https
+venture debt inurl:index.php inurl:id= -inurl:https
+venture debt inurl:read.php inurl:id= -inurl:https
+venture debt inurl:data.php inurl:id= -inurl:https
+venture debt inurl:gallery.php inurl:id= -inurl:https
+venture debt inurl:event.php inurl:id= -inurl:https
+venture debt inurl:review.php inurl:id= -inurl:https
+venture debt inurl:offer.php inurl:id= -inurl:https
+venture debt inurl:download.php inurl:id= -inurl:https
+venture debt inurl:file.php inurl:id= -inurl:https
+venture debt inurl:open.php inurl:id= -inurl:https
+venture debt inurl:load.php inurl:id= -inurl:https
+venture debt inurl:get.php inurl:id= -inurl:https
+venture debt inurl:fetch.php inurl:id= -inurl:https
+venture debt inurl:preview.php inurl:id= -inurl:https
+venture debt inurl:export.php inurl:id= -inurl:https
+venture debt inurl:report.php inurl:id= -inurl:https
+venture debt inurl:dl.php inurl:id= -inurl:https
+venture debt inurl:attach.php inurl:id= -inurl:https
+venture debt inurl:stream.php inurl:id= -inurl:https
+venture debt inurl:serve.php inurl:id= -inurl:https
+venture debt intext:"You have an error in your SQL syntax" ext:php
+venture debt intext:"mysql_fetch_array()" ext:php
+venture debt intext:"Warning: mysql_" intext:"on line" ext:php
+venture debt intext:"Uncaught mysqli_sql_exception" ext:php
+venture debt intext:"pg_query(): Query failed" ext:php
+venture debt intext:"SQLite3::query" intext:"on line" ext:php
+venture debt intext:"ORA-00933" ext:php
+venture debt intext:"ORA-01756" ext:php
+venture debt intext:"Microsoft OLE DB Provider for SQL Server" ext:php
+venture debt intext:"ODBC SQL Server Driver" intext:"error" ext:php
+venture debt intext:"Syntax error in string in query" ext:php
+venture debt intext:"Invalid query:" intext:"on line" ext:php
+venture debt intext:"mysql_num_rows()" ext:php
+venture debt intext:"DB Error:" intext:"on line" ext:php
+venture debt intext:"Unclosed quotation mark after the character string" ext:php
+venture debt intext:"Incorrect syntax near" ext:php
+venture debt intext:"supplied argument is not a valid MySQL" ext:php
+venture debt intext:"org.postgresql.util.PSQLException" ext:php
+venture debt intext:"com.mysql.jdbc.exceptions" ext:php
+venture debt intext:"mysqli_error()" ext:php
+venture debt intext:"mysql_error()" ext:php
+venture debt intext:"SQLSTATE[42000]" ext:php
+venture debt intext:"Fatal error" intext:"mysql" ext:php
+venture debt intext:"Warning: pg_" intext:"on line" ext:php
+venture debt intext:"System.Data.SqlClient.SqlException" ext:php
+capital allocation inurl:view.php inurl:id= intext:"id="
+capital allocation inurl:product.php inurl:id= intext:"id="
+capital allocation inurl:pro.php inurl:id= intext:"id="
+capital allocation inurl:show.php inurl:id= intext:"id="
+capital allocation inurl:detail.php inurl:id= intext:"id="
+capital allocation inurl:item.php inurl:id= intext:"id="
+capital allocation inurl:article.php inurl:id= intext:"id="
+capital allocation inurl:news.php inurl:id= intext:"id="
+capital allocation inurl:page.php inurl:id= intext:"id="
+capital allocation inurl:main.php inurl:id= intext:"id="
+capital allocation inurl:cat.php inurl:id= intext:"id="
+capital allocation inurl:category.php inurl:id= intext:"id="
+capital allocation inurl:goods.php inurl:id= intext:"id="
+capital allocation inurl:shop.php inurl:id= intext:"id="
+capital allocation inurl:listing.php inurl:id= intext:"id="
+capital allocation inurl:post.php inurl:id= intext:"id="
