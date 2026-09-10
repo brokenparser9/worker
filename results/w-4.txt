@@ -276,3 +276,11 @@ https://docs.oracle.com/en-us/iaas/Content/WAF/Reference/protectionruleids.htm
 https://en.wikipedia.org/wiki/HTTP_404
 https://www.langenlois.at/phpmyadmin/doc/html/faq.html
 https://www.quora.com/How-do-I-remove-a-PHP-extension-from-a-URL-such-that-if-the-page-is-viewed-with-a-*-PHP-extension-it-will-give-a-404-error
+https://stackoverflow.com/questions/6534904/how-can-i-remove-file-extension-from-a-website-address
+https://stackoverflow.com/questions/40490926/htaccess-not-removing-php-extension-from-url
+https://stackoverflow.com/questions/9374369/issue-with-browser-adding-to-end-of-url-except-index-php
+https://stackoverflow.com/questions/26475826/clean-urls-www-to-non-remove-index-php-remove-php-extention-add-trailing-sl
+https://stackoverflow.com/questions/22332031/composer-the-requested-php-extension-ext-intl-is-missing-from-your-system
+https://stackoverflow.com/questions/44272747/accessing-external-database-using-the-wpdb-class-in-wordpress
+https://stackoverflow.com/questions/9196228/php-include-to-external-url
+https://stackoverflow.com/questions/3592270/php-get-html-source-code-with-curl
