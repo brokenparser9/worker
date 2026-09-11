@@ -1092,3 +1092,12 @@ https://docs.sencha.com/extjs/6.5.1/modern/Ext.html
 https://docs.plesk.com/release-notes/obsidian/change-log/
 https://docs.oracle.com/en/middleware/standalone/weblogic-server/14.1.1.0/develop-plugin/apache.html#PLGWL-GUID-B90C2424-75E0-491E-BC32-7AAFBFFC58FF
 https://en.wikipedia.org/wiki/HTTP_cookie
+https://stackoverflow.com/questions/2891574/how-do-i-resolve-a-http-414-request-uri-too-long-error?__cf_chl_rt_tk=VfDsvyDU2u5wguWuaBYb0PSu_sWYZ01xByXTGJpLAUY-1789096026-1.0.1.1-tXk9BcgPnQtnQdGVgHUOuuwBuhMrakwTjBQfm088b10
+https://stackoverflow.com/questions/5882205/where-is-in-php-ini-extensions-directory-pointing-to?__cf_chl_rt_tk=5n1w7OtANbR.huVwb92IA8bpdXR0m6i8HYqBrm6syw0-1789096027-1.0.1.1-PAzdC.ii0e4bMw51gLSlqkhl_n8C4OY92_.eshJxAJc
+https://stackoverflow.com/questions/25723183/php-hide-id-from-being-shown-in-a-href-url?__cf_chl_rt_tk=vKCpJrFGYkWx1PSBYMO_mxXABrnO8XG8dwhA4oe.LYQ-1789096027-1.0.1.1-D90kWdmzlOznPdlGk.kWWGLKaCOZdsGTn5eX22Ot6dA
+https://stackoverflow.com/questions/18121227/how-to-avoid-request-entity-too-large-413-error?__cf_chl_rt_tk=5okQw.eRMYXlJRiRdyZ1nldnViRcMqUT93sdRug_tD8-1789096027-1.0.1.1-w_cl67NJS.vfIyLLz3EO_ODj0m4BTS4bhLO6IZQRScc
+https://stackoverflow.com/questions/22332031/composer-the-requested-php-extension-ext-intl-is-missing-from-your-system?__cf_chl_rt_tk=tJMTBPQExBcvb7Oz0cLWOnBfixPp_2zsP8AtiUGfuMY-1789096027-1.0.1.1-aXdSEJqPTEm2dEmck7xcvDynIDl.atYASty6jwAGecM
+https://stackoverflow.com/questions/2531752/how-to-securely-pass-credit-card-information-between-pages-in-php?__cf_chl_rt_tk=IFsnkP55g2A2ZrtZp0PGq2CcOOWDt8SL3cQ1IHKnbws-1789096027-1.0.1.1-fbsxd0z_gZz5ddWqsj4fZW0vy3pIFce1pjN.nbxShdo
+https://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess?__cf_chl_rt_tk=8M.oBo5UEtcUFQLN78ncYNDBI9a.3sr5.tnkCENiJOA-1789096028-1.0.1.1-iGW9317XhDzQYMrQvh1D_o6EF0dC7GSpkGl0hHjdZHA
+https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url?__cf_chl_rt_tk=YtF13jwbuzGgREfV82Z0.7vniginTy3Lyn..o5Ho.tE-1789096028-1.0.1.1-ag9ra.6ENyKZcrWgIXnYWxgGX53pVqatynhcgNVeTGM
+https://stackoverflow.com/questions/12338342/get-id-from-url-security?__cf_chl_rt_tk=Jbm9f0vnYxp6MktkIEOaMig2B.K0DdMWlgV7g.Ai0Nc-1789096028-1.0.1.1-xZEdmqwVRBVx_.zgDz1bkjAX7XE_M6shOKnH6m89G8s
