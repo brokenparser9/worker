@@ -1078,3 +1078,17 @@ https://guides.ll.georgetown.edu/
 https://investor.pagaya.com/
 https://www.law.cornell.edu/wex/proxy_statement
 https://guides.ll.georgetown.edu/companyresearch/annual-reports
+https://stackoverflow.com/questions/7605449/retrieving-a-url-though-an-authenticating-proxy-using-php?__cf_chl_rt_tk=4q5MXL22uNBj7XA0FwJS20lrSVdhMAv_BVNKwcGqKEo-1789096010-1.0.1.1-C6w9xtqYDKx_GfOsphV1cBiPiPnvYi8pbgOVtS7aPwg
+https://developer.paypal.com/
+https://owasp.org/
+https://docs.plesk.com/
+https://docs.oracle.com/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control
+https://developer.paypal.com/braintree/docs/reference/general/validation-errors/all/php/
+https://www.php.net/ChangeLog-5.php
+https://owasp.github.io/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion
+https://docs.phpmyadmin.net/en/latest/config.html
+https://docs.sencha.com/extjs/6.5.1/modern/Ext.html
+https://docs.plesk.com/release-notes/obsidian/change-log/
+https://docs.oracle.com/en/middleware/standalone/weblogic-server/14.1.1.0/develop-plugin/apache.html#PLGWL-GUID-B90C2424-75E0-491E-BC32-7AAFBFFC58FF
+https://en.wikipedia.org/wiki/HTTP_cookie
