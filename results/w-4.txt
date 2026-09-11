@@ -1048,3 +1048,13 @@ https://www.sec.gov/Archives/edgar/data/320193/000119312511003231/ddef14a.htm
 https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/
 https://investor.prudential.com/financials/proxy-statement-annual-report-and-voting-results
 https://github.com/zounar/php-proxy
+https://stackoverflow.com/questions/60141044/how-can-i-find-an-applications-base-url-behind-a-proxy?__cf_chl_rt_tk=iDx6xAkQaJ7R0y8gP2mtdawehsPCEqDbP5nxwRH1Oqo-1789095946-1.0.1.1-BSFF62QVh_8t8xdNyb4P3xPtN9h39.X2jYdSOnLsMkw
+https://stackoverflow.com/a/60159309?__cf_chl_rt_tk=r57LJZx5mcn8o3801pwE..2Z3Pqc6EzUF4AHfSnocss-1789095946-1.0.1.1-_RPVnOR8KV4cZW70iqZ3M5WMHcLYcpvePSBqzxVIzB0
+https://www.diligent.com/
+https://www.fool.com/
+https://en.wikipedia.org/
+https://www.sec.gov/edgar/browse/
+https://www.diligent.com/resources/blog/what-is-a-proxy-statement
+https://www.fool.com/terms/p/proxy-statement/
+https://en.wikipedia.org/wiki/Proxy_statement
+https://brightdata.com/blog/how-tos/php-proxy-servers
