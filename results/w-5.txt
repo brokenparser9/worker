@@ -568,3 +568,5 @@ https://www.vendus.es/
 https://www.phpdebtsolutions.com/submit/
 https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2023-24/ar/annual-report-2023-2024.pdf
 https://www.vendus.es/ws/v1.1/documents.doc
+https://www.sec.gov/Archives/edgar/data/1668105/000104746916014045/a2228947zex-10_16.htm
+https://documents1.worldbank.org/curated/en/743881635526394087/pdf/Debt-Transparency-in-Developing-Economies.pdf
