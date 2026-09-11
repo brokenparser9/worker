@@ -1101,3 +1101,5 @@ https://stackoverflow.com/questions/2531752/how-to-securely-pass-credit-card-inf
 https://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess?__cf_chl_rt_tk=8M.oBo5UEtcUFQLN78ncYNDBI9a.3sr5.tnkCENiJOA-1789096028-1.0.1.1-iGW9317XhDzQYMrQvh1D_o6EF0dC7GSpkGl0hHjdZHA
 https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url?__cf_chl_rt_tk=YtF13jwbuzGgREfV82Z0.7vniginTy3Lyn..o5Ho.tE-1789096028-1.0.1.1-ag9ra.6ENyKZcrWgIXnYWxgGX53pVqatynhcgNVeTGM
 https://stackoverflow.com/questions/12338342/get-id-from-url-security?__cf_chl_rt_tk=Jbm9f0vnYxp6MktkIEOaMig2B.K0DdMWlgV7g.Ai0Nc-1789096028-1.0.1.1-xZEdmqwVRBVx_.zgDz1bkjAX7XE_M6shOKnH6m89G8s
+https://corporate.mcdonalds.com/
+https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD%20-%202025%20Notice%20of%20Meeting%20Proxy%20Statement.pdf
