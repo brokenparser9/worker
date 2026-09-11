@@ -1058,3 +1058,16 @@ https://www.diligent.com/resources/blog/what-is-a-proxy-statement
 https://www.fool.com/terms/p/proxy-statement/
 https://en.wikipedia.org/wiki/Proxy_statement
 https://brightdata.com/blog/how-tos/php-proxy-servers
+https://moodle.org/mod/forum/discuss.php?d=150677&__cf_chl_rt_tk=_jYGiWkbCArjuJsX4evsTQrmEg7M_H30ZQVW6gnHPG4-1789095960-1.0.1.1-830dZyHInNu1M2WUXXgFkLRziwOU34wHF0yg5QLs9KY
+https://stackoverflow.com/questions/1280767/how-do-i-run-php-code-when-a-user-clicks-on-a-link?__cf_chl_rt_tk=60F.jQqJCUsw78y.v_cejgi2s5cRhhQ5fAGkG2yRz2c-1789095959-1.0.1.1-ci8b_Cu2O.Yd.GW2wLoRsyFHvviz_R97m_1210acL7s
+https://stackoverflow.com/questions/11960619/load-external-php-file-in-jquery-modal-dialog-onclick?__cf_chl_rt_tk=XJXoj0v3Ju5YksWAUs58mbUOgb.fk2BLHJRc.udI9lc-1789095965-1.0.1.1-XlNHcMbs08WJgheMVLjx8C1.dxAq6_CzOFk9hayO5ck
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/422
+https://www.boxpiper.com/
+https://moodle.org/
+https://docs.phpmyadmin.net/
+https://www.boxpiper.com/posts/google-dork-list
+https://github.com/nextcloud-snap/nextcloud-snap/blob/master/src/php/config/php.ini
+https://www.php.net/ChangeLog-7.php
+https://docs.phpmyadmin.net/en/latest/faq.html
+https://gist.github.com/madalin-dogaru/2b3ef5fec1f2b8a849e042e5fb3d3367
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
