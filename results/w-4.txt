@@ -971,3 +971,15 @@ https://help.superhosting.bg/en/phpinfo.html
 https://docs.saucelabs.com/dev/cli/sauce-connect-proxy/
 https://www.drupal.org/forum/support/post-installation/2020-04-06/solved-drupal-8-is-adding-indexphp-in-url
 https://curl.se/docs/tutorial.html
+https://dptsecure.com/view_file.php?filename=view_file.php&filetype=html
+https://developer.mozilla.org/
+https://dptsecure.com/
+http://182.253.238.218/
+https://pubmed.ncbi.nlm.nih.gov/
+https://www.sec.gov/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP
+https://github.com/CollaboraOnline/richdocumentscode/blob/master/proxy.php
+https://www.php.net/manual/en/book.intl.php
+https://www.quora.com/How-do-I-view-a-PHP-source-code-of-a-website-just-like-we-see-the-HTML-and-other-codes
+https://pubmed.ncbi.nlm.nih.gov/help/
+https://stackoverflow.com/error
