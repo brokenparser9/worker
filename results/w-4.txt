@@ -1122,3 +1122,15 @@ https://stackoverflow.com/questions/28642753/redirect-to-external-url-with-retur
 https://s26.q4cdn.com/410417801/files/doc_downloads/2026/04/2026-Proxy-Statement.pdf
 https://s26.q4cdn.com/
 https://www.dfinsolutions.com/knowledge-hub/blog/what-proxy-statement
+https://docs.aws.amazon.com/
+https://www.pginvestor.com/
+https://simplesamlphp.org/
+https://www.elastic.co/
+https://www.inmotionhosting.com/
+https://httpd.apache.org/docs/2.4/mod/mod_ssl.html
+https://docs.aws.amazon.com/pdfs/sdk-for-php/v3/developer-guide/aws-sdk-php-dg.pdf
+https://www.pginvestor.com/overview/default.aspx
+https://simplesamlphp.org/docs/stable/simplesamlphp-reference-idp-hosted.html
+https://docs.phpmyadmin.net/en/release_5_1_0/faq.html
+https://www.elastic.co/docs/reference/elasticsearch/clients/php/search_operations
+https://www.inmotionhosting.com/support/website/what-is-your-default-php-ini-file/
