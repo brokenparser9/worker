@@ -1034,3 +1034,13 @@ https://ir.woodward.com/
 https://investor.prudential.com/
 https://www.sec.gov/answers/proxy.htm
 https://www.enpro.com/for-investors/financials/proxy-statements/default.aspx
+https://stackoverflow.com/questions/66822608/how-can-i-submit-my-proxy-and-name-on-localhost?__cf_chl_rt_tk=rNTWwyORpZ5w.nykSR12Oy53GU4.qSQHQvIvH6usShw-1789095907-1.0.1.1-8xn82ZpAb7KlqbhHps7.QNaRPBR3p2xJzvyotvJvBTQ
+https://stackoverflow.com/questions/14041796/web-service-proxy-generator-in-php-environment?__cf_chl_rt_tk=H.2nN8DI.7zFfJaj44e.nr6nAVYj0Cisa2C8c645lbE-1789095907-1.0.1.1-yIv0MPg4kF7cb1AF_eYlcTb._0YJBUyc5usudVmEd4s
+https://stackoverflow.com/questions/5533771/php-http-proxy-server?__cf_chl_rt_tk=SIFOE_kp_lGazIDszhWMn6jst_wC2B6lPibxVaLnml8-1789095907-1.0.1.1-T21NreAPnQcYrT0hrnxKDKnhQvwzFuDJNwXSraYl29Q
+https://stackoverflow.com/questions/3892635/how-to-have-php-to-use-proxy-setting-to-connect-to-internet?__cf_chl_rt_tk=wZJ4n.kculbCyx4lcuoKyBlJASVurtfQeDf_kqwDGuI-1789095908-1.0.1.1-QgugCvKVkuCqnaLVc.HuDx7xDtezDUC_TFzd1.I4TtA
+https://stackoverflow.com/questions/48531651/how-to-get-the-php-include-function-to-work-with-proxy-settings?__cf_chl_rt_tk=bPkD969ObnkDXCbKo40YzkNCK2D3ShXR3Go1HYiSC.k-1789095908-1.0.1.1-Nxltesih.l1QWEJj7W1AN6vk0t_ptY1bdeAxCCKb9hw
+https://stackoverflow.com/questions/66485835/i-have-made-a-proxy-scraper-in-php-but-i-dont-know-how-to-check-if-the-proxy-is?__cf_chl_rt_tk=8LI8txSyhQQbSoj929_HyfhmmqW_RHbL079NAKY6S.0-1789095908-1.0.1.1-Ik3db0S6cFnlYrTclXulN4xuV5ywEHPA9LK4ZECLOZI
+https://stackoverflow.com/questions/56485839/how-to-view-all-secured-unsecured-pages-via-web-proxy-with-ssl-verification?__cf_chl_rt_tk=F69x_Wdel2IiSKNzz5b8GLgQMS_kFhilblVSzXkUi0U-1789095908-1.0.1.1-DFN5KwWyp6IVgoeJZjhpL0LmhSElVYtjsMVWEjpi0jE
+https://stackoverflow.com/questions/76074131/how-to-enable-php-extensions-in-ubuntu?__cf_chl_rt_tk=z7qo.5xAv_SnLBG.9BvKeeYnPWu39PrhV9Vfo.6IIVA-1789095908-1.0.1.1-ZjLtbcqo2e5IXvjOz37wx5_a.iEHgdp5zhk3QnlFV1w
+https://stackoverflow.com/questions/147821/loading-sql-files-from-within-php?__cf_chl_rt_tk=hNkRKih3llZO6gUkDVaZcVLPbpYmjGMP_KaQrKM26uk-1789095908-1.0.1.1-IGMQoue0YrF7g_cLW37mjNQ8Iuj7pm9qocFzDhrjSVs
+https://stackoverflow.com/questions/66276070/composer-curl-error-60-ssl-certificate-problem-unable-to-get-local-issuer-cert?__cf_chl_rt_tk=8HgqwxCn_Vro7tQ3wWezE2Ja20KeiWam1YJ_lEZd994-1789095909-1.0.1.1-hBKYNKXFO86eJZegtrCxGde6mZMh2pV265sF7KN_2RE
