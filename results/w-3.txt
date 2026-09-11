@@ -377,3 +377,17 @@ https://store.steampowered.com/
 https://www.youtube.com/@Nudge_Security
 https://www.zenrows.com/blog/web-scraping-php
 https://apps.apple.com/us/app/tennessee-lottery-official-app/id1012390852
+https://moodle.org/mod/forum/discuss.php?d=462968&__cf_chl_rt_tk=W66tHipRBKBX.I2oh0_jOea.6AmB.85yPstmC6zfTew-1789095802-1.0.1.1-K1QkNCuFuXc3MwBwJoRlcjZJ.DthhwTM2EdIUJUDP7E
+https://www.phpbb.com/community/viewtopic.php?t=2659822
+https://www.virusbulletin.com/virusbulletin/2007/11/anonymous-proxies-threat-corporate-security-enforcement
+https://portswigger.net/
+https://www.virusbulletin.com/
+https://www.huntress.com/
+https://labs.watchtowr.com/
+https://www.phpbb.com/
+https://moodle.org/
+https://www.group-ib.com/resources/knowledge-hub/web-shell/
+https://portswigger.net/web-security/file-upload
+https://www.huntress.com/blog/dont-sweat-clickfix-techniques
+https://labs.watchtowr.com/form-tools-we-need-to-talk-about-php/
+https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/
