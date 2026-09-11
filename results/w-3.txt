@@ -242,3 +242,15 @@ https://docs.oracle.com/cd/E17952_01/mysql-5.7-en/show-warnings.html
 https://dev.mysql.com/doc/refman/9.7/en/mysql-command-options.html
 https://oneuptime.com/blog/post/2026-03-31-mysql-show-errors/view
 https://www.datacamp.com/doc/mysql/mysql-show-warnings
+https://stackoverflow.com/questions/20042952/an-exception-of-type-system-data-sqlclient-sqlexception-occurred-in-system-dat?__cf_chl_rt_tk=ou0aL1szsNsO2WTfvzfIT5jOOqzFUA3Vn5NbsMhD3ek-1789086289-1.0.1.1-H4FQIU2pYk8FgGogPoOXJljYxpMHmWvx8uGFQ74qfZ4
+https://security.stackexchange.com/questions/38509/suspicious-entries-in-mysql-database-from-user-input-forms-sql-injection?__cf_chl_rt_tk=HgDWbQGy9ov_iMaChDXEelaTcFrkJmuOUixfYuh_pcM-1789086290-1.0.1.1-7EHio_uqVSP6THn8_F94c_4ODydaBGw6t.9TUah2Ss4
+https://stackoverflow.com/questions/39256187/error-system-data-sqlclient-sqlexception-happened-when-trying-to-debug-applic?__cf_chl_rt_tk=QK7l_tPV8Ga4EOTB.qXCxp5f6hW0JKTN5DuKwK702AU-1789086296-1.0.1.1-h06rTZkpWEm.3vzLEWPtZpw2JGL7wwfYg.WVs1qlS_s
+https://github.com/dotnet/announcements/issues/292
+https://learn.microsoft.com/en-us/answers/questions/1149845/an-exception-of-type-system-data-sqlclient-sqlexce
+https://community.opentext.com/cybersec/fortify/f/discussions/515635/system-data-sqlclient-sqlexception
+https://www.exploit-db.com/exploits/35219
+https://www.sentinelone.com/
+https://security.stackexchange.com/
+https://community.opentext.com/
+https://www.reddit.com/r/programming/comments/yq6nbi/vulnerability_found_affecting_systemdatasqlclient/
+https://www.sentinelone.com/vulnerability-database/cve-2024-0056/
