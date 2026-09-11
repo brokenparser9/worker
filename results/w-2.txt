@@ -922,3 +922,8 @@ https://www.facebook.com/AuthorMichelleDJackson/posts/-lets-collaborate-writers-
 https://www.php.net/manual/en/function.mysql-fetch-array.php
 https://stackoverflow.com/questions/2973202/mysql-fetch-array-mysql-fetch-assoc-mysql-fetch-row-mysql-num-rows-etc?__cf_chl_rt_tk=n6tJLATerzMGou9yV11c7RAgG0.EeDv.tYv6Vepf4aU-1789099897-1.0.1.1-zQIt7kyPTgZoXJ3lFm9lbdvhCDKGR3Wyd1hNOn.ZrtQ
 https://stackoverflow.com/questions/6829833/mysql-fetch-array-error-not-a-valid-mysql-result-resource?__cf_chl_rt_tk=XNZyEzRyMc3csg2e1vYRZL22Iqv6ezQ0.sdL_aIMq5Q-1789099897-1.0.1.1-1PHW.sLceearWBvjmWD.RXyd1rYJhc2irMTU7VAcvc0
+https://stackoverflow.com/questions/46661636/php-postgres-query-failed?__cf_chl_rt_tk=u9LKMKF2AN5gZ2LfGun9Xi4QRGE2CYebYrNlddDErgI-1789099936-1.0.1.1-Cd0x4hwF2VFGjZB99pP8Vps3rW3hKZ6zGX74Di03clg
+https://stackoverflow.com/questions/25528780/pg-query-query-failed-error-operator-does-not-exist-integer-unknown-n?__cf_chl_rt_tk=BooPAQjmd465KjeYDqi.O7N57oRX7WJZpHdSD10Dkp0-1789099937-1.0.1.1-STGKSLv8yWbMSyVT56Y4DSaPsKMaywrCln9MOoyAIkU
+https://stackoverflow.com/questions/49223433/i-have-an-issue-with-php-page-postgresql?__cf_chl_rt_tk=CwdYcPvk9RsbjLu6KsUAOAUb0Xyh_Fv9YroG0NCwVys-1789099937-1.0.1.1-adreRZ__vhOt9ff8lXoqA1tyDDQk1uk0kGfxQJugTZs
+https://stackoverflow.com/questions/44513054/pg-query-query-failed-error-column-doesnot-exist?__cf_chl_rt_tk=me23TbxuRcDUiBwgJoS79EdruWNuHtDb8N2ustapMls-1789099937-1.0.1.1-IuvLT0b26tt1ni_MmqfDOvDYwDJUCZRJdkhtd_kFvKw
+https://stackoverflow.com/questions/35268981/detect-error-caused-by-pg-query-with-empty-query-string?__cf_chl_rt_tk=4hV_.mFDB9QbHQc3bjPB9m.uLHiZzjgHyoX4dANTLzk-1789099937-1.0.1.1-Q1vu.I06dkQS1Y9u0vLsOLGRh4ZV7jtyH0GRAZ6XZA4
