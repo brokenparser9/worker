@@ -228,3 +228,7 @@ http://depot.som.yale.edu/
 https://onlinelibrary.wiley.com/
 https://blog.cloudflare.com/the-internet-is-hostile-building-a-more-resilient-network/
 https://www.briskinfosec.com/blogs/blogsdetail/Top-Trending-Web-app-security-Vulnerabilities-#:~:text=There%20are%20lot%20of%20automated,Aquatone
+https://stackoverflow.com/questions/11995952/mysql-result-resulting-error-in-php?__cf_chl_rt_tk=SFtySg9Pu6NSaFzsSwnrAMbi_SG62bX19F1rOAuyTf8-1789086234-1.0.1.1-ZECpjwqHl7GGsueOsUJ.GuAiDRjVzf7u73hzlB5AJmA
+https://stackoverflow.com/questions/16912899/php-mysql-connect-warning-disable?__cf_chl_rt_tk=Xt9Tk2t_H7To5O8fAhHbL8LqDpHhxbFywSxZe6r8_YU-1789086234-1.0.1.1-.K0OGwaWTSFUxcR9ln3lDxlgHrbPX0F4kCuQgYUdvp4
+https://stackoverflow.com/questions/11583352/php-mysql-server-has-gone-away?__cf_chl_rt_tk=mbsPI__CoYZN_SPld1qZoas77nse3iimKu8n7ouvV6g-1789086234-1.0.1.1-peXhaTETzhzJJwEPjc4GE5Vgb.YTGd6.ExTbPMcHDHs
+https://stackoverflow.com/questions/11583352/php-mysql-server-has-gone-away/11583463?__cf_chl_rt_tk=DYNH30BC3qjDCuUFGB633IDSB_f.xZ7KwmVt3uxcUjU-1789086234-1.0.1.1-v0G.KyJi6.DMcpM935XVjwvclQKZaTqS9oCrTn0mv5A#11583463
