@@ -732,3 +732,11 @@ https://moneyhero.gcs-web.com/
 http://documents.fresno.gov/
 https://www.ufpinvestor.com/index.php/node/27721/ixbrl-viewer
 https://www.sec.gov/Archives/edgar/data/1751008/000175100825000051/exhibit21purchaseagreement.htm
+https://s29.q4cdn.com/
+https://news.ycombinator.com/
+https://ise-prodnr-eu-west-1-data-integration.s3-eu-west-1.amazonaws.com/
+https://www.frequentis.com/
+https://ndl.ethernet.edu.et/
+https://www.otcmarkets.com/filing/html?id=18780519&guid=ZTb-kqzm3k2jJth
+https://s29.q4cdn.com/649265093/files/doc_downloads/AltusMidstreamCompanyFinalProxy.pdf
+https://www.unepfi.org/wordpress/wp-content/uploads/2024/07/ageas-annualreport-en-23.pdf
