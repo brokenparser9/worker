@@ -1044,3 +1044,7 @@ https://stackoverflow.com/questions/56485839/how-to-view-all-secured-unsecured-p
 https://stackoverflow.com/questions/76074131/how-to-enable-php-extensions-in-ubuntu?__cf_chl_rt_tk=z7qo.5xAv_SnLBG.9BvKeeYnPWu39PrhV9Vfo.6IIVA-1789095908-1.0.1.1-ZjLtbcqo2e5IXvjOz37wx5_a.iEHgdp5zhk3QnlFV1w
 https://stackoverflow.com/questions/147821/loading-sql-files-from-within-php?__cf_chl_rt_tk=hNkRKih3llZO6gUkDVaZcVLPbpYmjGMP_KaQrKM26uk-1789095908-1.0.1.1-IGMQoue0YrF7g_cLW37mjNQ8Iuj7pm9qocFzDhrjSVs
 https://stackoverflow.com/questions/66276070/composer-curl-error-60-ssl-certificate-problem-unable-to-get-local-issuer-cert?__cf_chl_rt_tk=8HgqwxCn_Vro7tQ3wWezE2Ja20KeiWam1YJ_lEZd994-1789095909-1.0.1.1-hBKYNKXFO86eJZegtrCxGde6mZMh2pV265sF7KN_2RE
+https://www.sec.gov/Archives/edgar/data/320193/000119312511003231/ddef14a.htm
+https://palant.info/2025/01/20/malicious-extensions-circumvent-googles-remote-code-ban/
+https://investor.prudential.com/financials/proxy-statement-annual-report-and-voting-results
+https://github.com/zounar/php-proxy
