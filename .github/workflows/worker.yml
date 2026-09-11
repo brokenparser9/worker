@@ -18,6 +18,16 @@ on:
         required: false
         default: ""
         type: string
+      search_delay:
+        description: "Delay between searches, seconds 'min-max' (anti-captcha pacing)"
+        required: false
+        default: "4-9"
+        type: string
+      dork_pause:
+        description: "Pause between dorks, seconds 'min-max' (anti-captcha pacing)"
+        required: false
+        default: "15-40"
+        type: string
 
 permissions:
   contents: write
@@ -111,10 +121,10 @@ jobs:
         run: |
           set -euo pipefail
           python -m pip install --upgrade pip
-          pip install playwright ddddocr Pillow playwright-stealth
+          pip install playwright ddddocr Pillow numpy playwright-stealth
           playwright install --with-deps chromium
           sudo apt-get update
-          sudo apt-get install -y xvfb unzip wget
+          sudo apt-get install -y xvfb unzip wget tesseract-ocr
           wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb \
             -O /tmp/chrome.deb
           sudo apt-get install -y /tmp/chrome.deb || true
@@ -204,7 +214,14 @@ jobs:
           test -f worker/text_captcha.py
           test -f worker/solver.html
           python3 -m py_compile worker/worker.py worker/text_captcha.py
-          echo "syntax OK"
+          # Fail LOUDLY if the private repo still carries old worker code —
+          # v6.1 workers don't have the spiral-breaker and will burn 8 min
+          # per captcha in the death spiral we just fixed.
+          grep -q 'WORKER_VERSION = "6.2' worker/worker.py \
+            || { echo "::error::worker.py is not v6.2 — update the private repo praisethefool7/Dork-results with the patched worker"; exit 1; }
+          grep -q '_ocr_with_tesseract' worker/text_captcha.py \
+            || { echo "::error::text_captcha.py lacks Tesseract engine — update the private repo"; exit 1; }
+          echo "syntax OK, v6.2 anti-captcha code confirmed"
 
       - name: Verify Raptor extension
         run: |
@@ -222,6 +239,8 @@ jobs:
           WORKER: ${{ matrix.worker }}
           WORKERS: ${{ inputs.workers }}
           PAGES: ${{ inputs.pages }}
+          SEARCH_DELAY_SPEC: ${{ inputs.search_delay != '' && inputs.search_delay || '4-9' }}
+          DORK_PAUSE_SPEC: ${{ inputs.dork_pause != '' && inputs.dork_pause || '15-40' }}
           EXTENSION_PATH: /tmp/free-ai-recaptcha-solver
           CAPTCHA_SOLVER: "CaptchaRaptor WS"
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
@@ -230,9 +249,16 @@ jobs:
           GOOGLE_NID_COOKIE: ${{ secrets.GOOGLE_NID_COOKIE }}
         run: |
           set -euo pipefail
+          # Parse "min-max" delay specs into the env vars worker v6.2 reads.
+          export SEARCH_DELAY_MIN="$(echo "${SEARCH_DELAY_SPEC}" | cut -d'-' -f1)"
+          export SEARCH_DELAY_MAX="$(echo "${SEARCH_DELAY_SPEC}" | cut -d'-' -f2)"
+          export DORK_PAUSE_MIN="$(echo "${DORK_PAUSE_SPEC}" | cut -d'-' -f1)"
+          export DORK_PAUSE_MAX="$(echo "${DORK_PAUSE_SPEC}" | cut -d'-' -f2)"
+          echo "pacing: searches ${SEARCH_DELAY_MIN}-${SEARCH_DELAY_MAX}s, dorks ${DORK_PAUSE_MIN}-${DORK_PAUSE_MAX}s"
           echo "========================================"
-          echo "          DORK SWARM WORKER v6.1"
-          echo "     (text -> Raptor -> tunnel)"
+          echo "          DORK SWARM WORKER v6.2"
+          echo "   (text ddddocr+Tesseract -> Raptor -> tunnel)"
+          echo "         anti-captcha pacing + spiral breaker"
           echo "========================================"
           test -f worker/worker.py
           test -f worker/text_captcha.py
