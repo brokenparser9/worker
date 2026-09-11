@@ -1111,3 +1111,11 @@ https://httpd.apache.org/docs/current/rewrite/rewritemap.html
 https://developer.paypal.com/braintree/docs/reference/request/transaction/sale/php/
 https://docs.oracle.com/cd/E40938_01/doc.74/e40142/dev_php_apps.htm
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+https://stackoverflow.com/questions/15207627/extracting-information-from-url-with-php?__cf_chl_rt_tk=Yh9mMaQrsYY3ScqvgIGolpriwIOtMklUssIyJGgXiks-1789096090-1.0.1.1-CeBY5_mkhX3fjSdpETdZ1ykQF9BjPWSHguYjLsLWXW0
+https://stackoverflow.com/questions/46264265/id-from-a-url-that-does-not-include-id?__cf_chl_rt_tk=h2CDMwRZwcNINzGjgmsKk1MksLyooXHHoM90vKZRK.c-1789096090-1.0.1.1-HjUs94MmYODTMZ7WDtxzfh_EiaQWAKMESpNFZQbJ3pk
+https://stackoverflow.com/questions/74878889/php-warning-deprecated-creation-of-dynamic-property-is-deprecated?__cf_chl_rt_tk=lUCy8CvdrU8oxO1LFHYrCuvY3ICzHDyKN8Hw298pnOk-1789096090-1.0.1.1-sCfTkpBIuPwd55Gag0dXtzwSrxziAqvIPpk7ECVxyqM
+https://stackoverflow.com/questions/7467330/php-headerlocation-force-url-change-in-address-bar?__cf_chl_rt_tk=LV4fvrijL0kW.5ovV_mPFHx1sCNKycdDWIxBXQOfwFQ-1789096091-1.0.1.1-IHmWPznTJg7O6dljAFDftT9Bf7uVrpuAfq2JQMDsYSc
+https://stackoverflow.com/questions/55042524/encoding-a-url-to-retrieve-it-in-php?__cf_chl_rt_tk=mAD5ppd2WaNpMODfdNXyrpaom5iLrqtEdcLp5GKkxO0-1789096091-1.0.1.1-xwViD6Prsd1ImPQ2vNkppPuEeYGDKx.lxbVWUFGqQXo
+https://stackoverflow.com/questions/2280394/how-can-i-check-if-a-url-exists-via-php?__cf_chl_rt_tk=GStl8m6IMwohbUCBHfMPGEAzpI7R3Z81EEWiPTeoBY8-1789096091-1.0.1.1-jQ1LQuKjs1hVkigehST3IBPgLR89S5vEHhkd3a0lTqg
+https://stackoverflow.com/questions/2364840/what-is-the-size-limit-of-an-http-post-request?__cf_chl_rt_tk=72xSvU0uLqrDbZyxyidP9X9ohnlIX6gfRejm6zMMSDQ-1789096091-1.0.1.1-9aEULmvdX3Byyw4tpAaFZGaTHH.p2yMEWRkHrwSoHys
+https://stackoverflow.com/questions/28642753/redirect-to-external-url-with-return-in-laravel?__cf_chl_rt_tk=5pFpimZ__8tixM9J22aXPJVQzFJ5ox_Cj5wQJWRDM1k-1789096091-1.0.1.1-NtYJxBSF0w3uY7xCa3OKikFMhc4a09YcMMyGAYUouBg
