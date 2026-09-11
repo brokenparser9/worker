@@ -557,3 +557,5 @@ https://owasp.github.io/www-project-juice-shop/
 https://credentials.corporatefinanceinstitute.com/313a3a21-766f-4a92-9d2e-67e0aab8cc1c
 https://s206.q4cdn.com/
 https://s206.q4cdn.com/146646187/files/doc_financials/2024/q4/42158ae0-cfb1-4d3b-8c9b-fa4da6cdea72.pdf
+https://www.bankstride.com/
+https://www.bankstride.com/debt-facility-covenant-monitoring
