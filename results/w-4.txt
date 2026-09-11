@@ -1018,3 +1018,13 @@ https://us.etrade.com/home
 https://help.zscaler.com/zia/caution-custom-notification
 https://vedanadosah.cvtisr.sk/wp-includes/php-ai-client/third-party/Http/
 https://developer.visa.com/request_response_codes
+https://stackoverflow.com/questions/52288781/php-profiler-getting-client-ip-and-url-from-php-extension-using-c?__cf_chl_rt_tk=G0NfsaZUIKI_fLnTK9xx00Zo_z7vmeIxHMCj1a1RIrU-1789095867-1.0.1.1-Ttjbo7zeI0bNyLboyJfEPH7DYSrtMcPVp_QbCxTOHCg
+https://studylib.net/doc/27651973/google-dorks-for-sql-injection
+https://www.acunetix.com/
+https://www.globaldatabase.com/
+https://www.pcisecuritystandards.org/
+https://brightdata.com/
+https://www.odoo.com/
+https://www.acunetix.com/blog/articles/prevent-sql-injection-vulnerabilities-in-php-applications/
+https://www.globaldatabase.com/browser-extension
+https://brightdata.com/blog/proxy-101/proxy-error-codes
