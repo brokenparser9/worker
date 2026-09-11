@@ -404,3 +404,5 @@ https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke
 https://www.spamhaus.org/blocklists/exploits-blocklist/
 https://blog.cloudflare.com/automatic-key-exchange-for-origins/
 https://www.reddit.com/r/selfhosted/comments/1cu2dow/my_very_biased_personal_review_of_several/
+https://stackoverflow.com/questions/44354421/how-to-embed-youtube-live-chat-with-url-permanent?__cf_chl_rt_tk=rWlhZmYuvTdvnmijrUKbaX8MJeW3WczD8Pt8QpmSkjQ-1789095907-1.0.1.1-vGJe0MFr2dPqgdDIMyO1LlL4mKftMEeTW30n4DorKEs
+https://apps.apple.com/us/app/publica-la-reader/id1601992631
