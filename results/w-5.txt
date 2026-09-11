@@ -259,3 +259,16 @@ https://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-
 https://www.epa.gov/sites/default/files/2015-03/documents/2013_dqrs_certified.pdf
 https://archive.legmt.gov/content/Publications/Environmental/2008climatechange.pdf
 https://agricecon.agriculturejournals.cz/sitemap.php
+https://arklegaudit.gov/downloadReport.php?id=LOM106923
+https://docs.stripe.com/api/payment_intents/update?lang=php
+https://stackoverflow.com/questions/19170831/beanstream-credit-card-payment-integration-in-php
+https://episodesix.com/
+https://docs.stripe.com/
+https://www.federalreserve.gov/
+https://arklegaudit.gov/
+https://docs.datadoghq.com/
+https://developer.adobe.com/
+https://episodesix.com/solutions/revolvingcredit
+https://www.federalreserve.gov/reportforms/forms/FR_Y-14Q20160930_i.pdf
+https://docs.datadoghq.com/data_security/real_user_monitoring/
+https://developer.adobe.com/stock/docs/faq/
