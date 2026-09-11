@@ -919,3 +919,6 @@ https://www.facebook.com/midnight.soulbirds/videos/%EF%B8%8Fyou-can-break-my-hea
 https://www.facebook.com/SSCPublicSafety/posts/-fall-applications-are-now-open-for-our-emergency-medical-services-ems-programs-/1763009564593681/
 https://www.facebook.com/forbes/posts/the-creator-of-the-law-order-chicago-and-fbi-franchises-became-a-billionaire-pro/770191858304140/
 https://www.facebook.com/AuthorMichelleDJackson/posts/-lets-collaborate-writers-share-your-opinion-and-lets-make-this-issue-a-topic-ac/1687825013345866/
+https://www.php.net/manual/en/function.mysql-fetch-array.php
+https://stackoverflow.com/questions/2973202/mysql-fetch-array-mysql-fetch-assoc-mysql-fetch-row-mysql-num-rows-etc?__cf_chl_rt_tk=n6tJLATerzMGou9yV11c7RAgG0.EeDv.tYv6Vepf4aU-1789099897-1.0.1.1-zQIt7kyPTgZoXJ3lFm9lbdvhCDKGR3Wyd1hNOn.ZrtQ
+https://stackoverflow.com/questions/6829833/mysql-fetch-array-error-not-a-valid-mysql-result-resource?__cf_chl_rt_tk=XNZyEzRyMc3csg2e1vYRZL22Iqv6ezQ0.sdL_aIMq5Q-1789099897-1.0.1.1-1PHW.sLceearWBvjmWD.RXyd1rYJhc2irMTU7VAcvc0
