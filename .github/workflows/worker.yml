@@ -111,10 +111,14 @@ jobs:
         run: |
           set -euo pipefail
           python -m pip install --upgrade pip
-          pip install playwright ddddocr Pillow
+          pip install playwright ddddocr Pillow playwright-stealth
           playwright install --with-deps chromium
           sudo apt-get update
           sudo apt-get install -y xvfb unzip wget
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb \
+            -O /tmp/chrome.deb
+          sudo apt-get install -y /tmp/chrome.deb || true
+          google-chrome --version || true
 
       - name: Install cloudflared
         run: |
@@ -223,6 +227,7 @@ jobs:
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
           OLLAMA_HOST: ${{ secrets.OLLAMA_HOST }}
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
+          GOOGLE_NID_COOKIE: ${{ secrets.GOOGLE_NID_COOKIE }}
         run: |
           set -euo pipefail
           echo "========================================"
