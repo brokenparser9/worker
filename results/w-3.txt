@@ -289,3 +289,17 @@ https://xsoar.pan.dev/docs/reference/integrations/netcraft-v2
 https://www.browserless.io/skills
 https://www.elastic.co/docs/reference/beats/filebeat/exported-fields-misp
 https://docs.taler.net/design-documents/076-paywall-proxy.html
+https://www-vlb-fr.translate.goog/component/k2/item/8-companies-are-tracking-employees-1?tmpl=component&start=354620&_x_tr_sl=la&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
+https://www.vlb.fr/component/k2/item/8-companies-are-tracking-employees-1?tmpl=component&start=354620
+https://muse.jhu.edu/verify?url=%2Fbook%2F113317%2Fpdf%3Fpvk%3Dbook-113317-54ea020612161a22bdd0ea1d262b3698&r=4935503
+https://www.mcafee.com/
+https://www.vlb.fr/
+https://muse.jhu.edu/
+https://blog.cloudflare.com/
+https://edu.chainguard.dev/
+https://www.farming-simulator.com/
+https://www.sc.com.my/
+https://www.xero.com/
+https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-significantterms-aggregation
+https://blog.cloudflare.com/sandbox-auth/
+https://edu.chainguard.dev/chainguard/containers/building-and-modifying/packages/private-apk-repos/
