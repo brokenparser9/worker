@@ -1103,3 +1103,11 @@ https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-
 https://stackoverflow.com/questions/12338342/get-id-from-url-security?__cf_chl_rt_tk=Jbm9f0vnYxp6MktkIEOaMig2B.K0DdMWlgV7g.Ai0Nc-1789096028-1.0.1.1-xZEdmqwVRBVx_.zgDz1bkjAX7XE_M6shOKnH6m89G8s
 https://corporate.mcdonalds.com/
 https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/McD%20-%202025%20Notice%20of%20Meeting%20Proxy%20Statement.pdf
+https://stackoverflow.com/questions/40815984/how-to-install-all-required-php-extensions-for-laravel?__cf_chl_rt_tk=VLHbEvYy_QAswdF3Dka0BknD0g8IR.wDZO_VhK4TBzw-1789096058-1.0.1.1-13_kkjtrcY9NmXLi2sjwVuGkRk539ETqeH3aRYa12ys
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/500
+https://httpd.apache.org/
+https://www.exploit-db.com/
+https://httpd.apache.org/docs/current/rewrite/rewritemap.html
+https://developer.paypal.com/braintree/docs/reference/request/transaction/sale/php/
+https://docs.oracle.com/cd/E40938_01/doc.74/e40142/dev_php_apps.htm
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
