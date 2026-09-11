@@ -420,3 +420,11 @@ https://www.24h-lemans.com/en
 https://escholarship.org/content/qt9cc8n1k4/qt9cc8n1k4_noSplash_47d2620794535a736d39f53ff185af2c.pdf
 https://www.abstractapi.com/guides/ip-geolocation/how-to-get-an-ip-address-using-php
 https://ccs-specs.icpc.io/2023-06/contest_api
+https://stackoverflow.com/questions/73106384/puppetersharp-proxy-issue-on-iis?__cf_chl_rt_tk=AmSq.Q22uUC_hV0XzRMc6y_ZXNsxAd_JmswXG662D0g-1789095995-1.0.1.1-KGzJyt9F2E_fuVjj9QH0iw9PLGgQuSSb__0maZaswtg
+https://stackoverflow.com/questions/7621490/is-there-a-way-to-kill-a-php-program-while-its-working?__cf_chl_rt_tk=qBAmdPUNIqblLkRJXMfzVnBKLVXeBTf7CiwmrHfuCjI-1789096000-1.0.1.1-XuBKF_qsDJRNZkak3nFHKNU1OSAOR67LYaaQB1ePPUQ
+https://www.facebook.com/groups/538241940206665/posts/1919850615379117/
+https://www.facebook.com/amwajdotmedia/posts/new-a-sudden-wave-of-arrests-in-recent-days-targeting-iraqi-political-elites-ove/1495733249234836/
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-14-0-0-4.html
+https://www.reddit.com/r/homelab/comments/1myupbf/bots_kept_hitting_my_server_so_i_built_a_wall_of/
+https://blog.cloudflare.com/introducing-1-1-1-1-for-families/
+https://www.reddit.com/r/selfhosted/comments/bkgzmc/haproxy_broke_my_calibre_server/
