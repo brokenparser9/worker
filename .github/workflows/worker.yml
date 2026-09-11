@@ -207,6 +207,7 @@ jobs:
           ls -la worker/
           test -f worker/worker.py
           test -f worker/text_captcha.py
+          test -f worker/solver.html
           python3 -m py_compile worker/worker.py worker/text_captcha.py
           echo "syntax OK"
 
@@ -230,6 +231,8 @@ jobs:
           EXTENSION_PATH: /tmp/free-ai-recaptcha-solver
           CAPTCHA_SOLVER: "CaptchaRaptor WS"
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
+          OLLAMA_HOST: ${{ secrets.OLLAMA_HOST }}
+          OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
         run: |
           set -euo pipefail
           echo "========================================"
