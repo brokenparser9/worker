@@ -339,3 +339,14 @@ https://www.bbc.com/news
 https://blog.cloudflare.com/page-shield-connection-monitor/
 https://docs.broadcom.com/docs/istr-08-april-apj-en
 https://apps.apple.com/us/app/mychart/id382952264
+https://stackoverflow.com/questions/396164/exposing-database-ids-security-risk?__cf_chl_rt_tk=VmWAR1LIysZ9IOX.PCFtoWwSxgoWjzoyhfYR9ZPILAI-1789095662-1.0.1.1-awIyI6l9PljxODNNyROfju9Z5D18EGDzm3ItvioWpeE
+https://stackoverflow.com/questions/13114185/how-can-you-check-if-a-php-session-exists?__cf_chl_rt_tk=h7hzdb30w9s8wS20zdlBOPGWU0Z15Jsaa.Dq6avdOyU-1789095687-1.0.1.1-b3HuCaft9mgprYn0WIkKcessJ.iIGgdmymip.bPmP0U
+https://www.sec.gov/Archives/edgar/data/1974044/000119312523236895/d497333df4a.htm
+https://www.facebook.com/9to5mac/posts/jamf-threat-labs-spotted-a-clickfix-style-malware-attack-hiding-in-a-sponsored-a/1596953638464661/
+https://www.sec.gov/Archives/edgar/data/764180/000121465921004287/p419211px14a6g.htm
+https://techdocs.f5.com/
+https://www.cisa.gov/
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-12-1-6.html
+https://www.cisa.gov/news-events/bulletins/sb25-069
+https://blog.cloudflare.com/building-privacy-into-internet-standards-and-how-to-make-your-app-more-private-today/#:~:text=All%20information%20about%20the%20client's,are%20hidden%20from%20Privacy%20Gateway.
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-14-1-4-3.html
