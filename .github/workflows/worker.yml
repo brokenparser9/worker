@@ -125,10 +125,23 @@ jobs:
           playwright install --with-deps chromium
           sudo apt-get update
           sudo apt-get install -y xvfb unzip wget tesseract-ocr
-          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb \
-            -O /tmp/chrome.deb
-          sudo apt-get install -y /tmp/chrome.deb || true
-          google-chrome --version || true
+
+          # ── PINNED Chrome 136 (Chrome for Testing) ─────────────────────
+          # google-chrome-stable_current now ships 153+, which kills the
+          # Raptor MV3 service worker mid-importScripts ("message port
+          # closed") — the extension is a 136-era artifact. Pinning also
+          # makes the worker's Chrome/136 UA string honest instead of a
+          # bot-detection mismatch. Google hosts every past build forever:
+          CHROME_VERSION="136.0.7103.113"
+          wget -q "https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}/linux64/chrome-linux64.zip" \
+            -O /tmp/chrome-cft.zip
+          unzip -q /tmp/chrome-cft.zip -d /tmp/chrome-cft
+          sudo ln -sf /tmp/chrome-cft/chrome-linux64/chrome /usr/bin/google-chrome
+          sudo ln -sf /tmp/chrome-cft/chrome-linux64/chrome /usr/bin/google-chrome-stable
+          google-chrome --version
+          test "$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')" = "${CHROME_VERSION}" \
+            || { echo "::error::Chrome pin failed — version mismatch"; exit 1; }
+          echo "Chrome pinned to ${CHROME_VERSION} — Raptor-era build"
 
       - name: Install cloudflared
         run: |
