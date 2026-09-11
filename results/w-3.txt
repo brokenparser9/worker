@@ -408,3 +408,15 @@ https://stackoverflow.com/questions/44354421/how-to-embed-youtube-live-chat-with
 https://apps.apple.com/us/app/publica-la-reader/id1601992631
 https://unit42.paloaltonetworks.com/
 https://unit42.paloaltonetworks.com/exploits-interactsh/
+https://serverfault.com/questions/763719/setting-php-value-in-virtualhost-on-debian-squeeze-apache-2-4-10-mod-proxy-fcg?__cf_chl_rt_tk=QZjJ_MP9gwHdBnDOiYlqD_LRZq5dcTCmZGdDffDMnR8-1789095948-1.0.1.1-uKggHvYMC969PQhqXhtCHw7By0AU_ieWdciholuQV30
+https://www.24h-lemans.com/
+https://www.ferry.nyc/
+https://escholarship.org/
+https://www.abstractapi.com/
+https://ccs-specs.icpc.io/
+https://serverfault.com/
+https://www.quora.com/How-can-I-determine-which-web-server-a-particular-website-is-using-Apache-IIS-Nginx-etc
+https://www.24h-lemans.com/en
+https://escholarship.org/content/qt9cc8n1k4/qt9cc8n1k4_noSplash_47d2620794535a736d39f53ff185af2c.pdf
+https://www.abstractapi.com/guides/ip-geolocation/how-to-get-an-ip-address-using-php
+https://ccs-specs.icpc.io/2023-06/contest_api
