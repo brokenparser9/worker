@@ -428,3 +428,7 @@ https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnot
 https://www.reddit.com/r/homelab/comments/1myupbf/bots_kept_hitting_my_server_so_i_built_a_wall_of/
 https://blog.cloudflare.com/introducing-1-1-1-1-for-families/
 https://www.reddit.com/r/selfhosted/comments/bkgzmc/haproxy_broke_my_calibre_server/
+https://www.google-dorking.com/
+https://www.rbcafe.com/
+https://www.google-dorking.com/2022_10_23_archive.html
+https://www.rbcafe.com/security/google-dorking-great-list-4448-google-dorking/
