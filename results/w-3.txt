@@ -303,3 +303,8 @@ https://www.xero.com/
 https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-significantterms-aggregation
 https://blog.cloudflare.com/sandbox-auth/
 https://edu.chainguard.dev/chainguard/containers/building-and-modifying/packages/private-apk-repos/
+https://www.youtube.com/watch?v=_KzObeom88Y
+https://forums.unraid.net/topic/89502-support-a75g-repo/page/20/
+https://asprunner.com/forums/topic/31160-PDF-filename
+https://jon.sprig.gs/blog/post/category/what-i-did-last-week
+https://docs.mixpanel.com/docs/tracking-methods/sdks/android
