@@ -1071,3 +1071,10 @@ https://www.php.net/ChangeLog-7.php
 https://docs.phpmyadmin.net/en/latest/faq.html
 https://gist.github.com/madalin-dogaru/2b3ef5fec1f2b8a849e042e5fb3d3367
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://content.next.westlaw.com/practical-law/document/Ibb0a13fdef0511e28578f7ccc38dcbee/Proxy-Statement?viewType=FullText&transitionType=Default&contextData=%28sc.Default%29&__cf_chl_rt_tk=LO3J9iKkq_CHR9Cuewf5u1y_Ads.ASszXoi_s9_ifUw-1789095980-1.0.1.1-eybGqGku7vdW.r41MPXcOmOMFYPlNj4bpqv1JeYRn_s
+https://content.next.westlaw.com/
+https://www.law.cornell.edu/
+https://guides.ll.georgetown.edu/
+https://investor.pagaya.com/
+https://www.law.cornell.edu/wex/proxy_statement
+https://guides.ll.georgetown.edu/companyresearch/annual-reports
