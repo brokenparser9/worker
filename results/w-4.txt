@@ -983,3 +983,11 @@ https://www.php.net/manual/en/book.intl.php
 https://www.quora.com/How-do-I-view-a-PHP-source-code-of-a-website-just-like-we-see-the-HTML-and-other-codes
 https://pubmed.ncbi.nlm.nih.gov/help/
 https://stackoverflow.com/error
+https://stackoverflow.com/questions/36577020/php-failed-to-open-stream-no-such-file-or-directory?__cf_chl_rt_tk=WitZzYR2BhCphH5OrcOt_thzN7hFi.91_MybRm7svfk-1789095793-1.0.1.1-sBwy5nP4kZC4bTNKTjR.3oJ6ePRWtgg79DGtW1lD0oI
+https://stackoverflow.com/questions/45901342/how-to-include-php-code-in-an-url?__cf_chl_rt_tk=7lpx4kN4fckdiNQffiFFXQYlxyBSXzzyeeM7BDllSyI-1789095793-1.0.1.1-043UqJDLHzQY35iabR2dbyQSv8oqKeqkOtSFCAWmKHI
+https://stackoverflow.com/questions/6768793/get-the-full-url-in-php?__cf_chl_rt_tk=9myxiG5vrOHpYhMf1LGeyYoq83r4h5EAVu1qCppwQP0-1789095793-1.0.1.1-1jhAsSot1J9z9MKKs1egSvHH72EfM6klkaesCxzh1Jw
+https://stackoverflow.com/questions/75280273/how-to-install-and-enable-php-ext-exif-on-github-codespace-linux?__cf_chl_rt_tk=f6DcWTsu_FkuHyRIVgjIVxGgkJR.x8jUbqXkVBYeRSc-1789095793-1.0.1.1-HdHVMLEeD_wrXqpmiTXLg1WPX60JXktd1MOtH12vm.0
+https://stackoverflow.com/questions/1646514/apache-reverse-proxy-authentication-via-php?__cf_chl_rt_tk=ic7X2281Y8jqewN3TglPzwYlb1A2lLQ9mL.J31keYHQ-1789095794-1.0.1.1-dRnkFkYN9DzdLMCNARn53Q2IcjbXUPJvEoL8o3Ew7LQ
+https://stackoverflow.com/questions/858357/detect-clients-with-proxy-servers-via-php?__cf_chl_rt_tk=9AhaHnaAX3PQWvXboj0o2HVBB_4wVb8n7MP7bpSxK.A-1789095794-1.0.1.1-i0XCKkDycNhHhoSeyM7P2csVTZoH7XpmWFmI12O7tzY
+https://stackoverflow.com/questions/21484118/how-to-extract-variable-part-from-url-and-how-to-know-if-url-variable-is-appende?__cf_chl_rt_tk=2ey1pupkbTIZDO43KcNGhHnMWcgZgir7c3m9U2xLamg-1789095794-1.0.1.1-_6KVsku3SBo6rObZo3tUo4PZX9DXXIWsSKXQs2RiD_s
+https://stackoverflow.com/questions/36971816/php-check-value-against-multiple-values-with-or-operator?__cf_chl_rt_tk=c4A_2nsLfSKetqhEuQSSynya4NSm8kTb78dZJnnN51M-1789095794-1.0.1.1-fQciPqTF9fsDnKYBtYUjeaEfiWhZW4Gav9eu8ILTwI8
