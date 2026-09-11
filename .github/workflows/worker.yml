@@ -13,11 +13,6 @@ on:
         required: true
         default: "5"
         type: string
-      delay:
-        description: "Delay seconds between pages"
-        required: true
-        default: "4"
-        type: string
       job_id:
         description: "Brain Hub job ID"
         required: false
@@ -42,21 +37,17 @@ jobs:
         env:
           WORKERS: ${{ inputs.workers }}
           PAGES: ${{ inputs.pages }}
-          DELAY: ${{ inputs.delay }}
         run: |
           set -euo pipefail
           python3 - <<'PY'
           import os, sys
           workers = int(os.environ["WORKERS"])
           pages = int(os.environ["PAGES"])
-          delay = float(os.environ["DELAY"])
           if not 1 <= workers <= 15:
               print("::error::workers must be 1-15"); sys.exit(1)
           if pages < 1:
               print("::error::pages must be >=1"); sys.exit(1)
-          if delay < 0:
-              print("::error::delay must be >=0"); sys.exit(1)
-          print(f"workers={workers} pages={pages} delay={delay}")
+          print(f"workers={workers} pages={pages}")
           PY
       - name: Build worker matrix
         id: matrix
@@ -227,7 +218,6 @@ jobs:
           WORKER: ${{ matrix.worker }}
           WORKERS: ${{ inputs.workers }}
           PAGES: ${{ inputs.pages }}
-          DELAY: ${{ inputs.delay }}
           EXTENSION_PATH: /tmp/free-ai-recaptcha-solver
           CAPTCHA_SOLVER: "CaptchaRaptor WS"
           CAPTCHA_PLUGIN_API_KEY: ${{ secrets.CAPTCHA_PLUGIN_API_KEY }}
@@ -236,7 +226,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "========================================"
-          echo "          DORK SWARM WORKER v5.0"
+          echo "          DORK SWARM WORKER v6.1"
           echo "     (text -> Raptor -> tunnel)"
           echo "========================================"
           test -f worker/worker.py
